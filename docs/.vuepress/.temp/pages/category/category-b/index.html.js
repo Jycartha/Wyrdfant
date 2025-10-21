@@ -1,4 +1,4 @@
-import comp from "/home/devinr/Documents/Wyrdfantd/docs/.vuepress/.temp/pages/category/category-b/index.html.vue"
+import comp from "/home/devinr/Documents/Wyrdfant/docs/.vuepress/.temp/pages/category/category-b/index.html.vue"
 const data = JSON.parse("{\"path\":\"/category/category-b/\",\"title\":\"Category Category B\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Category Category B\",\"sidebar\":false,\"blog\":{\"type\":\"category\",\"name\":\"Category B\",\"key\":\"category\"},\"layout\":\"Category\"},\"headers\":[],\"git\":{},\"filePathRelative\":null,\"excerpt\":\"\"}")
 export { comp, data }
 

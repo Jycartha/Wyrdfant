@@ -1,0 +1,62 @@
+<template><div><h2 id="familial-genetics" tabindex="-1"><a class="header-anchor" href="#familial-genetics"><span>Familial Genetics</span></a></h2>
+<h3 id="eye-color" tabindex="-1"><a class="header-anchor" href="#eye-color"><span>Eye Color</span></a></h3>
+<p>The eye color of a sentient being is incredibly complex, due to a structurally-colored array of pigments being best at deterring [[Soulfire#Sparks|sparks]]. One gene controls lycopene, one controls lipochrome. Notably, the yellow pigment is polar, and pushed into flakes when lycopene is present</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">More of either pigment means higher clarity spark sight.</th>
+<th>PP (Deep gold)</th>
+<th style="text-align:center">Pp (A little yellow)</th>
+<th style="text-align:center">pp (No yellow, blue light from Rayleigh scattering)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">LL (Dark red)</td>
+<td>Garnet (Flakes of bright red and gold)</td>
+<td style="text-align:center">Wine (Flakes of gold)</td>
+<td style="text-align:center">Amethyst</td>
+</tr>
+<tr>
+<td style="text-align:center">Ll (Some red)</td>
+<td>Flame (Flakes of gold)</td>
+<td style="text-align:center">Azure (Flakes of gold)</td>
+<td style="text-align:center">Raspberry</td>
+</tr>
+<tr>
+<td style="text-align:center">ll (No red, blue from rayleigh, result = light blue)</td>
+<td>Honey</td>
+<td style="text-align:center">Green</td>
+<td style="text-align:center">Blue</td>
+</tr>
+</tbody>
+</table>
+<h3 id="hair-color" tabindex="-1"><a class="header-anchor" href="#hair-color"><span>Hair Color</span></a></h3>
+<p>Hair color in [[Consciousness]] is provided mainly by anthocyanins, although guanine powder remains from the skin. The specific anthocyanins are malvidin and cyanidin. The mixture of these, combined with lightening/sparkling by guanine, defines hair color. While hair color is far more of a spectrum than eye color, ranging the whole anthocyanin range of <a href="https://www.researchgate.net/profile/Joel-Ochieng/publication/236146371/figure/fig1/AS:442498356125697@1482511237792/Visible-color-range-of-common-anthocyanidins.png" target="_blank" rel="noopener noreferrer">red to violet to blue, as well as orange and black</a> (a notable hereditary mutation is the production of pelargonidin, producing orange and brown hues), a chart is still useful as some variants are dominant. One gene controls the acidity of the hair, while the other controls whether cyanidin is manufactured or not. Additionally, the below chart only indicates hues. The pigment density can affect the apparent color.</p>
+<table>
+<thead>
+<tr>
+<th>Note: Hair color follows much more of a &quot;gradient&quot; pattern. This is more of a guideline as to what colors are possible.</th>
+<th style="text-align:center">AA (Basic pH)</th>
+<th style="text-align:center">Aa (Neutral pH)</th>
+<th style="text-align:center">aa (Acidic pH)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MM, Mm (Functioning malvidin production)</td>
+<td style="text-align:center">Sapphire to Obsidian</td>
+<td style="text-align:center">Obsidian to Dark Violet</td>
+<td style="text-align:center">Dark Violet to Ruby</td>
+</tr>
+<tr>
+<td>mm (Broken malvidin production, peonidin excess)</td>
+<td style="text-align:center">Cyan to Wine</td>
+<td style="text-align:center">Wine to Strawberry Blonde</td>
+<td style="text-align:center">Strawberry Blonde to Rose</td>
+</tr>
+</tbody>
+</table>
+</div></template>
+
+

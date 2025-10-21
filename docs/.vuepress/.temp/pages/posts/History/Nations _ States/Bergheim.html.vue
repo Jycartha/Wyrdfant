@@ -1,0 +1,9 @@
+<template><div><h2 id="bergheim" tabindex="-1"><a class="header-anchor" href="#bergheim"><span>Bergheim</span></a></h2>
+<p>A landlocked nation small in scale but noticeable in population, situated among almost the entirety of the Strahlerz mountain range. It has 2 super-large cities, the larger and capital city of Drestog, and the smaller but still large Klifval. Contains almost entirely Schausen, but the majority of the upper class is Marmeial.</p>
+<h3 id="drestog" tabindex="-1"><a class="header-anchor" href="#drestog"><span>Drestog</span></a></h3>
+<p>The gargantuan capital city of Bergheim, which is built into a massive pre-existing cavern supported by numerous ancient pillars. These ancient pillars are, in reality, the remains of a hythean-era facility shielded from the physical effects of Küranna’s Folly by the surrounding mountain rock. It did, however, deposit a great deal of gimyndine in the mountain, in addition to the high density of gimyndized luciants given the nature of the facility.<br>
+The actual nature of the facility was three parts: a long-term storage warehouse for delicate technologies, nuclear waste, and the like, a self-operating hybrid geothermal and nuclear power plant to ensure longevity of operation, and an underground city that arose just outside it as a natural consequence of the two.<br>
+The majority of the actual city of Drestog is located on the ruins of the hythean city proper, in the upper levels of the caverns. The nobility and guild-workers live and operate in the cooler, upper sections, whereas the lower classes find themselves bunching up against the freezing warehouses and sweltering reactors. Some of the more desperate even plunder the warehouses like game dungeons, fighting security droids to bring back marvelous trinkets for sale at the markets.</p>
+</div></template>
+
+

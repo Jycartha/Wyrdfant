@@ -1,4 +1,5 @@
-<template><div><p>This is the content of home page. Check <a href="https://vuejs.press/reference/default-theme/frontmatter.html#home-page" target="_blank" rel="noopener noreferrer">Home Page Docs</a> for more details.</p>
+<template><div><h1 id="welcome" tabindex="-1"><a class="header-anchor" href="#welcome"><span>Welcome!</span></a></h1>
+<p>This will be the future home page, with a short summary of my work, plans, and website structure.</p>
 </div></template>
 
 

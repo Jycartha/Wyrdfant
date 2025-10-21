@@ -1,0 +1,41 @@
+<template><div><h2 id="solar-bodies" tabindex="-1"><a class="header-anchor" href="#solar-bodies"><span>Solar Bodies</span></a></h2>
+<h3 id="glossary-6e1957-reinbrune" tabindex="-1"><a class="header-anchor" href="#glossary-6e1957-reinbrune"><span>[[Glossary#^6e1957|Reinbrüne]]</span></a></h3>
+<p>The only sun of Aliffrüme’s system, it has a mass of 1.46 SM, a radius of 1.13 SR, a surface temperature of 6848K, a spectral peak of 423nm (violet), and a luminosity of 3.76 SL It has a spectral type of F3V.</p>
+<h2 id="planets" tabindex="-1"><a class="header-anchor" href="#planets"><span>Planets</span></a></h2>
+<h3 id="gas-4" tabindex="-1"><a class="header-anchor" href="#gas-4"><span>Gas 4</span></a></h3>
+<p>Orbit: 45.5</p>
+<h3 id="gas-3" tabindex="-1"><a class="header-anchor" href="#gas-3"><span>Gas 3</span></a></h3>
+<p>Orbit: 25.3</p>
+<h3 id="gas-2" tabindex="-1"><a class="header-anchor" href="#gas-2"><span>Gas 2</span></a></h3>
+<p>Orbit: 14.2</p>
+<h3 id="gas-1" tabindex="-1"><a class="header-anchor" href="#gas-1"><span>Gas 1</span></a></h3>
+<p>Orbit: 8.83</p>
+<h3 id="middle-2" tabindex="-1"><a class="header-anchor" href="#middle-2"><span>Middle 2</span></a></h3>
+<p>Orbit: 4.5</p>
+<h3 id="middle-1" tabindex="-1"><a class="header-anchor" href="#middle-1"><span>Middle 1</span></a></h3>
+<p>Orbit: 2.82</p>
+<h3 id="glossary-027ba3-aliffrume" tabindex="-1"><a class="header-anchor" href="#glossary-027ba3-aliffrume"><span>[[Glossary#^027ba3|Aliffrüme]]</span></a></h3>
+<p>The cradle of life in the solar system, a terrestrial planet painted in deep violet retinal-based plant life. It has one stable moon with a mass of 1.1E+23 kg, which is dyed <span style="color:#00ffca">bluish-green</span> and <span style="color:#980000">rust red</span> with copper oxides, water ice, and nickel salts. On the whole, it has a roughly teal shine at night, with notable seas of red around active volcanoes.<br>
+Orbital Radius: 1.58 AU<br>
+Orbital Period: 660.65 days (~2 central semicycles)<br>
+Rotational Period: 24 hours<br>
+Surface Gravity: 1.14 G<br>
+Mass: 1.46 Earth masses<br>
+Radius: 1.13 Earth radii</p>
+<h3 id="swelheorth" tabindex="-1"><a class="header-anchor" href="#swelheorth"><span>Swelheörth</span></a></h3>
+<p>A second planet in the habitable zone; closer, warmer, and smaller. Believed to be the resting place of great heroes.<br>
+Orbital Raidus: 1.11 AU</p>
+<h3 id="inner-4" tabindex="-1"><a class="header-anchor" href="#inner-4"><span>Inner 4</span></a></h3>
+<p>Orbit: 0.8</p>
+<h3 id="inner-3" tabindex="-1"><a class="header-anchor" href="#inner-3"><span>Inner 3</span></a></h3>
+<p>Orbit: 0.5</p>
+<h3 id="inner-2" tabindex="-1"><a class="header-anchor" href="#inner-2"><span>Inner 2</span></a></h3>
+<p>Orbit: 0.321</p>
+<h3 id="inner-1" tabindex="-1"><a class="header-anchor" href="#inner-1"><span>Inner 1</span></a></h3>
+<p>Orbit: 0.165</p>
+<h2 id="notable-objects" tabindex="-1"><a class="header-anchor" href="#notable-objects"><span>Notable Objects</span></a></h2>
+<h3 id="emrall-s-army" tabindex="-1"><a class="header-anchor" href="#emrall-s-army"><span>Emrall’s Army</span></a></h3>
+<p>The colloquial term for the destroyed supermassive ring of Hythean-era satellites surrounding Aliffrüme. As they travel across the sky, they resemble millions of faint emerald glimmers shooting across the heavens, one of many reasons for the association of the color green with holiness and divinity.</p>
+</div></template>
+
+

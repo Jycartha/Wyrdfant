@@ -1,0 +1,82 @@
+
+## Scarlet Wreath
+
+An insurgent, fascist organization within Arenfürich which utilizes a warped vision of the Stormrider period to advocate for a “genetically pure” Arenfürich by expelling luciants and low-resonators, and encouraging the empowerment of strong resonators by careful regulation of the gimyndine supply–portrayed in a non-freedom-limiting way as “giving power to only those worthy of using it, and out of the hands of the Flameless.”
+
+### Platform
+
+The Scarlet Wreath’s main appeal and platform is centered around traditional fascist themes such as old glory (the Stormrider Period: less industrialization \[read: classist against the advancing raincatchers\] and widespread gimyndine use and regulation, with little gimpowder) eugenics for a “pure” nation (eradicating the “Flameless” \[a slur for luciants and low-resonators\]) and old mythos (a heavy focus on myths surrounding the Stormriders and their valor.)  
+The traditional values of Áren society place a high degree of importance on homogeny, a holdover from the revolutionary days when a push to the last few men necessitated strict unification. This led to a general valuing of communalism, and the view of those unable to fill their role in the expected way as outcasts.
+
+## Guild of the Twelve
+
+Commonly referred to as the Twelves, it is the biggest “union” or “guild” of practicing [[Firekeeper|firekeepers]] in the world. Based on an artificial island in the center of Lake Provenance, they oversee the development of firekeeping technologies and treatment of [[Firekeeper|firekeepers]] for the majority of the western continents. They were first established shortly after the Gimyndine Revolution, as the people began to suspect the [[Firekeeper|firekeepers]] of abusing their power and hunted them. The guild was thus formed by 12 original [[Firekeeper|firekeepers]], six flamescribes and six scriptlighters as a protection pact, though the group quickly expanded until it more resembled the organization present today.
+
+### Fire Names
+
+Members of the Twelves have an official “fire name” to identify their rank and person, consisting of two parts. The first, their rank; the second, a personally chosen word. This system was originally to protect the identities of [[Firekeeper|firekeepers]] during the last embers of the gimynhunt era, and largely remains out of tradition.
+
+### Scriptlighter Ranks
+
+Scriptlighter ranks are gained when one is able to best a member of their own rank in an official lighter’s duel, granting them ascension to the next. If they beat a member of a higher rank, they ascend to the rank above that. Losing a rank only occurs when losing to a lower rank, not to a same-rank. A list of ranks is as follows:
+
+1. **Disciple** \- The highest rank, only attainable by besting a current Disciple. Due to the original rank belonging to the personally chosen successor of each founding member, there are always exactly 12 disciples in the organization. Notably, the disciple's titles follow the unique pattern of Disciple \[NAME\] of \[FOUNDER\] 
+
+2. **Professor** \- The second highest rank, there are 49 in the world. Typically directly apprenticed to the Disciple of their chosen field.
+
+3. **Mentor** \- The third highest rank, there are 343 in the world.
+
+4. **Highkeeper** \- The fourth highest rank, there are around 2,500 in the world. This marks the beginning of the “elite.”
+
+5. **Lowkeeper** \- The 3rd lowest rank, there are around 17,000 in the world.
+
+6. **Student** \- The 2nd to lowest rank, there are over 100,000 in the world.
+
+7. **Initiate** \- The lowest rank, there are around a million in the world.
+### Known Disciples and Archmentors
+
+* **Deus Magicus Asclepia** \- Real name Küranna, an ancient nebvoltsi who is only referred to in guild canon. Many believe them to be a symbolic figure, emblematic of what the Twelves hope to become.
+
+* **Disciple Bismithius of Alakon** \- Real name King Alexander V of Ceauvia, a Leaudoré male.
+## The Nine Disciplines
+
+  Meritocracy in Bergheim is largely represented by the Nine Disciplines, the largest guilds of the most respected professions. These professions each elect their leaders by annual relevant tournaments, and the leader is responsible for governing their respective sector under the supervision of the king.
+
+  Most well-known among the Nine Disciplines is the craft of kindlegems. In addition there is gimyndine engineering, artifice, gimyndine mining, and scriptcraft. The remaining mundane four are agriculture, military, artistry, and study.
+### The Royal Seat
+
+  Most notably, the monarch and rulership are treated as the 0th discipline, and in addition to primogeniture a prospective monarch must pass the King’s Gauntlet. Technically, any citizen of Bergheim can challenge the current monarch and seize the throne by claiming victory. The royal succession then uses them as a zero point and continues until the next disruption. However, the consequences of failing are complete banishment, and so no family in recent history has challenged house saun Weilz.
+
+### The Sons of Gondoe
+
+  The 1st seat of the nine disciplines, and the largest guild of artificers in Bergheim. Currently headed by the Weilshauz family, a close one to the royal family.
+
+### Hrunda’s Union
+
+  The 2nd seat of the nine disciplines, most prominent among the guilds of Bergeim flamescribes. Led by the Bersedt clan, with clan matriarch Erstin Bersedt. Specializes in scriptcraft, and as such is a majority female guild.
+  ## Academia
+
+### Witafjürgen University
+
+An institution nearly as old as Jïumannes itself, Witafjürgen University is an institution of higher learning and professional association located within the holy mountains of Tuihorm, and established by Fyrehter Witacruf with a number of academic and firekeeping professionals. In keeping with the meaning of its name, a “Forest of the Wise,” Witafjürgen’s principal purpose is as a professional group of [[Firekeeper|firekeepers]] and academics, which has a secondary purpose of teaching and screening potential new members of the group.
+
+Witafjürgen is composed of six individual colleges, each dedicated to one area of research, and founded by one of Witacruf’s associates. Each college includes and manages their own undergraduate and graduate education, research, and professional unions. The main connecting line is their organizational structure, with each college being led by a master and their head professors (“tenures” in the vernacular), further subordinated by regular professors. The master of each college then serves on a board, which meets with the Grandmaster to decide on matters relating to the whole university.
+
+In no particular order, the colleges are the: 
+
+* Leombjürna College of Hagnomists  
+* Nichtfryth College of Soulsmiths  
+* Tdahiya College of Scribes  
+* Skógrekin College of Flamebearers  
+* Krifcalon College of Lapidaries  
+* Eglavoé College of Artificers
+
+## Cavern Gangs
+
+### General Summary
+
+  Throughout the city of Drestog are groups of people called “caverunners,” criminals that perform everything from petty theft to grand larceny and escape by the labyrinthian network of old caves and ancient facilities beneath the city, which contain strange technology that operates like artifice firekeeping without the use of gimyndine. Some groups are even known to specialize in collecting ancient trinkets or weapons.
+
+### Nachstein
+
+  A large gang centered around the retrieval and sale of intact ancient artifacts from the Warehouse section of the ruins.

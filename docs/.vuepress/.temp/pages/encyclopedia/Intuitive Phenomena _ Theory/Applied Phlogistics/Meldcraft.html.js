@@ -1,0 +1,16 @@
+import comp from "/home/devinr/Documents/Wyrdfant/docs/.vuepress/.temp/pages/encyclopedia/Intuitive Phenomena _ Theory/Applied Phlogistics/Meldcraft.html.vue"
+const data = JSON.parse("{\"path\":\"/encyclopedia/Intuitive%20Phenomena%20_%20Theory/Applied%20Phlogistics/Meldcraft.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"Meldcraft\",\"slug\":\"meldcraft\",\"link\":\"#meldcraft\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"encyclopedia/Intuitive Phenomena & Theory/Applied Phlogistics/Meldcraft.md\",\"excerpt\":\"<h3>Meldcraft</h3>\\n<p>A discipline which takes advantage of coupling’s ability to mix and shuffle molecular bonds for alloying, engineering, and artistic purposes. It is especially common in cultures where scriptlighters are viewed less as tools of war and more tools of convenience, mostly focused in Tohnipras and Riihya.</p>\"}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
