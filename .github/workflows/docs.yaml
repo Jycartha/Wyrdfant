@@ -6,11 +6,11 @@ name: CI
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
     paths: 
       - docs/**
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
     paths: 
      - docs/**
 
