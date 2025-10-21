@@ -1,6 +1,0 @@
-<template><div><h3 id="ghostbreathing" tabindex="-1"><a class="header-anchor" href="#ghostbreathing"><span>Ghostbreathing</span></a></h3>
-<p>The process of ghostbreathing, referred to in euphemism as &quot;playing the keeper's gambit,&quot; is a process by which a [[firekeeper]] takes gimynfire directly into their own flesh and bone, infusing it into their very bodies. To them is granted a nigh-transcendent, even surrealist familiarity with the power that now engorges their veins, allowing for sublime masterworks of what seems divinely-imagined scriptcraft and elegant movements of tremendous force and velocity.</p>
-<p>The cost, however, is titanic to match. The longer a keeper sustains the gambit, the further their body hardens and turns to lifeless gimyndine, crystallizing into a stone which will hold the very power they are devouring so greedily in the moment. Not only that, but each moment the state is held is accompanied by a flash of foreign memory; a sensation not of one's own mind, but of the fire they siphoned. With repeated uses of the technique–if one is lucky enough to survive the first usage–one may even slowly lose the ability to distinguish between the whispers of the stone and the memories of the real. Slowly–imperceptibly, but inevitably–one becomes another. The stone lives in torment. This is how one joins them.</p>
-</div></template>
-
-

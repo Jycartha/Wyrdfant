@@ -1,5 +1,0 @@
-<template><div><h3 id="spin-friction" tabindex="-1"><a class="header-anchor" href="#spin-friction"><span>Spin Friction</span></a></h3>
-<p>Similar to particle physics, the “spin” of [[Soulfire|soulfire]] refers to, in a sense, its angular momentum. Spin is imparted upon [[Infusion|infused]] soulfire through the addition of a twisting force to radial compression, and higher spin soulfire has the property of a higher “static friction” when infused. That is, it “sticks” better before an applied [[Intention Field|conscious force]] detaches it. The main limitation of many kinematic systems involving [[The Phlogistic Model|phlogistics]] is the magnitude of this spin friction, as it limits the upper bound of force that can be applied reliably, thus limiting the weight of manipulable objects.</p>
-</div></template>
-
-
