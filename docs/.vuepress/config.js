@@ -11,7 +11,7 @@ export default defineUserConfig({
   base: "/Wyrdfant/",
 
   theme: defaultTheme({
-    logo: 'assets/12prongBackground.png',
+    logo: 'images/12prongBackground.png',
 
     navbar: [
       '/',
