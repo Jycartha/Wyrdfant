@@ -11,21 +11,28 @@ export default defineUserConfig({
   base: "/Wyrdfant/",
 
   theme: defaultTheme({
-    logo: '/images/12prongBackground.png',
+    logo: '/images/12prongCyanRound.png',
 
     navbar: [
-      '/',
       {
-        text: 'Article',
+        text: 'Updates',
         link: '/article/',
       },
       {
-        text: 'Category',
-        link: '/category/',
+        text: 'Encyclopedia',
+        link: '/encyclopedia/',
       },
       {
-        text: 'Tag',
+        text: 'Writings',
+        link: '/writings/',
+      },
+      {
+        text: 'By Tag',
         link: '/tag/',
+      },
+      {
+        text: 'By Category',
+        link: '/category/',
       },
       {
         text: 'Timeline',
