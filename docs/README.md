@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: images/12prongBackground.png
+heroImage: /images/12prongBackground.png
 actions:
   - text: Get Started
     link: /get-started.html
