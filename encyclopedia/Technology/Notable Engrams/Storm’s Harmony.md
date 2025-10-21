@@ -1,9 +1,0 @@
-### Storm’s Harmony
-
-One of the more ornamental [[Engram|engrams]], it was designed by [[Consciousness#Kuthjïuman|Áren]] flamescribe [[Ashjërunei Riemend]] as a gift for [[Reinlutre]] during the Welatorhith Kindling Ceremony of 1008 AL. The engram’s function is to conjure a rainharp by catching rain from around the lighter, freezing the strings into glass-like ice. The rainharp can then be played like any other of its kind, and it produces a deep aquatic tone unique to the instrument, but this is not the engram’s main feature.   
-
-Upon the direction of the lighter, rain can be slowed and captured into an acoustic array of floating water orbs glowing with [[Soulfire]], producing sound by vibrating the heavy minerals in the rain. The orbs can also be united into concentric rings of softly illuminating singing water, a tool only useful in the hands of an expert.  
-
-The engram takes inspiration from other rainharp engrams–which were a common gift to musician spouses–but employs complicated techniques and almost seems to contain engrams within engrams as a customary display of skill for the [[Traditions#Bond Festival|Kindling Ceremony]].  
-
-The engram’s true beauty, however, lies in the efficiency of the [[Flamescript]]. To accomplish its effects with traditional scribing techniques would require a prohibitive amount of [[Soulfire|gimynfire]] only handleable by a [[Organizations#**Scriptlighter Ranks**|highkeeper]], but the engram is accessible with as little as a [[Gimyndine|palestone]]. This enables a performance to last as long as the musician can think of music, appealing directly to extended soloists and symphonies, something previously unheard of for orchestras incorporating instruments operating with firekeeping.

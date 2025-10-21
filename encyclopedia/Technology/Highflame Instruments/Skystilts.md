@@ -1,9 +1,0 @@
-### Skystilts
-
-A common technology used by Halanian scriptlighters as a substitute for–and in many ways upgrade to–domesticated rideable animals or vehicles. Varying from little but wide metal bands harnessing the user to full suits granting the defense of an iron mountain, the uses of skystilts vary from mail carrying to martial domination. The most common design of skystilts is of a high-carbon alloyed metal melded with coalwire, fitted with various kindlegems for maneuverability and defense. Common examples include arrow-catchers, wind shields, brush-clearers, and drive assist.  
-  
-Lightweight skystilts, often called “spring legs,” are used by imperial couriers and war-lighters who prefer a speedier way of combat. They are characterized by wide metal bands running the length of the user as a harness, long spring-like stilts, and expandable gliding wings that also cut down brush and work as shields. Inbuilt kindlegems often focus on enhancing agility, endurance, and speed, making them suited to long-distance personal travel and fast-paced combat.  
-
-Middleweight skystilts, called "iron legs," are characterized by metal plates mixed with brigandine and chainmail. A common accessory is a chain-whip for brush-clearing and grappling, or a chainmail cloak as a faraday cage. They are less suited to speedy maneuvers, but boast a much higher gimynfire tolerance and defense.  
-  
-Heavyweight skystilts, or "tree legs," are known for their imposingly wide figure, covered head to toe in interlocking plate. Virtually all the suit's mobility is put into counteracting the weight of the metal, leaving it grounded most of the time. But due to their large weight, they can take hold of much more massive coupled objects for use in siege or defense. Heavier models have even been known to lift house-sized boulders while using blazestones.

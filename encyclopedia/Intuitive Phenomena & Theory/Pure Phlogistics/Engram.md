@@ -1,9 +1,0 @@
-### Engram
-
-An engram is any fully self-contained program for [[Soulfire]] manipulation, typically encoded within [[Flamescript]] to produce a complex effect like state manipulation, chemical processing, or algorithmic computation. Each is further classified according to their modus operandi: 
-
-Alteration engrams manipulate soulfire distribution within a localized section to increase their [[Soul|soul’s]] influence, in order to influence the local rules of state evolution. When applied to the wider [[Conscious Plane|plane]], they cause local distortions in the laws of physics, and are called tuner engrams. These typically present in the form of modifying the relative strength of phenomena, such as weakening gravity or changing the relation between energy and momentum. However, alterations have no theoretical limit, and could completely replace local physics with enough effort.
-
-There is a special classification for alteration engrams performed within a soul plane: epistemic engrams. These bend the conscious plane within for the purpose of altering cognitive processes, and primarily deal with the processing of mental information, including sensory reprocessing, data formatting, algorithmic manipulation, and further computational processes. Such engrams form the foundation for modern analytical procedures, and as such are commonly used by scribes, but can also find use in sensory enhancers for warriors or artists, or improved everyday memory.
-
-Infusion engrams, in contrast, infuse soulfire to become manipulable, pluripotent energy. Within a soul plane, driver engrams provide strength, speed, and regeneration. Without the soul plane, striker engrams induce motion in objects, particles, and fields in contact with the user’s halo.

@@ -1,3 +1,0 @@
-### Coalescence
-
-An attractive force occurring whenever [[Soulfire]] ([[Infusion|infused]] or uninfused) draws near infused soulfire with a higher [[Spin Friction|spin]]. Spun, infused soulfire in the pattern of an [[Engram]], also known as [[flamescript]], has the property of bending uninfused soulfire along with its pattern, manifesting the effects of the engram within the flamescript. Put another way, spun soulfire pulls nearby free soulfire into its shape, often imparting some kind of energy on matter along the path as it infuses. Highly soulfire-efficient, but highly complex and prone to unexplainable errors. Practically, this allows for the creation of soulfire currents and energy manipulation without conscious intention.
