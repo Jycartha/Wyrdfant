@@ -13,6 +13,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: '/images/12prongCyanRound.png',
 
+    contributors: false,
     navbar: [
       {
         text: 'Updates',
@@ -20,7 +21,7 @@ export default defineUserConfig({
       },
       {
         text: 'Encyclopedia',
-        link: '/encyclopedia/',
+        link: '/encyclopedia/merged.md',
       },
       {
         text: 'Writings',

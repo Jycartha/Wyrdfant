@@ -5,7 +5,7 @@ aliases:
 ---
 # Firekeeper  
 
-One who practices [[firekeeping]], including the creation of [[Engram|engrams]] or their implementation, medicine through assisted assertion, or any other such broad fields. Shortened to "Kpr." in writing.
+One who practices [firekeeping](Applied%20Phlogistics/Firekeeping.md), including the creation of [[Engram|engrams]] or their implementation, medicine through assisted assertion, or any other such broad fields. Shortened to "Kpr." in writing.
 
 ## Gimynkeeper
 

@@ -1,11 +1,11 @@
 // === colors ===
 :root {
   // accent colors
-  --vp-c-accent: #299764;
-  --vp-c-accent-bg: #3eaf7c;
-  --vp-c-accent-hover: #4abf8a;
+  --vp-c-accent: #e48512;
+  --vp-c-accent-bg: #e48512;
+  --vp-c-accent-hover: #964A7B;
+  --vp-c-accent-soft: rgb(16 185 129 / 16%);
   --vp-c-accent-text: var(--vp-c-white);
-  --vp-c-accent-soft: rgb(16 185 129 / 14%);
 
   // background colors
   --vp-c-bg: #fff;
@@ -13,7 +13,7 @@
   --vp-c-bg-elv: #fff;
 
   // text colors
-  --vp-c-text: rgb(60 60 67);
+  --vp-c-text: #560986;
   --vp-c-text-mute: rgb(60 60 67 / 78%);
   --vp-c-text-subtle: rgb(60 60 67 / 56%);
 
@@ -80,13 +80,13 @@
 }
 [data-theme='dark'] {
   // brand colors
-  --vp-c-accent: #3dd68c;
-  --vp-c-accent-bg: #3aa675;
-  --vp-c-accent-hover: #349469;
+  --vp-c-accent: #e48512;
+  --vp-c-accent-bg: #e48512;
+  --vp-c-accent-hover: #964A7B;
   --vp-c-accent-soft: rgb(16 185 129 / 16%);
 
   // background colors
-  --vp-c-bg: #27143e;
+  --vp-c-bg: #1f152b;
   --vp-c-bg-alt: #171618;
   --vp-c-bg-elv: #202127;
 
@@ -96,11 +96,11 @@
   --vp-c-text-subtle: rgb(235 235 245 / 38%);
 
   // border colors
-  --vp-c-divider: #2e2e32;
-  --vp-c-border: #3c3f44;
+  --vp-c-divider: #472555;
+  --vp-c-border: #603472;
   --vp-c-border-hard: #45484e;
 
-  // shadow color
+  // shadow colors
   --vp-c-shadow: rgb(0 0 0 / 30%);
 
   // control colors

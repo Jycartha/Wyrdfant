@@ -2,7 +2,8 @@
 home: true
 title: Home
 heroImage: /images/12prongCyanRound.png
-tagline: null
+tagline: Do stay a while, if you would
+heroText: The Soapbox
 actions:
   - text: Updates
     link: /posts/
