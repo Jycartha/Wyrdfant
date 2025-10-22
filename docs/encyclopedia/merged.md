@@ -1,3 +1,6 @@
+---
+title: Merged Wiki
+---
 ## Arteries
 
 An organization of luciant, farming monks that operates all over Halisan. Because dyed gimynfire can contaminate foodstuffs, it is very dangerous to ever mix the two, and so many societies struggle to develop farming technology that either exceptionally secures dyed gimynfire from leaking or doesn't rely on it. The Kuthjïuman solution to this problem, in accordance with their land-revering culture, is to have an entirely distinct caste of luciant farmers, who forswear gimyndine and train their bodies to supramortal levels in order to serve the land.   

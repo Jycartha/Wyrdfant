@@ -1,3 +1,6 @@
+---
+title: Glossary
+--- 
 ## General Transcription
 
 ### Palatal Approximant (Y in “yours”)
