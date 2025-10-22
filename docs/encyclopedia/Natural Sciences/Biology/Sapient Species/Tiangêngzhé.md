@@ -1,4 +1,4 @@
-## Tiangêngzhé
+# Tiangêngzhé
 As a species, the main strength of the [[Glossary#^fe6428|Tiangêngzhé]] is their extreme compatibility with gimynfire and ghostbreathing. Their main adaptation is inbuilt pneumivorous pigments, allowing them to work long hours without food
 
 Their pigments are exceptionally absorptive, and their bodies also seasonally purge and cycle them, which also happens to align with the pH cycle of many tropical climates.

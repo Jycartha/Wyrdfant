@@ -1,4 +1,4 @@
-### Hagnomy
+# Hagnomy
 
 The study of [[Soulfire]] and [[Conscious Plane]], and how soulfire interacts with itself. It involves the study of [[Engram#Abstraction Drag|abstraction drag]], [[infusion]] techniques, [[Phlogistic Computing]], resonance, [[Soulfire#gimynfire|gimynfire]] control, and other fields. Essentially, hagnomy is to firekeeping like physics is to engineering. 
 

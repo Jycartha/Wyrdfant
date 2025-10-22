@@ -1,4 +1,4 @@
-## Arenfürich
+# Arenfürich
 
 One of the native states of Jïumannes, it contains the entirety of the Arenfürich rainforest and the majority of the Áren people. It borders Tereghda, Tuihorm, and Hynawyll, and has a majority coastline of both the Dreiamis Gulf and the Gedwolmis Gulf. Its capital is Raulhejärga, where the representatives of major city-states meet to discuss national policy and developments.
 

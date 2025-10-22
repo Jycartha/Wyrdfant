@@ -1,4 +1,4 @@
-## Zäkhisny
+# Zäkhisny
 A mountain-born race hailing from the Riihian mountains, the [[Glossary#^a96094|Zäkhisny]] are known for their highly detailed spark vision and notable talent with artifice.
 ### Schausen
 The Schausen (lit. “Black eyes”) are an ancient race that inhabit the Strahlerz Mountains in southern Riihiya. Their skin is pitch black, while also being rich in guanine, lending it an odd iridescent shimmer. This guanine layer reflects sparks away from the body, as opting for absorption in such a saturated environment would be catastrophic.  

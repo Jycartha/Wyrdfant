@@ -1,3 +1,4 @@
+# Phlogistic Computing
 Phlogistic computing is the practice of careful, deliberate control over the motions of soulfire for the purposes of computation. The structured engram responsible for abstracting such computation is referred to as a thought engine. It is sometimes thought that the human brain encodes a thought engine of some kind.
 %%
 Analog computer: turns continuous input signals into continuous output signals.

@@ -1,4 +1,4 @@
-### Central Calendar
+# Central Calendar
 
 The universally employed calendar system of Aliffrüme, and a relic from the Hythean Era. It contains 660 days split into a sequential summer and winter semicycle, each with 9 months of 36 days and one intercalary week; all split into weeks of 6 days. A full cycle of the calendar is called a twïchircul, in Halanian. Every 20 cycles, a leap month consisting of 13 days is added to account for drift. The months, in Halanian, are as follows:
 

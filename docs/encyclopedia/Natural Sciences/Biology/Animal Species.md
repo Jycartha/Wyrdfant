@@ -1,4 +1,4 @@
-## Animal Species
+# Animal Species
 
 ### Whale-eaters
 

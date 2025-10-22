@@ -1,4 +1,4 @@
-### Flash Quartz
+# Flash Quartz
 
 A variety of quartz used widely by [[Flamescribe|flamescribes]] and artificers as a sort of temporary medium for work-in-process [[Engram|engrams]]. It is artificially made by carefully melding pure sand into a near-perfect crystal structure, resulting in crystals which provide a low flashpoint and lower cost, if only presenting a passable permanence.  
 

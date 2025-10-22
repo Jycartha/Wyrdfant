@@ -1,4 +1,4 @@
-### Ghostbreathing
+# Ghostbreathing
 
 The process of ghostbreathing, referred to in euphemism as "playing the keeper's gambit," is a process by which a [[firekeeper]] takes gimynfire directly into their own flesh and bone, infusing it into their very bodies. To them is granted a nigh-transcendent, even surrealist familiarity with the power that now engorges their veins, allowing for sublime masterworks of what seems divinely-imagined scriptcraft and elegant movements of tremendous force and velocity. 
 

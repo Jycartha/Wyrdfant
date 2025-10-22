@@ -1,4 +1,4 @@
-## Familial Genetics
+# Familial Genetics
 
 ### Eye Color 
 

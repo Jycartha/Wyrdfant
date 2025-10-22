@@ -1,14 +1,10 @@
-# The Aliffrüme Archive
-
-![Aliffrüme Map Banner](/images/Aliffrume.png)
-
 ---
+title: Preface
+---
+# The Aliffrüme Encyclopedia
+![Aliffrüme Map Banner](/images/Aliffrume.png)
+## Preface
 
-This repository is used as a master trove for all files related to the Aliffrüme project, including:
+*Disclaimer: This work has been translated from its native Halanian to contemporary English. Many terms have been approximated or piecewise translated, but proper nouns and certain material names have been simply transliterated in accordance with standard practices. A glossary of such terms and their common pronunciation has been appended, and a link on the first occurrence of such terms within the tab to their glossary entry provided.*
 
-- Character Dossiers
-- Design Documents
-- Narrative Outlines
-- Encyclopedia Entries
-
-As such, please beware of spoilers when traversing the system. Though unless otherwise noted, encyclopedia entries are diegetic.
+<!-- The average technological level of Aliffrüme as a whole is around the early industrial era; with cities, steamboats, complex navigation systems, and expensive, primitive firearms. However, large cities can be in possession of more advanced firekeeping devices, and nations such as Bergheim possess artifice advanced enough to put them in the late industrial period.  -->

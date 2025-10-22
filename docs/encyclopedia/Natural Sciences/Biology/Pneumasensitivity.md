@@ -1,4 +1,4 @@
-## Pneumasensitivity
+# Pneumasensitivity
 
 Every sentient being on Aliffrüme has some level of pneumasensitivity, or the ability to sense and/or feel [[Soulfire|soulfire]] and [[Soulfire#Sparks|sparks]]. Organs that provide this sense are called pneumasensors, and typically resemble rod or cone cells but with guanine lattices instead of modified retinal discs. These organs come in two types:
 ### Pyrrhoreceptors

@@ -1,4 +1,4 @@
-## Biological Conventions
+# Biological Conventions
 
 ### Photosynthesis
 

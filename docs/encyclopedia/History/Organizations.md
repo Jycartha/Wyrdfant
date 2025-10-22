@@ -1,4 +1,4 @@
-
+# Organizations
 ## Scarlet Wreath
 
 An insurgent, fascist organization within Arenfürich which utilizes a warped vision of the Stormrider period to advocate for a “genetically pure” Arenfürich by expelling luciants and low-resonators, and encouraging the empowerment of strong resonators by careful regulation of the gimyndine supply–portrayed in a non-freedom-limiting way as “giving power to only those worthy of using it, and out of the hands of the Flameless.”

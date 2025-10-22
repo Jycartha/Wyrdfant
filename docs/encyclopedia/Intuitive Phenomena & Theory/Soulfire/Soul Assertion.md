@@ -1,4 +1,4 @@
-### Soul Assertion
+# Soul Assertion
 
 A technique wherein [[Soulfire]] is, in a way, infused through the soul plane, producing results in alignment with the [[Soul]]’s view of itself. A unique feature of [[Soulkeeping|soulkeepers]], it serves as an invaluable method of healing from injury and illness. However, it requires a number of components to function. 
 

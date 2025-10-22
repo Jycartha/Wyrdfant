@@ -1,4 +1,4 @@
-### Dreamleaf Juice
+# Dreamleaf Juice
 
 A product drawn from the leaves of dreamleaf plants in the mist-forests of southern [[Tohnipras]], known for its unique psychedelic effect of [[The Phlogistic Model#Immersionists|immersing]] users in the thoughts and dreams had by others near the plant before the time of harvesting. This property is believed to be derived from the slight [[Pneumaphilic Materials|pneumaphilic]] properties of Tohneasian mist, carrying residual [[Soulfire]] from the various creatures it contacts.  
 

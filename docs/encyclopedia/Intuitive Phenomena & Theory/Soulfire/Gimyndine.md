@@ -1,4 +1,4 @@
-## Gimyndine
+# Gimyndine
 Gimyndine \[gih-men-dean] is a naturally occurring opal-like material commonly seen accumulating on and around areas of high [[Infusion|infusion]], and is notable for it's ability to produce a distinct form of [[Soulfire]]--appropriately called [[Soulfire#Gimynfire|gimynfire]]--upon various forms of interaction.
 
 Different colors and crystal formations of gimyndine are known to have different soulfire outputs and ease-of-use, which influences which type a prospecting scriptlighter might choose. Generally, the most powerful crystals have vibrant hues with stunning patterns, but are also exceedingly rare. Each grade is also split into “low” and “high” (e.g. “high kingstone” and “low palestone”) for further granularity, and to nicely align the ranking to base 12.

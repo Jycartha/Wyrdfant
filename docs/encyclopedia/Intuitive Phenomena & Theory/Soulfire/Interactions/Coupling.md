@@ -1,4 +1,4 @@
-### Coupling
+# Coupling
 
 Coupling is a phenomenon wherein [[Spin Friction|spun]], [[Infusion|infused]] [[Soulfire]] augments the structure of a material, significantly raising its structural integrity and causing it to become a natural attractor of soulfire, as well as allowing direct control of the matter through conscious force, while preserving conservation of momentum by imparting equal and opposite momentum on the coupler. Traditionally organic matter– such as carbon, oxygen, and other light elements–is easier to impart soulfire into, although it takes a much lower concentration to [[gimyndization|gimyndize]] it. On the other end, heavy metals have much higher coupling breakpoints, but can hold a coupling for much longer.
 

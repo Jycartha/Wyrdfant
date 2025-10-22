@@ -1,4 +1,4 @@
-### Storm’s Harmony
+# Storm’s Harmony
 
 One of the more ornamental [[Engram|engrams]], it was designed by [[Consciousness#Kuthjïuman|Áren]] flamescribe [[Ashjërunei Riemend]] as a gift for [[Reinlutre]] during the Welatorhith Kindling Ceremony of 1008 AL. The engram’s function is to conjure a rainharp by catching rain from around the lighter, freezing the strings into glass-like ice. The rainharp can then be played like any other of its kind, and it produces a deep aquatic tone unique to the instrument, but this is not the engram’s main feature.   
 

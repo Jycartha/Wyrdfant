@@ -1,3 +1,5 @@
+# Hythean Fundamental Theory
+
 What follows is the last-known theories of the [[The Hythean Empire|Hythean]] scientific diaspora at large, and is largely unsubstantiated, but simultaneously not disproven. The nature of the theory leaves it somewhat unprovable with current technology, and more akin to theology.
 
 ## Küranna's Theory of Data

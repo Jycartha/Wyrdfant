@@ -1,4 +1,4 @@
-### Engram
+# Engram
 
 An engram is any fully self-contained program for [[Soulfire]] manipulation, typically encoded within [[Flamescript]] to produce a complex effect like state manipulation, chemical processing, or algorithmic computation. Each is further classified according to their modus operandi: 
 

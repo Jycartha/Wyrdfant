@@ -1,3 +1,3 @@
-## Intuition
+# Intuition
 
 Many cultures recognize the existence of a “sixth sense,” the ability to intuit emotions and sensations from soulfire-related phenomena, generally referred to as intuition. Other cultures may include it under [[pneumasensitivity]], but the main reason for its separation is intuition’s ability to act without the overt presence of [[Soulfire#Sparks|sparks]] or [[Flamescript]], as in cases of simply “feeling” emotion in the other senses; this can include the love in a touch, the anger in a glare, or the anxiety in music. Essentially, since it can be part of synesthesia, it is separate.

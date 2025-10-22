@@ -21,7 +21,7 @@ export default defineUserConfig({
       },
       {
         text: 'Encyclopedia',
-        link: '/encyclopedia/merged.md',
+        link: '/encyclopedia/',
       },
       {
         text: 'Writings',
@@ -47,7 +47,6 @@ export default defineUserConfig({
           link: '/encyclopedia/',
           children: [
             'Glossary',
-            'Prefaces',
             {
              text: 'Anthropology',
              collapsible: true,
@@ -130,7 +129,7 @@ export default defineUserConfig({
                   prefix: 'Pure Phlogistics/',
                   children: [
                     'Abstraction Drag',
-                    'Concscious Plane',
+                    'Conscious Plane',
                     'Dynamic Space Theory',
                     'Engram',
                     'Intention Field',
@@ -239,7 +238,6 @@ export default defineUserConfig({
                   children: [
                     'Crucibles',
                     'Frames',
-                    'Highflame Instruments',
                     'Skystilts',
                     'Sliverwatches',
                   ],
@@ -248,10 +246,48 @@ export default defineUserConfig({
                   text: 'Materials',
                   collapsible: true,
                   prefix: 'Materials/',
-                  children: [],
+                  children: [
+                    {
+                      text: 'Pneumaphilics',
+                      collapsible: true,
+                      prefix: 'Pneumaphilics/',
+                      children: [
+                        'Adamant',
+                        'Flash Quartz',
+                        'Pneumaphilic Materials',
+                      ],
+                    },
+                    'Dreamleaf Juice',
+                    'Goldwood Paper',
+                    'Lazur',
+                    'Melded Alloy',
+                    'Pneumaphobic Materials',
+                    'Silver-steel',
+                    'Torhith',
+                  ],
                 },
-                {},
-                {},
+                {
+                  text: 'Notable Engrams',
+                  collapsible: true,
+                  prefix: 'Notable Engrams/',
+                  children: [
+                    'Oversense',
+                    'Storm’s Harmony',
+                  ],
+                },
+                {
+                  text: 'Weapons and Military Devices',
+                  collapsible: true,
+                  prefix: 'Weapons and Military Devices/',
+                  children: [
+                    'Enjärl BW-14',
+                    'Powderblade',
+                    'Powderstaff',
+                    'Rodgun',
+                    'Slug-catcher',
+                    'SR87',
+                  ],
+                },
                 'Kindlegem',
               ],
             },

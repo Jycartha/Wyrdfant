@@ -1,4 +1,4 @@
-## Pigmentation
+# Pigmentation
 
 There are two main methods of protecting against sparks: Reflection by a lattice of guanine and collagen, or absorption by anthocyanins.
 

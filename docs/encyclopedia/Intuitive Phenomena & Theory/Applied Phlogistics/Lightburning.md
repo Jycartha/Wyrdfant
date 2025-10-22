@@ -1,4 +1,4 @@
-### Lightburning
+# Lightburning
 
 An ancient technique lost in the Hythean Era, which greatly strengthens soulfire’s material presence and energy content. To lightburn, the most important trait is an intensely focused desire grounded in the world; e.g. to save a loved one, defeat an enemy, etc. When a user recognizes and embraces this desire, resolving to hunt it no matter the obstacles, their soulfire becomes singularly aligned and laser focused, moving in perfect accordance and notable density. Additionally, the user becomes able to exert a greater conscious force at further distance, effectively gaining range.
 

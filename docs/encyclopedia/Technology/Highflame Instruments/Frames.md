@@ -1,4 +1,4 @@
-## Frames
+# Frames
 
 A staple of the [[flamebearer]]’s professional sphere, a frame is any sufficiently large device intended to serve as an expansion of the bearer’s body, which allows for and facilitates high-level use of [[Soulfire#Gimynfire|gimynfire]]. Because most professional activities are locked behind that level of use, the ability to operate a frame is considered the mark of a fully-matured flamebearer.  
   

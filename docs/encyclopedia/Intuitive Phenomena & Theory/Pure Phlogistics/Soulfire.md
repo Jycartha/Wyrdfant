@@ -1,4 +1,4 @@
-### Soulfire
+# Soulfire
 
 Also called alferhþ (lit. “Fire of the Ferhþ,” where “ferhþ” is a Küthjïuman-Halanian word meaning something between life, heart, and mind, commonly translated as “soul”), soulfire is an energy contained within the [[Conscious Plane]] to host the soul, passively loosed through thought. Thought causes changes in the soul plane, which in turn produces soulfire in reality. Born from consciousness, soulfire is an energy shaped by consciousness, and as such can be controlled after manifestation through intention fields to power actions in reality. It can only be summoned in large quantities by sapient creatures, but all life generates soulfire to some degree.
 

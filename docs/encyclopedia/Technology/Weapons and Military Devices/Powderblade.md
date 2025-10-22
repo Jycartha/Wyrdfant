@@ -1,4 +1,4 @@
-### Powderblade
+# Powderblade
 
 One of the more commonplace weapons for infantry-hunting scriptlighters, they are a wide class of devices that operate on the fundamental principle of constructing a monocrystal diamond blade out of powerdized carbon. The resulting blade channels gimynfire exceedingly well, almost serving to become a blade of pure gimynfire. In addition to carbon’s exceptional responsiveness to gimynfire control, coupling allows the diamond’s covalent bonds to loosen and gain elasticity, making it more suitable for a blade.  
 

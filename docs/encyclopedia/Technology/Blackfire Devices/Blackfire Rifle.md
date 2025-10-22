@@ -1,4 +1,4 @@
-### Blackfire Rifle
+# Blackfire Rifle
 
 A relatively recent invention, and one of the most common tools of war and self-defense for flameless with the wealth to commission them, blackfire rifles utilize specialized charges packed with gimpowder and surrounded in a thin aluminum casing transparent to even blackfire. Upon use, the gimpowder is combusted and the blackfire is led along the “rifling” of the barrel, a simple flamescript for some effect along the lines of projectile launch or force delivery, sometimes aided by a targeting script.  
 

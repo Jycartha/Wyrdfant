@@ -1,4 +1,4 @@
-## Corporeal Immortality
+# Corporeal Immortality
 
 Though never truly unkillable, life has a few different ways of obtaining what might be called immortality. The most common form, being “eternal,” refers to the body no longer requiring external energy and forgoing senescence. Truer immortals, called “spirits,” are able to maintain consciousness as a detached soul and produce intense soulfire, allowing them to generate material bodies autonomously as forms of woven soulfire. However, they can be prevented from doing so via sealing methods. In a special case, phantasms which become spirits are called “dragons."
 

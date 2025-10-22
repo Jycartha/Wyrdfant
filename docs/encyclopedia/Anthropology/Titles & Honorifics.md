@@ -1,4 +1,4 @@
-## Titles & Honorifics
+# Titles & Honorifics
 
 ### Radiance
 

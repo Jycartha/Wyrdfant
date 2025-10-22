@@ -1,4 +1,4 @@
-## Llantakúna
+# Llantakúna
 
 As a species, the [[Glossary#^3687b2|Llantakúna]]'s main feature is their spark-utilizing undertone pigments, which can both dampen their presence by absorbing their sparks and help to passively regulate their temperature. Most usefully, the pigments can be genetically configured to either warm or cool by varying base amounts, as well as activated or deactivated spontaneously using acidity.
 

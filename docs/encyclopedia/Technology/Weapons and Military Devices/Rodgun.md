@@ -1,4 +1,4 @@
-### Rodgun
+# Rodgun
 
 An experimental Raincatcher technology which uses multiple instances of [[Adamant|monocrystals]] which protrude from a main body like vacuum tubes or rods, in order to facilitate sequenced blasts. The main problem with this technology is controlling the resonant combustion, as detonating a crystal of course causes a combustion event, which easily causes other nearby monocrystals to detonate. This would necessitate the storing of rods somewhere too far away to be convenient for multiple shots, which is the advantage of rod guns in the first place.  
 

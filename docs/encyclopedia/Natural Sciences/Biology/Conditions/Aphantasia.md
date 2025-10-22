@@ -1,3 +1,5 @@
+# Aphantasia
+
 A most-often acquired, though also congenital, condition which entails a total inability to form [[Engram|engrams]], [[Flamescript|flamescript]], or any other kind of mental picture. For unknown reasons, this grants the afflicted an almost superhuman resistance to the various disadvantages of [[Gimyndine|gimyndine]]. Most notably, aphantasiacs will no longer go mad from extended gimyndine resonance, nor suffer identity death or gimyndization.  
 
 Aphantasia is often acquired by uncautious scriptlighters as a result of over-reliance on kindlegems, and they are subsequently rendered unable to use anything but. Almost as a trade-off, however, aphantasiacs gain the ability to effortlessly draw out and shape gimynfire in enormous quantities, if with limited precision.   

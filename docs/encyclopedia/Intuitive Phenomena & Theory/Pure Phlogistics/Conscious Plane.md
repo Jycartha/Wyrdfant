@@ -1,4 +1,4 @@
-### The Conscious Plane
+# The Conscious Plane
 
 Also known as the collective unconscious, the afterlife, or the Shadowless Dream, the conscious plane is defined as a conjoined space overlapped with material reality, and a central component of [[The Phlogistic Model]] of intuitive phenomena. The conscious plane is so named for its role in housing the soul and its processes, such as thought, choice, and emotion. At the time of writing, competing theories disagree on whether consciousness is a consequence of soulfire or vice versa.
 
