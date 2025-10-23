@@ -1,7 +1,7 @@
 // === colors ===
 :root {
   // accent colors
-  --vp-c-accent: #e48512;
+  --vp-c-accent: #db8114;
   --vp-c-accent-bg: #e48512;
   --vp-c-accent-hover: #964A7B;
   --vp-c-accent-soft: rgb(16 185 129 / 16%);
@@ -11,6 +11,7 @@
   --vp-c-bg: #fff;
   --vp-c-bg-alt: #f6f6f7;
   --vp-c-bg-elv: #fff;
+  --bg-img: null;
 
   // text colors
   --vp-c-text: #560986;
@@ -55,7 +56,7 @@
 
   // font vars
   --font-family:
-    -apple-system, 'BlinkMacSystemFont', 'Segoe UI', roboto, oxygen, ubuntu,
+    'Times New Roman', -apple-system, 'BlinkMacSystemFont', 'Segoe UI', roboto, oxygen, ubuntu,
     cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 
   // layout vars
@@ -89,6 +90,7 @@
   --vp-c-bg: #1f152b;
   --vp-c-bg-alt: #171618;
   --vp-c-bg-elv: #202127;
+  --bg-img: url(/images/starrySkyVioletBG.png);
 
   // text colors
   --vp-c-text: rgb(235 235 245 / 86%);
@@ -107,4 +109,7 @@
   --vp-c-control: rgb(101 117 133 / 12%);
   --vp-c-control-hover: rgb(101 117 133 / 18%);
   --vp-c-control-disabled: #363636;
+}
+body {
+  background-image: var(--bg-img);
 }
