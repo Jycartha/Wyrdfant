@@ -1,9 +1,10 @@
 ---
 home: true
 title: Home
-heroImage: /images/12prongCyanRound.png
-tagline: Do stay a while, if you would
-heroText: The Soapbox
+heroImage: /images/12prongOrangeTransparent.png
+heroImageDark: /images/12prongOrangeTransparent.png
+tagline: Once More Unto The Void
+heroText: Wyrdfant
 actions:
   - text: Updates
     link: /posts/
@@ -26,7 +27,7 @@ features:
 
   - title: Encyclopedia
     details: A traversable copy of "The Aliffrüme Encyclopedia," penned by scholars from Witafjürgen.
-
-footer: Website currently WIP.
+footerHtml: true
+footer: <a href="https://www.github.com/Jycartha" target="_blank" rel="noopener norefferer">My GitHub</a>
 ---
 This will be the future home page, with a short summary of my work, plans, and website structure.

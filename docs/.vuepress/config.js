@@ -11,7 +11,10 @@ export default defineUserConfig({
   base: "/Wyrdfant/",
 
   theme: defaultTheme({
-    logo: '/images/12prongCyanRound.png',
+    logo: '/images/12prongGoldTransparent.png',
+    logoDark: '/images/12prongGoldTransparent.png',
+    colorMode: 'dark',
+    colorModeSwitch: false,
 
     contributors: false,
     navbar: [
@@ -26,18 +29,6 @@ export default defineUserConfig({
       {
         text: 'Writings',
         link: '/writings/',
-      },
-      {
-        text: 'By Tag',
-        link: '/tag/',
-      },
-      {
-        text: 'By Category',
-        link: '/category/',
-      },
-      {
-        text: 'Timeline',
-        link: '/timeline/',
       },
     ],
     sidebar: {

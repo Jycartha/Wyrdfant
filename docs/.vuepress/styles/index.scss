@@ -56,7 +56,7 @@
 
   // font vars
   --font-family:
-    'Times New Roman', -apple-system, 'BlinkMacSystemFont', 'Segoe UI', roboto, oxygen, ubuntu,
+     'Times New Roman', -apple-system, 'BlinkMacSystemFont', 'Segoe UI', roboto, oxygen, ubuntu,
     cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 
   // layout vars
@@ -87,9 +87,9 @@
   --vp-c-accent-soft: rgb(16 185 129 / 16%);
 
   // background colors
-  --vp-c-bg: #1f152b;
-  --vp-c-bg-alt: #171618;
-  --vp-c-bg-elv: #202127;
+   --vp-c-bg: null;
+   --vp-c-bg-alt: #171618;
+   --vp-c-bg-elv: #202127;
   --bg-img: url(/images/starrySkyVioletBG.png);
 
   // text colors
@@ -102,6 +102,10 @@
   --vp-c-border: #603472;
   --vp-c-border-hard: #45484e;
 
+  // no layout bg with fancy image
+  --vp-navbar-c-bg: #000000b0;
+  --vp-sidebar-c-bg: null;
+
   // shadow colors
   --vp-c-shadow: rgb(0 0 0 / 30%);
 
@@ -112,4 +116,5 @@
 }
 body {
   background-image: var(--bg-img);
+  background-attachment: fixed;
 }
