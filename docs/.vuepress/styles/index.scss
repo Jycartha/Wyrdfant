@@ -103,8 +103,8 @@
   --vp-c-border-hard: #45484e;
 
   // no layout bg with fancy image
-  --vp-navbar-c-bg: #000000b0;
-  --vp-sidebar-c-bg: null;
+  --vp-navbar-c-bg: #00000080;
+  --vp-sidebar-c-bg: #00000080;
 
   // shadow colors
   --vp-c-shadow: rgb(0 0 0 / 30%);
@@ -117,4 +117,13 @@
 body {
   background-image: var(--bg-img);
   background-attachment: fixed;
+}
+.vp-sidebar {
+  backdrop-filter: blur(2px);
+}
+.vp-navbar {
+  backdrop-filter: blur(2px);
+}
+.article .title {
+ color: var(--vp-c-accent);
 }
