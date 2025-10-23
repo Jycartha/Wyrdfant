@@ -28,6 +28,6 @@ features:
   - title: Encyclopedia
     details: A traversable copy of "The Aliffrüme Encyclopedia," penned by scholars from Witafjürgen.
 footerHtml: true
-footer: <a href="https://www.github.com/Jycartha" target="_blank" rel="noopener norefferer">My GitHub</a>
+footer: <link rel='icon' type='image/x-icon' href='favicon.ico'/ ><a href="https://untilthengame.com/" target="_blank" rel="noopener norefferer">"But that's part of understanding, isn't it? To misunderstand."</a>
 ---
 This will be the future home page, with a short summary of my work, plans, and website structure.
