@@ -9,7 +9,7 @@ export default defineUserConfig({
   lang: 'en-US',
 
   title: 'Wyrdfant',
-  description: 'My Love & My Will',
+  description: 'Jycartha\'s Wiki, Updates, and Writings',
   base: "/Wyrdfant/",
 
   theme: defaultTheme({
