@@ -90,7 +90,7 @@
    --vp-c-bg: null;
    --vp-c-bg-alt: #171618;
    --vp-c-bg-elv: #202127;
-  --bg-img: url(/images/starrySkyVioletBG.png);
+  --bg-img: url(/images/starrySkyVioletBG2.png);
 
   // text colors
   --vp-c-text: rgb(235 235 245 / 86%);
@@ -117,6 +117,7 @@
 body {
   background-image: var(--bg-img);
   background-attachment: fixed;
+  background-size: cover;
 }
 .vp-sidebar {
   backdrop-filter: blur(2px);
