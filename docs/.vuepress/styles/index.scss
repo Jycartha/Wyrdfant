@@ -121,6 +121,8 @@ body {
 }
 .vp-sidebar {
   backdrop-filter: blur(4px);
+  top: var(--navbar-height);
+  padding-top: 0px;
 }
 .vp-navbar {
   backdrop-filter: blur(2px);

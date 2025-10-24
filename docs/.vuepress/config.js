@@ -1,6 +1,8 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { blogPlugin } from '@vuepress/plugin-blog'
 import { defaultTheme } from '@vuepress/theme-default'
+import { sitemapPlugin } from '@vuepress/plugin-sitemap'
+import { markdownStylizePlugin } from '@vuepress/plugin-markdown-stylize'
 import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
@@ -291,6 +293,15 @@ export default defineUserConfig({
   }),
 
   plugins: [
+    markdownStylizePlugin({
+      align: true
+      //options
+    }),
+    sitemapPlugin({
+      hostname: "https://jycartha.github.io/Wyrdfant/",
+      devServer: true,
+      devHostname: "http://localhost:8080/Wyrdfant/"
+    }),
     blogPlugin({
       // Only files under posts are articles
       filter: ({ filePathRelative }) =>

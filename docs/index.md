@@ -30,4 +30,6 @@ features:
 footerHtml: true
 footer: <link rel='icon' type='image/x-icon' href='favicon.ico'/ ><a href="https://untilthengame.com/" target="_blank" rel="noopener norefferer">"But that's part of understanding, isn't it? To misunderstand."</a>
 ---
+::: center
 This will be the future home page, with a short summary of my work, plans, and website structure.
+:::
