@@ -4,10 +4,10 @@ title: Home
 heroImage: /images/12prongOrangeTransparent.png
 heroImageDark: /images/12prongOrangeTransparent.png
 tagline: Once More Unto The Void
-heroText: "Se Wyrdfant"
+heroText: Se Wyrdfant
 actions:
   - text: Updates
-    link: /posts/
+    link: /article/
     type: secondary
 
   - text: Latest Writings

@@ -90,7 +90,7 @@
    --vp-c-bg: null;
    --vp-c-bg-alt: #171618;
    --vp-c-bg-elv: #202127;
-  --bg-img: url(/images/starrySkyVioletBG2.png);
+   --bg-img: url(/images/starrySkyVioletBG2.png);
 
   // text colors
   --vp-c-text: rgb(235 235 245 / 86%);
@@ -120,11 +120,15 @@ body {
   background-size: cover;
 }
 .vp-sidebar {
-  backdrop-filter: blur(2px);
+  backdrop-filter: blur(4px);
 }
 .vp-navbar {
   backdrop-filter: blur(2px);
 }
 .article .title {
  color: var(--vp-c-accent);
+}
+.article {
+  background-color: #10101080;
+  backdrop-filter: blur(2px);
 }

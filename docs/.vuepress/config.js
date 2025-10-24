@@ -1,13 +1,13 @@
+import { viteBundler } from '@vuepress/bundler-vite'
 import { blogPlugin } from '@vuepress/plugin-blog'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
-import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'en-US',
 
   title: 'Wyrdfant',
-  description: 'Jycartha\'s Wiki & Updates',
+  description: 'My Love & My Will',
   base: "/Wyrdfant/",
 
   theme: defaultTheme({
@@ -20,7 +20,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: 'Updates',
-        link: '/article/',
+        link: '/updates/',
       },
       {
         text: 'Encyclopedia',
@@ -350,11 +350,12 @@ export default defineUserConfig({
       type: [
         {
           key: 'article',
+          path: '/updates/',
           // Remove archive articles
           filter: (page) => !page.frontmatter.archive,
           layout: 'Article',
           frontmatter: () => ({
-            title: 'Articles',
+            title: 'Updates',
             sidebar: false,
           }),
           // Sort pages with time and sticky
