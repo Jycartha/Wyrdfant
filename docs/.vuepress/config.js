@@ -7,7 +7,7 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
   lang: 'en-US',
-
+  head: [['link', {rel: 'icon', type: 'image/png', sizes: "16x16", href: "/images/favicon-16x16.png"}], [ 'link', {rel: 'icon', type:'image/png', sizes: '32x32', href: '/images/favicon-32x32.png'}]],
   title: 'Wyrdfant',
   description: 'Jycartha\'s Wiki, Updates, and Writings',
   base: "/Wyrdfant/",

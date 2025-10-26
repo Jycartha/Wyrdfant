@@ -14,7 +14,7 @@
     "@vuepress/bundler-vite": "2.0.0-rc.24",
     "@vuepress/plugin-blog": "2.0.0-rc.86",
     "@vuepress/plugin-markdown-stylize": "2.0.0-rc.115",
-    "@vuepress/plugin-sitemap": "2.0.0-rc.3",
+    "@vuepress/plugin-sitemap": "2.0.0-rc.115",
     "@vuepress/theme-default": "2.0.0-rc.115",
     "sass-embedded": "^1.86.0",
     "vue": "^3.5.13",
