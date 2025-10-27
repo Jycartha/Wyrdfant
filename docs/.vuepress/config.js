@@ -7,14 +7,13 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
   lang: 'en-US',
-  head: [['link', {rel: 'icon', type: 'image/png', sizes: "16x16", href: "/images/favicon-16x16.png"}], [ 'link', {rel: 'icon', type:'image/png', sizes: '32x32', href: '/images/favicon-32x32.png'}]],
+  head: [['link', {rel: 'icon', type: 'image/png', href: "/Wyrdfant/images/favicon-32x32.png", sizes: "32x32"}], [ 'link', {rel: 'icon', type:'image/png', sizes: '16x16', href: '/Wyrdfant/images/favicon-16x16.png'}]],
   title: 'Wyrdfant',
   description: 'Jycartha\'s Wiki, Updates, and Writings',
   base: "/Wyrdfant/",
 
   theme: defaultTheme({
-    logo: '/images/12prongGoldTransparent.png',
-    logoDark: '/images/12prongGoldTransparent.png',
+    logo: '/images/favicon-128x128_transparent.png',
     colorMode: 'dark',
     colorModeSwitch: false,
 
