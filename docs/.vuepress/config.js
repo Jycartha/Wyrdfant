@@ -13,7 +13,7 @@ export default defineUserConfig({
   base: "/Wyrdfant/",
 
   theme: defaultTheme({
-    logo: '/images/favicon-128x128_transparent.png',
+    logo: '/images/12prongGoldTransparent.png',
     colorMode: 'dark',
     colorModeSwitch: false,
 
