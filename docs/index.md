@@ -6,7 +6,7 @@ tagline: Once More Unto The Void
 heroText: Se Wyrdfant
 actions:
   - text: Updates
-    link: /article/
+    link: /updates/
     type: secondary
 
   - text: Latest Writings
