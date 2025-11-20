@@ -3,7 +3,7 @@ home: true
 title: Home
 heroImage: /images/12prongOrangeTransparent.png
 tagline: Once More Unto The Void
-heroText: Se Wyrdfant
+heroText: Würdfant
 actions:
   - text: Updates
     link: /updates/
