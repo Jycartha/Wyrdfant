@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-DMfTwNZj.js";const c={};function r(l,n){return a(),t("div")}const s=e(c,[["render",r]]),i=JSON.parse('{"path":"/updates/","title":"Updates","lang":"en-US","frontmatter":{"title":"Updates","sidebar":false,"blog":{"type":"type","key":"article"},"layout":"Article"},"git":{},"filePathRelative":null,"excerpt":""}');export{s as comp,i as data};
