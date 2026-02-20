@@ -1,0 +1,2 @@
+### Shimmer-beasts
+The name for a large group of predators native to copperleaf forests, which are capable of harnessing ambient [soulfire](<Soulfire.md>) for their own [engrams](<Engram.md>), and which typically possesses a [flamescript](<Flamescript.md>)-like intuitive iridescence, from which they get their name. They are the only natural predators of the [Kaithurhi](<Kuthjïuman.md#Kaithurhi>), and are very difficult to defeat without adequate preparation.

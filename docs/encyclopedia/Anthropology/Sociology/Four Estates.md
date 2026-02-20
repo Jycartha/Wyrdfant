@@ -1,0 +1,4 @@
+# Four Estates
+The dominant socio-political hierarchy in Arenfürich, composed of four social classes separated by distinct titles and clan names. This includes the indentured, the experienced, the arteries, and the lords. Each class is identified by their title, surname, or both. There is also a fifth class, the nameless, who belong to no city and wander the wild forest, though due to their nature they are typically disregarded.
+
+Those without last names have a strange reputation, being equally disliked for their disloyalty and feared for their ability to survive alone outside the cities. Many are often disgraced Arteries or lucky village survivors, and these two stereotypes compete to dominate the Nameless’ cultural perception. They are, however, universally regarded as outsiders.

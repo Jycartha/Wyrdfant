@@ -1,6 +1,3 @@
----
-title: Glossary
---- 
 ## General Transcription
 
 ### Palatal Approximant (Y in “yours”)
@@ -17,7 +14,7 @@ Will generally be transcribed as a j with a vowel afterwards, which is indicated
 ## Phlogistical Terms
 ### Pneumaphilic
 Adj.  
-Having a high capacity for and/or ease of [[The Phlogistic Model#Infusion|infusion]].
+Having a high capacity for and/or ease of [infusion](<The Phlogistic Model.md#Infusion>).
 ### Notion
 Noun
 A concept carried by particular spark emission patterns, often indicating the cognitive state of their producer. Typically spoken of through metaphors, often onto color or emotion.

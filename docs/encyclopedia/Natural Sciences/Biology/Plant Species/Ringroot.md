@@ -1,0 +1,2 @@
+### Ringroot
+A rhizomal vine native to Arenfürich which grows extremely thick shoots in circling patterns, forming natural circular enclosures which gather rainwater into areas of standing water suitable for plant growth. When the plants die, they sink to the bottom and form nutrient-rich soil for the ringroot. The various forms of ringroot are cultivated by the Áren as natural crop containers, and their fruits are sometimes eaten in times of famine.

@@ -1,4 +1,4 @@
-# Soul
+### The Soul
 
 Under the Phlogistic Model, the soul is a separate region of the conscious plane roughly overlapping the body. When standing curvature passes a certain limit, noise effects become negligible and the constituent phases begin self-stimulating and entering feedback loops with each other. This runaway process results in a curvature singularity, which promptly rebounds into a new, separate conscious plane composed of the phase set, generally reaching hydrostatic equilibrium with the wider plane’s phlogistic pressure in the shape of the body.
 
@@ -12,7 +12,7 @@ However, the brain must also communicate with the soul, in order to relay sensor
 
 Many scholars debate which exact pieces of the conscious experience the soul and brain are each responsible for. The brain is believed to be the host of short-term memory, while the soul engraves certain long term memories and experiences. The soul handles decision making after gathering processed sensory information from the brain.
 
-The soul is also capable of affecting change within the exterior conscious plane according to a propagation limit. Within the noise, any phase is mostly unable to distinguish itself from the others and thus acts normally, randomly, resulting in close to net zero curvature. A soul creates a region of self-determination, from which information and force can propagate out at light speed, with force losing intensity by an inverse square law.
+The soul is also capable of affecting change within the exterior conscious plane according to a propagation limit. Within the noise, any phase is mostly unable to distinguish itself from the others and thus acts essentially randomly, resulting in close to net zero curvature. A soul creates a region of self-determination, from which information and [intention](<Intention Field.md>) can propagate out at light speed, with intention losing intensity as it travels through the noise.
 
 ### Refinement
 
@@ -34,7 +34,7 @@ If a being who did not come into possession of a soul dies, the process goes as 
 
 ### Space Density
 
-Uniformity of space density is not a given when transitioning between conscious planes. In fact, most souls, in comparison to the greater conscious plane, are much denser due to their high engrammatic mass. Necessarily, crossing this boundary appropriately stretches or squishes whatever does so. It
+Uniformity of space density is not a given when transitioning between conscious planes. In fact, most souls, in comparison to the greater conscious plane, are much denser due to their high engrammatic mass. Necessarily, crossing this boundary appropriately stretches or squishes whatever does so.
 
 ### Wandersouls
 

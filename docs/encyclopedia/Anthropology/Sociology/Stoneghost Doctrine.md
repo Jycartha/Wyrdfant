@@ -1,0 +1,11 @@
+### Stoneghost Doctrine
+
+Firekeeping within Ayangatal, and the greater area of Anndalor, is defined by the quasi-religious Stonehunter Order. A guild of [firekeepers](<Firekeeper.md>), the Order is divided into wraithtamers (gimynkeepers) and carvers (flamescribes). For the purposes of appeasing the lingering cultural distrust of gimyndine-wielding “demon hosts,” the carvers are assigned the duty of regulating the truly complex engrams and managing captured gimyns outside of combat. Wraithtamers, meanwhile, are allowed to exude dominance and glory in various styles of martial combat.
+
+To provide a brief history, as scriptlighters—now preferring to call themselves stone-tamers, who hunted and bound the “demonic stones” to prevent them from falling into the hands of evildoers and force their power to be used for good—inevitably came to prominence once again, the power structure of Anndalor once again came to resemble a pyramid of firekeeping ability.
+
+This time around, however, the stone-tamers were careful to keep themselves “bound” by religious law and purpose. Advances in gimyndine research brought about the profession of flamescribes, or “carvers” as it were. With the ability to conveniently lock the “truly dangerous” engrams of automatic shields and hails of knives behind the skills of another, a new order soon emerged.
+
+Carvers were granted the holy duty of deeming how much force was appropriate for a stone-tamer to exert, and of handling administration affairs of normal religion. Meanwhile, their hands were kept clean of the actual devastation, securing the status quo against unhealable revolt. Behind closed doors, the two factions often split into smaller groups and struggled for local power, becoming the true cause behind many border squabbles.  
+
+Under the order and the expectations of Ayangatalan culture, carvers are almost unilaterally women for their management duties and position out of the fight. Similarly, wraithtamers are expected to be men–or at least masculine–for their duties of combat, defense, and valor.

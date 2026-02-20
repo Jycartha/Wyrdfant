@@ -1,13 +1,13 @@
-# Pneumasensitivity
+## Pneumasensitivity
 
-Every sentient being on Aliffrüme has some level of pneumasensitivity, or the ability to sense and/or feel [[Soulfire|soulfire]] and [[Soulfire#Sparks|sparks]]. Organs that provide this sense are called pneumasensors, and typically resemble rod or cone cells but with guanine lattices instead of modified retinal discs. These organs come in two types:
+Every sentient being on Aliffrüme has some level of pneumasensitivity, or the ability to sense and/or feel [soulfire](<Soulfire.md>) and [sparks](<Soulfire.md#Sparks>). Organs that provide this sense are called pneumasensors, and typically resemble rod or cone cells but with guanine lattices instead of modified retinal discs. These organs come in two types:
 ### Pyrrhoreceptors
 
-A type of specialized neuron found in all living creatures that can determine how much soulfire it holds, serving numerous purposes throughout the body. The most relevant, however, is in the ears. When macro-scale vibrations in the conscious plane push against the [[Soul|halo]], the reaction “shunts” some soulfire to [[Infusion|infuse]] nearby matter, which can be detected by sensitive pyrrhoreceptors. 
+A type of specialized neuron found in all living creatures that can determine how much soulfire it holds, serving numerous purposes throughout the body. The most relevant, however, is in the ears. When macro-scale vibrations in the conscious plane push against the [halo](<Soul.md>), the reaction “shunts” some soulfire to [infuse](<Infusion.md>) nearby matter, which can be detected by sensitive pyrrhoreceptors. 
 
 In this way, a sense of soulfire “hearing” is created by placing pyrrhoreceptors through the halo’s border, allowing for the detection of organic movement and especially the usage of soulfire. It also works as a unique identifier for an individual, like a second voice. Due to their nature, these sensors are often found in the ear tips, and a heightened sensitivity requires the lengthening of the ears, allowing for the detection of longer wavelengths.
 
-However, a heightened sensitivity means a higher risk of muting or damaging the receptors in soulfire-dense environments, especially with the limited protection cartilage provides. Thus some species that evolved in these soulfire-dense environments, such as the [[Kuthjïuman#Kaithurhi|Kaithurhi]], instead grow dedicated horns of modified bone surrounded in collagen. The bone, in addition to holding marrow, protects strips of pyrrhoreceptors that grant excellent directional hearing at the cost of sensitivity.
+However, a heightened sensitivity means a higher risk of muting or damaging the receptors in soulfire-dense environments, especially with the limited protection cartilage provides. Thus some species that evolved in these soulfire-dense environments, such as the [Kaithurhi](<Kuthjïuman.md#Kaithurhi>), instead grow dedicated horns of modified bone surrounded in collagen. The bone, in addition to holding marrow, protects strips of pyrrhoreceptors that grant excellent directional hearing at the cost of sensitivity.
 
 ### Sparkcatchers
 

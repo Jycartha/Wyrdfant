@@ -1,0 +1,3 @@
+### Matrimonial Anthrakimy
+
+A Jïumannian tradition that eventually spread worldwide, it is the practice of using decorative flamescript and precise melding to craft a gem for one’s partner to be embedded in some piece of jewelry or ornamental weaponry. As the practice of proper anthrakimy is extremely taxing and complicated, it is seen as a beautiful show of dedication and effort, as well as investment.

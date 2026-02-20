@@ -1,3 +1,3 @@
-# Lightclock
+### Lightclock
 
-One of the most common devices flamescribes produce for themselves, it a two-part lantern and timekeeping device. Constructed like an hourglass, [[Gimyndine#Ashstone|gimpowder]] gradually falls down into an ongoing [[Engram]] of a warm light and gets consumed. For [[Artifice|artificers]], this is often one of the first devices they make, as a good combination of physical mechanics and flamescript. These objects thus tend to have special import to their creators, and are decorated accordingly.
+One of the most common devices flamescribes produce for themselves, it a two-part lantern and timekeeping device. Constructed like an hourglass, [gimpowder](<Gimyndine.md#Ashstone>) gradually falls down into an ongoing [Engram](<Engram.md>) of a warm light and gets consumed. For [artificers](<Artifice.md>), this is often one of the first devices they make, as a good combination of physical mechanics and flamescript. These objects thus tend to have special import to their creators, and are decorated accordingly.

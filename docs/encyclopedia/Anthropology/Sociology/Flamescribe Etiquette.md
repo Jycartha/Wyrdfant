@@ -1,0 +1,5 @@
+### Flamescribe Etiquette 
+
+When dealing with a prestigious position like that of the flamescribe, it is only natural that some degree of special social rules and faux pas would come to surround them. The attitudes vary between the native states and the royal states, but they are largely a sort of upper class even within the nobility, equal to and sometimes synonymous with priests, depending on the local religion’s attitudes.  
+
+A special exception in Jïumannian social etiquette for flamescribes is in regards to the viewing of another’s flamescript. Flamescribes are the only social caste allowed to view the bare flamescript of another in full emotionality, for the purposes of research and collective knowledge. This is especially important given that flamescript deteriorates rapidly over time on the scale of records, and text descriptions of various methods are rarely sufficient.

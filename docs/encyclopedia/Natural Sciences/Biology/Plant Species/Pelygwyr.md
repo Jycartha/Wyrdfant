@@ -1,0 +1,6 @@
+### Pelygwyr
+A rare flowering vine native to the Kanthyna forest, noted for its emerald green petals and the glowing gold patterns upon them. It is regarded as a holy flower by the tribes of the Eldwyth, a gift that breathes life into the forest with its light.
+
+It is known to grow on and around outcroppings of gimyndine, absorbing and metabolizing all the discordant soulfire and sparks and emitting a pure golden-white soulfire. This golden soulfire is what all the fotivorous flora of the forest feed on, and what the firekeeping fauna utilize for their engrams. Therefore, the health of the Pelygwyr population is central to the health of the entire forest.
+
+The main pigment used in the process is turacoverdin, but the foundations of the process are present in numerous species of the ***dissoarchaea*** genus. These algae each absorb a differing spectrum of the gimyndine’s soulfire individually, use a little of its energy, then re-emit it with a wavelength proportionally shortened. As each cell removes less and less energy, the soulfire is eventually fully harmonized and purified. With no further energy extractable by the ***dissoarchaea*** it escapes through dedicated openings (the pattern) as a golden-white glow.

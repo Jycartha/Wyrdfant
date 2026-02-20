@@ -1,4 +1,4 @@
-# Corporeal Immortality
+## Corporeal Immortality
 
 Though never truly unkillable, life has a few different ways of obtaining what might be called immortality. The most common form, being “eternal,” refers to the body no longer requiring external energy and forgoing senescence. Truer immortals, called “spirits,” are able to maintain consciousness as a detached soul and produce intense soulfire, allowing them to generate material bodies autonomously as forms of woven soulfire. However, they can be prevented from doing so via sealing methods. In a special case, phantasms which become spirits are called “dragons."
 
@@ -10,9 +10,9 @@ Named for a Hythean mythological figure, the beginning of all natural eternals i
 
 ### Induced Eternity
 
-At the peak of the Hythean era, it’s believed nearly every [[Firekeeper|firekeeper]] alive was artificially eternal, as records from the lower classes describe their lifespans stretching for grandcycles and undergoing a notable change after some ritual tradition. Records from the Hytheans, meanwhile, indicate a routine medical procedure performed during adulthood supplanted common genetic machinery using material from something called the Progenitrix.   
+At the peak of the Hythean era, it’s believed nearly every [firekeeper](<Firekeeper.md>) alive was artificially eternal, as records from the lower classes describe their lifespans stretching for grandcycles and undergoing a notable change after some ritual tradition. Records from the Hytheans, meanwhile, indicate a routine medical procedure performed during adulthood supplanted common genetic machinery using material from something called the Progenitrix.   
 
-Further investigation in recent years has led to the discovery of the exact process, which utilizes the genetic material of the Progenitrix, the first Hythean [[firekeeper]] to maintain an Ouroboran state for long enough to produce results, producing cells that naturally harvested soulfire to produce energy.  
+Further investigation in recent years has led to the discovery of the exact process, which utilizes the genetic material of the Progenitrix, the first Hythean [Firekeeper](<Firekeeper.md>) to maintain an Ouroboran state for long enough to produce results, producing cells that naturally harvested soulfire to produce energy.  
 
 To undergo this process, one must be subject to the incredibly complex and soulfire-intensive Rite of Transcendence. This engram is what actually replaces all the relevant biological machinery with soulfire-powered substitutes, essentially being genetic engineering through firekeeping.  
 

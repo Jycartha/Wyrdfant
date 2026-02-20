@@ -1,0 +1,2 @@
+# Synthesizer
+A highly skilled and correspondingly valued phlogistic profession, which involves the composing of various materials together into complex alloys and small parts, as well as chemical restructuring and even elemental transmutation.

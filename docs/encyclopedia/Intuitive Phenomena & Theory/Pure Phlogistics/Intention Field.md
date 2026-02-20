@@ -2,4 +2,4 @@
 
 Occasionally shortened to simply “**intention**”  
 
-A metric tensor on the conscious plane, often taken in sum by a superposition principle with others. Though not truly a “field,” the name is retained by tradition from older theory.
+A classical field knitted to the conscious plane, thought to be emitted from within every soul, which contributes to the curvature of the conscious plane at each point.

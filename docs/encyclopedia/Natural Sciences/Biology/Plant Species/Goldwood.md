@@ -1,0 +1,4 @@
+### Goldwood
+A semi-uncommon flowering tree native to the copperleaf forests around the Assurian Crater. It serves as the [Gimyndine](<Gimyndine.md>) purifier for the ecosystem, housing a varied ecology of pneumivorous bacteria and an expansive rhizome root system. Purified [gimynfire](<Soulfire.md>) precipitates out of the roots and into the soil of the forest, favoring near-to-ground plants and coating the forest in a blanket of sky-blue ivy and golden-white fog-like [Soulfire](<Soulfire.md>).
+
+Paper made from thin slices of goldwood is naturally infused, and thus noted for its ability to hold [Flamescript](<Flamescript.md>) indefinitely. It is used widely in the art of intuitive storytelling practiced by the native [Nebvoltsi](<Llantakúna.md#Nebvoltsi>) and [Ayauitlaka](<Llantakúna.md#Ayauitlaka>), and remains a major export to foreign [firekeepers](<Firekeeper.md>) without [kindlegems](<Kindlegem.md>) or having traditional tastes.

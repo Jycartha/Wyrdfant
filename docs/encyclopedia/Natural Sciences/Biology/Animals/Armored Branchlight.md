@@ -1,0 +1,6 @@
+### Armored Branchlight
+One of the iconic species native to the [Arenfürich](<Halisan.md#Arenfürich>) rainforest, it resembles a stark gray tree pangolin with gold vertical stripes all along its body. They are relatively large to be able to generate sufficient body heat, around 20 inches from head to body with a further 28 inches of tail. Their claws and undertail are covered in a white rubbery material similar to [[../Sapient%20Species/Kuthjïuman.md#Áren|Áren]] rainward, which allows them excellent grip even on the wet bark of the canopy.  
+
+Their diet consists chiefly of slickwood mites, a hive insect that make their homes in hollowed out [slickwood trees](<Slickwood Tree.md>). They clean the trees of these pests, and in return the trees retain one or two empty branches for the creatures to hang from.  
+
+Their native habitat thus lies among the bulbs of the slickwood tree. When not hunting, they will hang from an empty branch and roll themselves into a ball and use firekeeping to have their stripes glow, camouflaging themselves as one of the glowing amber orbs.

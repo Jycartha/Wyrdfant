@@ -1,0 +1,2 @@
+### Reijëngad
+The form of the Jïumannian government is a union, composed of 6 states and 1 federal territory. Each state traces its founding back to one of the six council members of the Stormrunners, and the region as a whole is governed by a council of six elected representatives from each of the states. However, though the states cooperate heavily, it is frequently and hotly debated whether they act as a tight federation or a loose alliance.

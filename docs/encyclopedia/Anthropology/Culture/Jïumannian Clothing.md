@@ -1,0 +1,5 @@
+### Jïumannian Clothing
+
+The general clothing style in Jïumannes is a unique blend of the styles of the eastern Tiangengzhe with the native Kaithurhi and Muintaferan, mainly in colors and patterns reminiscent of their Leaudoré colonizers. The separate cultures have highly distinct blends however, on account of all the clashing forces.  
+The Áren Küthjïeman of the south are notable for their unique cloak-poncho, the casul. It resembles a short poncho with a wide, deep neck to expose the Áren's rainward-covered napes and chests to the rain. Women are typically expected to obscure their chests with an undershirt, although many might prefer to forgo it, something considered slightly provocative.  
+The Áren are also known for their distaste for shoes, instead preferring to keep their spiked and rubberized feet bare. This serves them well, as their specialized feet are suited to taking hold of the slick tree roots and mud which form most of the solid ground in Arenfürich. For foreigners, the Áren manufacture special boots with soles made from the gum of a common plant.
