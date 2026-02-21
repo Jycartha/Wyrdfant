@@ -5,11 +5,11 @@ import { sitemapPlugin } from '@vuepress/plugin-sitemap'
 import { markdownStylizePlugin } from '@vuepress/plugin-markdown-stylize'
 import { defineUserConfig } from 'vuepress'
 
-//const getConfig =  require("vuepress-bar");
+const getConfig =  require("vuepress-bar");
 
-//const { nav, sidebar } = getConfig(); // Use default location of `.vuepress`: `${__dirname}/..`
+const { nav, sidebar } = getConfig(); // Use default location of `.vuepress`: `${__dirname}/..`
 
-//module.exports = { themeConfig: { nav, sidebar } };
+module.exports = { themeConfig: { nav, sidebar } };
 
 
 export default defineUserConfig({
@@ -38,10 +38,7 @@ export default defineUserConfig({
         text: 'Writings',
         link: '/writings/',
       },
-    ],
-    sidebar: {
-      "/encyclopedia/" : "structure",
-    }
+    ]
   }),
 
   plugins: [
