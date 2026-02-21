@@ -1,6 +1,6 @@
 ## Solar Bodies
 
-### [Reinbrüne](<Glossary.md#^6e1957>)
+### [Reinbrüne](/The%20Aliffrüme%20Encyclopedia/Glossary.md#^6e1957)
 
 The only sun of Aliffrüme’s system, it has a mass of 1.46 SM, a radius of 1.13 SR, a surface temperature of 6848K, a spectral peak of 423nm (violet), and a luminosity of 3.76 SL It has a spectral type of F3V.
 
@@ -30,7 +30,7 @@ Orbit: 4.5
 
 Orbit: 2.82
 
-### [Aliffrüme](<Glossary.md#^027ba3>)
+### [Aliffrüme](/The%20Aliffrüme%20Encyclopedia/Glossary.md#^027ba3)
 
 The cradle of life in the solar system, a terrestrial planet painted in deep violet retinal-based plant life. It has one stable moon with a mass of 1.1E+23 kg, which is dyed <span style="color:#00ffca">bluish-green</span> and <span style="color:#980000">rust red</span> with copper oxides, water ice, and nickel salts. On the whole, it has a roughly teal shine at night, with notable seas of red around active volcanoes.  
 Orbital Radius: 1.58 AU  

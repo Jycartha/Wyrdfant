@@ -1,5 +1,5 @@
 ## Pneumaphilic Materials
-Contrasting [Pneumaphobic Materials](<Pneumaphobic Materials.md>), pneumaphilic materials are those which are generally receptive of soulfire, typically by a low flashpoint or general attractive quality.
+Contrasting [Pneumaphobic Materials](/The%20Aliffrüme%20Encyclopedia/Technology/Materials/Pneumaphobic%20Materials.md), pneumaphilic materials are those which are generally receptive of soulfire, typically by a low flashpoint or general attractive quality.
 ### Pneumaphilic Materials
 
 * Carbon allotropes  

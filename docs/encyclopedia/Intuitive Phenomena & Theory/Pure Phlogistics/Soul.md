@@ -12,7 +12,7 @@ However, the brain must also communicate with the soul, in order to relay sensor
 
 Many scholars debate which exact pieces of the conscious experience the soul and brain are each responsible for. The brain is believed to be the host of short-term memory, while the soul engraves certain long term memories and experiences. The soul handles decision making after gathering processed sensory information from the brain.
 
-The soul is also capable of affecting change within the exterior conscious plane according to a propagation limit. Within the noise, any phase is mostly unable to distinguish itself from the others and thus acts essentially randomly, resulting in close to net zero curvature. A soul creates a region of self-determination, from which information and [intention](<Intention Field.md>) can propagate out at light speed, with intention losing intensity as it travels through the noise.
+The soul is also capable of affecting change within the exterior conscious plane according to a propagation limit. Within the noise, any phase is mostly unable to distinguish itself from the others and thus acts essentially randomly, resulting in close to net zero curvature. A soul creates a region of self-determination, from which information and [intention](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Intention%20Field.md) can propagate out at light speed, with intention losing intensity as it travels through the noise.
 
 ### Refinement
 

@@ -1,6 +1,6 @@
 ### Flamescript
 
-A core part of firekeeping's advancement as a practice is the cataloging and sharing of discoveries and techniques. This is accomplished through the creation of flamescript, otherwise termed as scriptcraft. Scriptcraft, the process by which [engrams](<The Phlogistic Model.md#Engrams>) are created, shared, and improved upon, is one of the most vital components of firekeeping; especially gimyndine firekeeping. It begins with transcription, the process of creating an engram and encoding it into reality as flamescript.
+A core part of firekeeping's advancement as a practice is the cataloging and sharing of discoveries and techniques. This is accomplished through the creation of flamescript, otherwise termed as scriptcraft. Scriptcraft, the process by which [engrams](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md#Engrams) are created, shared, and improved upon, is one of the most vital components of firekeeping; especially gimyndine firekeeping. It begins with transcription, the process of creating an engram and encoding it into reality as flamescript.
 
 Transcription begins with a flamescribe coating a chosen medium in their lightfire—be it soul, gimyn, or black—as this will be where the engram they create will be encoded. They then enter a meditative state of visualization, which is described to occur in three stages:
 
@@ -12,7 +12,7 @@ Upon completion of this process, the lightfire will infuse upon the surface in a
 
 It should be noted that if a flamescribe possesses sufficient skill, the process of transcription can occur with much less than complete focus, and flamescript can be encoded briefly upon the body, allowing for scripts to be "remembered" in the short term.
 
-The form of flamescript varies heavily, due to their origin in the myriad thoughts of sapients. Those engraved using dyed gimynfire contain idiosyncratic circular patterns, the system used by the Hytheans to describe reality in mathematical notation. Flamescript burned by a natural [Firekeeper](<Firekeeper.md>) or luciant, on the other hand, takes on a more chaotic and inconsistent shape that carries an uncanny beauty nonetheless.
+The form of flamescript varies heavily, due to their origin in the myriad thoughts of sapients. Those engraved using dyed gimynfire contain idiosyncratic circular patterns, the system used by the Hytheans to describe reality in mathematical notation. Flamescript burned by a natural [Firekeeper](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Firekeeper.md) or luciant, on the other hand, takes on a more chaotic and inconsistent shape that carries an uncanny beauty nonetheless.
 
 ### Vestiges
 

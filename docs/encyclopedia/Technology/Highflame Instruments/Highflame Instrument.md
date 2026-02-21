@@ -1,3 +1,3 @@
 ## Highflame Instrument
 
-Instruments belonging to the highflame class of firekeeping, i.e. that having to do with professional-grade [Gimyndine](<Gimyndine.md>) or [Soulfire](<Soulfire.md>). Such instruments are typically involved with the outfitting of [firekeepers](<Firekeeper.md>), but can also be found in industrial production or wealthy private-sector commissions.
+Instruments belonging to the highflame class of firekeeping, i.e. that having to do with professional-grade [Gimyndine](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine.md) or [Soulfire](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md). Such instruments are typically involved with the outfitting of [firekeepers](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Firekeeper.md), but can also be found in industrial production or wealthy private-sector commissions.

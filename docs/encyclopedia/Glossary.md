@@ -14,7 +14,7 @@ Will generally be transcribed as a j with a vowel afterwards, which is indicated
 ## Phlogistical Terms
 ### Pneumaphilic
 Adj.  
-Having a high capacity for and/or ease of [infusion](<The Phlogistic Model.md#Infusion>).
+Having a high capacity for and/or ease of [infusion](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md#Infusion).
 ### Notion
 Noun
 A concept carried by particular spark emission patterns, often indicating the cognitive state of their producer. Typically spoken of through metaphors, often onto color or emotion.

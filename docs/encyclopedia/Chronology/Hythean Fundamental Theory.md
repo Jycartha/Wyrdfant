@@ -1,8 +1,8 @@
-What follows is the last-known theories of the [Hythean](<The Hythean Empire.md>) scientific diaspora at large, and is largely unsubstantiated, but simultaneously not disproven. The nature of the theory leaves it somewhat unprovable with current technology, and more akin to theology.
+What follows is the last-known theories of the [Hythean](/The%20Aliffrüme%20Encyclopedia/Chronology/Nations%20&%20States/The%20Hythean%20Empire.md) scientific diaspora at large, and is largely unsubstantiated, but simultaneously not disproven. The nature of the theory leaves it somewhat unprovable with current technology, and more akin to theology.
 
 ## Küranna's Theory of Data
 
-An antiquated combined theory of physics and [intuitive phenomena](<The Phlogistic Model.md>) developed by [Hythean Truthseeker Küranna](<Küranna of Palkûaka.md>) regarding the underlying nature of intuitive phenomena, describing the universe as being composed of three fundamental data: Qualia, Axiom, and Substance. Reality is described and processed through Axioms, granted form and motion through Substance, and finally perceived through Qualia.  
+An antiquated combined theory of physics and [intuitive phenomena](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md) developed by [Hythean Truthseeker Küranna](/Narratives/Characters/Misc/Küranna%20of%20Palkûaka.md) regarding the underlying nature of intuitive phenomena, describing the universe as being composed of three fundamental data: Qualia, Axiom, and Substance. Reality is described and processed through Axioms, granted form and motion through Substance, and finally perceived through Qualia.  
 
 The three elementary aspects of firekeeping–scriptlighting, flowfiring, and coupling–each are manipulations of these three fundamental data for paracausal purposes. Each uses a unique energy drawn from a unique layer of existence, and each can more easily achieve certain effects than the others.  
 
