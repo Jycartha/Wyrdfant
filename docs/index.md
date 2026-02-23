@@ -14,7 +14,7 @@ actions:
     type: primary
 
   - text: Encyclopedia
-    link: /encyclopedia/
+    link: /The Aliffrüme Encyclopedia/
     type: secondary
 
 features:

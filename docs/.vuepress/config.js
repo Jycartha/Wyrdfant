@@ -5,12 +5,72 @@ import { sitemapPlugin } from '@vuepress/plugin-sitemap'
 import { markdownStylizePlugin } from '@vuepress/plugin-markdown-stylize'
 import { defineUserConfig } from 'vuepress'
 
-const getConfig =  require("vuepress-bar");
+import path from "path";
+import fs from "fs";
 
-const { nav, sidebar } = getConfig(); // Use default location of `.vuepress`: `${__dirname}/..`
+const docsDir = path.resolve(__dirname, "../The Aliffrüme Encyclopedia/");
 
-module.exports = { themeConfig: { nav, sidebar } };
+const getSidebarItems = (dir) => {
+  const items = [];
+  const files = fs.readdirSync(dir, { withFileTypes: true });
 
+  files.sort(function(a, b) {
+    var aIsDir = a.isDirectory(),
+        bIsDir = b.isDirectory();
+    
+    if (aIsDir && !bIsDir) {
+        return -1;
+    }
+
+    if (!aIsDir && bIsDir) {
+        return 1;
+    }
+
+    return 1;
+})
+
+  files.forEach((file) => {
+    if (file.isDirectory() && file.name !== ".vuepress") {
+      const folderName = file.name;
+      const folderPath = path.join(dir, folderName);
+      const children = fs
+        .readdirSync(folderPath, { withFileTypes: true })
+        .filter((child) => child.isFile() && child.name.endsWith(".md"))
+        .map((child) => child.name.replace(".md", ""));
+
+      if (children.length === 1 && children[0] === "README") {
+        // Folder with just README.md
+        items.push({
+          text: folderName.replace(/-/g, " ").toUpperCase(),
+          link: `/${folderName}/`,
+        });
+      } else {
+        // Folder with other markdown files 
+        items.push({
+          text: folderName.replace(/-/g, " ").toUpperCase(),
+          path: `/${folderName}/`,
+          collapsible: true,
+          children: getSidebarItems(path.join(dir,folderName + "/"))//children.filter((child) => child !== "README"),
+        });
+      }
+    }
+    if (!file.isDirectory() && file.name !== 'README.md') {
+      const fileName = file.name;
+      const mantissa = fileName.split(".")[0];
+      const relativeDir = dir.slice(dir.indexOf("The")-1);
+      items.push({
+        link: `${path.join(relativeDir, mantissa)}`,
+        text: mantissa,
+      });
+    }
+  });
+  
+  return items;
+};
+
+const generateSidebar = () => {
+  return getSidebarItems(docsDir);
+};
 
 export default defineUserConfig({
   lang: 'en-US',
@@ -32,13 +92,16 @@ export default defineUserConfig({
       },
       {
         text: 'Encyclopedia',
-        link: '/encyclopedia/',
+        link: '/The Aliffrüme Encyclopedia/',
       },
       {
         text: 'Writings',
         link: '/writings/',
-      },
-    ]
+      }
+    ],
+
+    sidebar: generateSidebar(),
+
   }),
 
   plugins: [
