@@ -54,7 +54,7 @@ const getSidebarItems = (dir) => {
         });
       }
     }
-    if (!file.isDirectory() && file.name !== 'README.md') {
+    if (!file.isDirectory() && file.name !== 'README.md' && file.name.split(".")[1] == "md") {
       const fileName = file.name;
       const mantissa = fileName.split(".")[0];
       const relativeDir = dir.slice(dir.indexOf("The")-1);
