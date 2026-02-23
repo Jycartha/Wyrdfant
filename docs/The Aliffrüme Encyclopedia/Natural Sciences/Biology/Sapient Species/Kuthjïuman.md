@@ -5,7 +5,7 @@ A notable consequence of Halanian's lack of contact with gimyndine is much stron
 
 ### Áren
 
-%%Instead of producing an oil, Kuthjïuman rainwards are simply areas of reptilian-like scales which act to prevent the person from drying out or suffering water damage. This gives a natural reason for it to cover their legs, lower arms, upper torso and back.%%
+<!-- Instead of producing an oil, Kuthjïuman rainwards are simply areas of reptilian-like scales which act to prevent the person from drying out or suffering water damage. This gives a natural reason for it to cover their legs, lower arms, upper torso and back. -->
 
 A Kuthjïuman native to the Arenfürich rainforest, which focuses on the growth of completely water-inundated crops. They are notably taller than their genetic relatives, with the average male standing at 6’ 10”  and 250 pounds, while the average female sits at 6' 6” and 210 pounds. Despite this, perhaps their most important adaptations are their specialized sweat glands which produce a hydrophobic oil, along with their powerful frames necessary for supporting and supplying blood to their titanic heights.  
 

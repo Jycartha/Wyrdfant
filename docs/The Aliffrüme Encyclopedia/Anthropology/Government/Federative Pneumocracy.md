@@ -22,9 +22,9 @@ The position of what most would call "the state" typically lies with the Lords, 
 
 The strongest among their local members is often appointed to the position of highlord by a tenuous agreement, though many territories employ a more formalized process, often a duel between candidates of either physical or political nature.
 
-%%
+<!-- 
 Notes on alternative economic systems:
 - "Syndicalism" is basically just "a union for every industry," which seeks to eliminate people whose job is merely owning, instead of producing. I would also assume such unions are led by figureheads, likely experienced or elected tradesmen. This might provide a natural retirement path, as experienced laborers retire from physical work and instead use their expertise to guide the force.
-%%
+ -->
 ## Classes
 As a short aside, there also exists a small but notable class of tradesmen. These are those persons in highly educated and skilled phlogistic professions, such as [synthesizers](/The%20Aliffrüme%20Encyclopedia/Anthropology/Economics/Synthesizer.md) and [computers](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md). Though they do possess notable phlogistic power, the specialized skills demanded of them mean they are low in number but high in political powers.
