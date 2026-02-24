@@ -1,5 +1,5 @@
 ## Tiangêngzhé
-As a species, the main strength of the [Tiangêngzhé](/The%20Aliffrüme%20Encyclopedia/Glossary.md#^fe6428) is their extreme compatibility with gimynfire and ghostbreathing. Their main adaptation is inbuilt pneumivorous pigments, allowing them to work long hours without food
+As a species, the main strength of the [Tiangêngzhé](/The_Aliffrume_Encyclopedia/Glossary.md#^fe6428) is their extreme compatibility with gimynfire and ghostbreathing. Their main adaptation is inbuilt pneumivorous pigments, allowing them to work long hours without food
 
 Their pigments are exceptionally absorptive, and their bodies also seasonally purge and cycle them, which also happens to align with the pH cycle of many tropical climates.
 

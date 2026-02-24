@@ -10,9 +10,9 @@ Named for a Hythean mythological figure, the beginning of all natural eternals i
 
 ### Induced Eternity
 
-At the peak of the Hythean era, it’s believed nearly every [firekeeper](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Firekeeper.md) alive was artificially eternal, as records from the lower classes describe their lifespans stretching for grandcycles and undergoing a notable change after some ritual tradition. Records from the Hytheans, meanwhile, indicate a routine medical procedure performed during adulthood supplanted common genetic machinery using material from something called the Progenitrix.   
+At the peak of the Hythean era, it’s believed nearly every [firekeeper](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Firekeeper.md) alive was artificially eternal, as records from the lower classes describe their lifespans stretching for grandcycles and undergoing a notable change after some ritual tradition. Records from the Hytheans, meanwhile, indicate a routine medical procedure performed during adulthood supplanted common genetic machinery using material from something called the Progenitrix.   
 
-Further investigation in recent years has led to the discovery of the exact process, which utilizes the genetic material of the Progenitrix, the first Hythean [Firekeeper](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Firekeeper.md) to maintain an Ouroboran state for long enough to produce results, producing cells that naturally harvested soulfire to produce energy.  
+Further investigation in recent years has led to the discovery of the exact process, which utilizes the genetic material of the Progenitrix, the first Hythean [Firekeeper](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Firekeeper.md) to maintain an Ouroboran state for long enough to produce results, producing cells that naturally harvested soulfire to produce energy.  
 
 To undergo this process, one must be subject to the incredibly complex and soulfire-intensive Rite of Transcendence. This engram is what actually replaces all the relevant biological machinery with soulfire-powered substitutes, essentially being genetic engineering through firekeeping.  
 

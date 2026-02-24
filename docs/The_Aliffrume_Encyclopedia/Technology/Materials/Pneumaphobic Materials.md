@@ -1,5 +1,5 @@
 ## Pneumaphobic Materials
-Contrasting [Pneumaphilic Materials](/The%20Aliffrüme%20Encyclopedia/Technology/Materials/Pneumaphilics/Pneumaphilic%20Materials.md), pneumaphobic materials are those which are generally resistant to intuitive phenomena, but may have exceedingly high capacitance as a result.
+Contrasting [Pneumaphilic Materials](/The_Aliffrume_Encyclopedia/Technology/Materials/Pneumaphilics/Pneumaphilic%20Materials.md), pneumaphobic materials are those which are generally resistant to intuitive phenomena, but may have exceedingly high capacitance as a result.
 ### List of Known Pneumaphobic Materials
 * Lead  
 * Tungsten  

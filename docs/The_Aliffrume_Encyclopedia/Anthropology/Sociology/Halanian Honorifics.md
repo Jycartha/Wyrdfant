@@ -8,7 +8,7 @@ A honorific which roughly translates to “the quality of scintillating brillian
 A rare title used to refer to those who are capable in both scriptcraft and scriptlighting, mostly relegated to historical texts or once-in-a-generation talents. Considered a unique enough title to simply omit the bearer’s name in most circumstances.  
 
 ### Highscholar
-A title synonymous with a position of employment under the [Reijëngad](/The%20Aliffrüme%20Encyclopedia/Anthropology/Government/Reijëngad.md) as the most respected level of researcher. The title takes precedence over Flamescribe and Scriptlighter, although Blícance or Radiance may be swapped in after one has already referred to them by their proper title. Shortened to HSch.
+A title synonymous with a position of employment under the [Reijëngad](/The_Aliffrume_Encyclopedia/Anthropology/Government/Reijëngad.md) as the most respected level of researcher. The title takes precedence over Flamescribe and Scriptlighter, although Blícance or Radiance may be swapped in after one has already referred to them by their proper title. Shortened to HSch.
 
 ### Scholar
-A widely recognized title in [Monêfor](/The%20Aliffrüme%20Encyclopedia/Geography/Monêfor.md) and [Halisan](/The%20Aliffrüme%20Encyclopedia/Geography/Halisan.md), it is granted to those in possession of a scholar’s badge from a royal university. To earn a scholar’s badge, one must typically complete the highest level of program available and make some advancement deemed appropriate by the university. Shortened to Sch. in writing.
+A widely recognized title in [Monêfor](/The_Aliffrume_Encyclopedia/Geography/Monêfor.md) and [Halisan](/The_Aliffrume_Encyclopedia/Geography/Halisan.md), it is granted to those in possession of a scholar’s badge from a royal university. To earn a scholar’s badge, one must typically complete the highest level of program available and make some advancement deemed appropriate by the university. Shortened to Sch. in writing.

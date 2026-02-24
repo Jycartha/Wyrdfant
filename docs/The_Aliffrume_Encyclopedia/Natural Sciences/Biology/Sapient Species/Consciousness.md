@@ -1,4 +1,4 @@
 ### Consciousness on Aliffrüme
-A sapient species, generally, is any intelligent species which has successfully developed a [soul](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md), thus achieving a certain level of self-awareness and higher cognition. 
+A sapient species, generally, is any intelligent species which has successfully developed a [soul](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md), thus achieving a certain level of self-awareness and higher cognition. 
 
 Consciousness lies on a scale. However, there is an important distinction to be made. *Sapience* is used to delineate a state of higher awareness (where "sentience" might be used commonly), whereas *consciousness* instead means an understanding of one’s sentience, a sort of peace with and awareness of one’s own inner workings. Consciousness is low in the denialists, the troubled, and the uncertain. Meanwhile it is high in the wise, the accepting, and the understanding.

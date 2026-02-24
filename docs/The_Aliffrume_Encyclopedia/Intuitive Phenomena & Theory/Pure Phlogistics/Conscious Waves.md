@@ -1,2 +1,2 @@
 # Conscious Waves
-Quite simply, waves in the [Conscious Plane](/The%20Aliffrüme%20Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane.md), generated from the movements of engrammatic mass and changing intentions.
+Quite simply, waves in the [Conscious Plane](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane.md), generated from the movements of engrammatic mass and changing intentions.

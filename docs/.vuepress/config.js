@@ -30,7 +30,7 @@ const getSidebarItems = (dir) => {
 })
 
   files.forEach((file) => {
-    if (file.isDirectory() && file.name !== ".vuepress") {
+    if (file.isDirectory() && file.name !== ".vuepress" && file.name !== ".Trash-1000") {
       const folderName = file.name;
       const folderPath = path.join(dir, folderName);
       const children = fs
