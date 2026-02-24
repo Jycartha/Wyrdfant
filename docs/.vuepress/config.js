@@ -8,8 +8,6 @@ import { defineUserConfig } from 'vuepress'
 import path from "path";
 import fs from "fs";
 
-const docsDir = path.resolve(__dirname, "../The_Aliffrume_Encyclopedia/");
-
 const getSidebarItems = (dir) => {
   const items = [];
   const files = fs.readdirSync(dir, { withFileTypes: true });
@@ -57,7 +55,7 @@ const getSidebarItems = (dir) => {
     if (!file.isDirectory() && file.name !== 'README.md' && file.name.split(".")[1] == "md") {
       const fileName = file.name;
       const mantissa = fileName.split(".")[0];
-      const relativeDir = dir.slice(dir.indexOf("The")-1);
+      const relativeDir = dir.slice(dir.indexOf("docs")+4);
       items.push({
         link: `${path.join(relativeDir, mantissa)}`,
         text: mantissa,
@@ -69,7 +67,7 @@ const getSidebarItems = (dir) => {
 };
 
 const generateSidebar = () => {
-  return getSidebarItems(docsDir);
+  return getSidebarItems(path.resolve(__dirname, "../The_Aliffrume_Encyclopedia/"));//.concat(getSidebarItems(path.resolve(__dirname, "../writings/")));
 };
 
 export default defineUserConfig({
