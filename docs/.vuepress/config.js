@@ -91,13 +91,14 @@ export default defineUserConfig({
         link: '/updates/',
       },
       {
+        text: 'Writings',
+        link: '/writings/',
+      },
+      {
         text: 'Encyclopedia',
         link: '/The_Aliffrume_Encyclopedia/',
       },
-      {
-        text: 'Writings',
-        link: '/writings/',
-      }
+      
     ],
 
     sidebar: generateSidebar(),
