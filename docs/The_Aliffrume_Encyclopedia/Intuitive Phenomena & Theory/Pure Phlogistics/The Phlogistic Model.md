@@ -2,7 +2,7 @@ Given the technical complexity of this file, it’s recommended that first-time 
 # The Phlogistic Model   
 
 The predominant theory of [Intuition](/The_Aliffrume_Encyclopedia/Natural%20Sciences/Biology/Intuition.md) which models such phenomena as being caused by the generation, movement, and decay of [Soulfire](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md), itself caused by the curvature of the [Conscious Plane](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane.md), ultimately due to the patterns of the fundamental phases and [Soulfire](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md). In this way, the model situates the phases as the ultimate source of intuitive phenomena and paracausality.
-## [Leombjürna's](/Narratives/Characters/Birth%20of%20a%20Nation/Älwathend%20Witafjürgen.md) Laws of Engrams
+## [Leombjürna's](/Narratives/Characters/Sic%20Semper%20Tyrannis/Älwathend%20Witafjürgen.md) Laws of Engrams
 
 1. An [engram](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md), herein as it is defined, is any process which controls [Soulfire](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md) for some purpose. Thermodynamically, it is any process which influences state evolution (entropy) by the paracausal control of [Soulfire](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md).
 

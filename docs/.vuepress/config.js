@@ -8,7 +8,7 @@ import { defineUserConfig } from 'vuepress'
 import path from "path";
 import fs from "fs";
 
-const getSidebarItems = (dir) => {
+const getSidebarItems = (dir, capitalizing) => {
   const items = [];
   const files = fs.readdirSync(dir, { withFileTypes: true });
 
@@ -25,7 +25,7 @@ const getSidebarItems = (dir) => {
     }
 
     return 1;
-})
+  })
 
   files.forEach((file) => {
     if (file.isDirectory() && file.name !== ".vuepress" && file.name !== ".Trash-1000") {
@@ -38,17 +38,19 @@ const getSidebarItems = (dir) => {
 
       if (children.length === 1 && children[0] === "README") {
         // Folder with just README.md
+        const text = capitalizing ? folderName.replace(/-/g, " ").toUpperCase() : folderName.replace(/-/g, " ")
         items.push({
-          text: folderName.replace(/-/g, " ").toUpperCase(),
+          text: text,
           link: `/${folderName}/`,
         });
       } else {
         // Folder with other markdown files 
+        const text = capitalizing ? folderName.replace(/-/g, " ").toUpperCase() : folderName.replace(/-/g, " ")
         items.push({
-          text: folderName.replace(/-/g, " ").toUpperCase(),
+          text: text,
           path: `/${folderName}/`,
           collapsible: true,
-          children: getSidebarItems(path.join(dir,folderName + "/"))//children.filter((child) => child !== "README"),
+          children: getSidebarItems(path.join(dir,folderName + "/"), capitalizing)//children.filter((child) => child !== "README"),
         });
       }
     }
@@ -66,8 +68,9 @@ const getSidebarItems = (dir) => {
   return items;
 };
 
-const generateSidebar = () => {
-  return getSidebarItems(path.resolve(__dirname, "../The_Aliffrume_Encyclopedia/"));//.concat(getSidebarItems(path.resolve(__dirname, "../writings/")));
+const generatedSidebar = {
+      '/The_Aliffrume_Encyclopedia/' : getSidebarItems(path.resolve(__dirname, "../The_Aliffrume_Encyclopedia/"), true),
+      '/writings/': getSidebarItems(path.resolve(__dirname, "../writings/"), false),
 };
 
 export default defineUserConfig({
@@ -99,7 +102,7 @@ export default defineUserConfig({
       
     ],
 
-    sidebar: generateSidebar(),
+    sidebar: generatedSidebar,
 
   }),
 
