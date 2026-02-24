@@ -8,7 +8,7 @@ import { defineUserConfig } from 'vuepress'
 import path from "path";
 import fs from "fs";
 
-const docsDir = path.resolve(__dirname, "../The Aliffrüme Encyclopedia/");
+const docsDir = path.resolve(__dirname, "../The_Aliffrume_Encyclopedia/");
 
 const getSidebarItems = (dir) => {
   const items = [];
@@ -92,7 +92,7 @@ export default defineUserConfig({
       },
       {
         text: 'Encyclopedia',
-        link: '/The Aliffrüme Encyclopedia/',
+        link: '/The_Aliffrume_Encyclopedia/',
       },
       {
         text: 'Writings',
