@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: /images/12prongOrangeTransparent.png
+heroImage: /images/serverLogo512goldNeon.png
 tagline: Once More Unto The Void
 heroText: Würdfant
 actions:

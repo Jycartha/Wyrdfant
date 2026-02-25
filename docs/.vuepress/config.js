@@ -81,7 +81,7 @@ export default defineUserConfig({
   base: "/Wyrdfant/",
 
   theme: defaultTheme({
-    logo: '/images/12prongGoldTransparent.png',
+    logo: '/images/serverLogo512goldTransparent.png',
     colorMode: 'dark',
     colorModeSwitch: false,
 
