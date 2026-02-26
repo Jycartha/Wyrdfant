@@ -83,7 +83,7 @@
   // brand colors
   --vp-c-accent: #e48512;
   --vp-c-accent-bg: #e48512;
-  --vp-c-accent-hover: #964A7B;
+  --vp-c-accent-hover: #472555; //#600094;
   --vp-c-accent-soft: rgb(16 185 129 / 16%);
 
   // background colors
@@ -133,4 +133,7 @@ body {
 .article {
   background-color: #10101080;
   backdrop-filter: blur(2px);
+}
+.vp-hero-action-button:hover{
+  color: #DADAE2;
 }

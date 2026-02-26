@@ -1,5 +1,4 @@
-### The Conscious Plane
-
+# The Conscious Plane
 Also known as the collective unconscious, the afterlife, or the Shadowless Dream, the conscious plane is defined as a conjoined space overlapped with material reality, and a central component of [The Phlogistic Model](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md) of intuitive phenomena. The conscious plane is so named for its role in housing the soul and its processes, such as thought, choice, and emotion. At the time of writing, competing theories disagree on whether consciousness is a consequence of soulfire or vice versa.
 
 Careful investigation has revealed that the conscious plane is filled with a kind of noise, theorized to be the result of infinitely many unique fluctuation patterns overlapping and destructively interfering. Soulfire is brought into existence along with change in the conscious plane’s structure and unraveled by tidal forces, and thus a small amount of soulfire percolates throughout reality in accordance with the noise.
