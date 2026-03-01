@@ -29,7 +29,7 @@ Of note is the Kaithurhi's distinct lack of spark sensors, due to all life in co
 
 ### Muintaferan
 
-A species closely related to the Kaithurhi, who live mostly on the bloodgrass plains just south of Kanthyna and the Hynawyll valley. They possess extremely dark skin, deer-like scarlet antlers, and almost homogeneously possess scarlet hair and eyes. Their ears are rounded and devoid of pyrrhoreceptors, something extremely rare in Aliffrüme and only shared with the Kaithurhi. Their hair and antlers help them to camouflage among the bloodgrass, resembling standing blades.  
+A species closely related to the Kaithurhi, who live mostly on the bloodgrass plains just south of Kanthyna and the Hynawyll valley. Characterized by dark skin to guard against the equatorial sun without tree cover, deer-like scarlet antlers, and nearly homogeneously scarlet hair and eyes. Their ears are rounded and devoid of pyrrhoreceptors, something extremely rare in Aliffrüme and only shared with the Kaithurhi. Their hair and antlers help them to camouflage among the bloodgrass, resembling standing blades.  
 
 Due to their grassland environment, they evolved rather long and powerful legs, which grants them a rather tall average height. In addition to their excellent stamina, this makes them well suited to long bouts of running. This lends itself to chasing down the agile prey on the plains, and makes a greater portion of their height compressible for hiding in the bloodgrass. Other species do believe it to look rather strange, however.  
 
