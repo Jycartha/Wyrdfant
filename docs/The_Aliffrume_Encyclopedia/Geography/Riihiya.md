@@ -1,4 +1,4 @@
-# **Riihiya**
+# Riihiya
 
 ### The Strahlerz Mountains
 

@@ -1,3 +1,3 @@
-# **Anndalor**
+# Anndalor
 
 ### Thundering Hills

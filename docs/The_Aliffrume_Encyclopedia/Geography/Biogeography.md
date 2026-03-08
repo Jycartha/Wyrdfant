@@ -1,4 +1,4 @@
-# **Biogeography**
+# Biogeography
 
 ## Biomes
 
