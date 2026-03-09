@@ -34,7 +34,3 @@ A species closely related to the Kaithurhi, who live mostly on the bloodgrass pl
 Due to their grassland environment, they evolved rather long and powerful legs, which grants them a rather tall average height. In addition to their excellent stamina, this makes them well suited to long bouts of running. This lends itself to chasing down the agile prey on the plains, and makes a greater portion of their height compressible for hiding in the bloodgrass. Other species do believe it to look rather strange, however.  
 
 They are known to most other races in the form of Cruín, Muintaferan who choose to dedicate their lives to assisting the good and kind. Although most are taught to respect the Cruín, some competitively-minded foreigners often capture the Muintaferan for sale into slavery. Not that the Jïumannians treat them much better, even if the populations outside the valley can flourish in modern gimyndized society.
-
-## Cressan
-### Leaf-blade Combat
-A common style of combat within the Roseine Forest, which relies on the titular leaf-blade, a leaf-shaped dagger with a groove intended for a Leaudoré’s toxin. This is largely due to swords and other long slashing or spinning weapons having been viewed as impractical tools of war in the dense undergrowth, save for stabbing spears.
