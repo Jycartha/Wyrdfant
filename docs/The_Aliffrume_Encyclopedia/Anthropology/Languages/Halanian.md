@@ -2,7 +2,7 @@
 
 ### Naming Conventions
 
-  The countries of [Halisan](/The_Aliffrume_Encyclopedia/Geography/Halisan.md) are notably unanimous in their naming standards, with the exceptions being Mingxiao and the Ametsuji. Like most Thassalian cultures, the first name is granted by the parents, a middle name is taken from the mother, and the last name is taken from the father. A typical full name for a [Jïumannian](/The_Aliffrume_Encyclopedia/Anthropology/Culture/Tradition/Jïumannes.md) woman would be Baswa Feiritha Bloedmyn.
+  The countries of [Halisan](../../Geography/Halisan.md) are notably unanimous in their naming standards, with the exceptions being Mingxiao and the Ametsuji. Like most Thassalian cultures, the first name is granted by the parents, a middle name is taken from the mother, and the last name is taken from the father. A typical full name for a [Jïumannian](../Culture/Tradition/Jïumannes.md) woman would be Baswa Feiritha Bloedmyn.
 
   ### Common Fem. Names and Meanings
 
@@ -10,7 +10,7 @@
 
 * **Feiritha (F)** \- Kindly caretaker, gentle soul 
 
-* **Lasticra (F)** \- Reddish-violet, a mediator. Common name for [Muintaferan](/The_Aliffrume_Encyclopedia/Natural%20Sciences/Biology/Sapient%20Species/Kuthjïuman.md#Muintaferan) immigrants.
+* **Lasticra (F)** \- Reddish-violet, a mediator. Common name for [Muintaferan](../../Natural%20Sciences/Biology/Sapient%20Species/Kuthjïuman.md#Muintaferan) immigrants.
 
 * **Janalyr** **(F)** \- Flower-tender, nurturer. Lit. “one who cares for Jada flowers.” A common name in Arenfürich.
 
@@ -26,13 +26,13 @@
 
 * **Estageia (F)** \- Lit. “kind wisdom,” a name given to benevolent scholars and flamescribes.
 
-* **Orthanes (F)** \- Lit. “original wit,” a nominative version of the [Áren](/The_Aliffrume_Encyclopedia/Natural%20Sciences/Biology/Sapient%20Species/Kuthjïuman.md#Áren) concept of Orthan, a sort of comprehensive understanding.
+* **Orthanes (F)** \- Lit. “original wit,” a nominative version of the [Áren](../../Natural%20Sciences/Biology/Sapient%20Species/Kuthjïuman.md#Áren) concept of Orthan, a sort of comprehensive understanding.
 
 * **\[NOUN\] \+ fæger** \- Lit. “\[noun\]’s beauty,” a common method of forming names from nouns. 
 
 ### Common Male Names and Meanings
 
-* **Blæwen (M)** \- Derived from the name of a wisteria-like tree native to [Arenfürich](/The_Aliffrume_Encyclopedia/Geography/Halisan.md#Arenfürich) with a notorious charcoal-black trunk, known for its adaptability and purplish-blue leaves. The name thus tends to mean “tenacious, understanding, and persevering.”
+* **Blæwen (M)** \- Derived from the name of a wisteria-like tree native to [Arenfürich](../../Geography/Halisan.md#Arenfürich) with a notorious charcoal-black trunk, known for its adaptability and purplish-blue leaves. The name thus tends to mean “tenacious, understanding, and persevering.”
 
 * **Bawso (M)**  \- Deep violet, the color of plenty. A common farmer’s name.
 

@@ -2,7 +2,7 @@
 title: Preface
 ---
 # The Aliffrüme Encyclopedia
-![Aliffrüme Map Banner](/images/Aliffrume.png)
+![Aliffrüme Map Banner](../Images/Aliffrume.png)
 ## Preface
 
 *Disclaimer: This work has been translated from its native Halanian to contemporary English. Many terms have been approximated or piecewise translated, but proper nouns and certain material names have been simply transliterated in accordance with standard practices. A glossary of such terms and their common pronunciation has been appended, and a link on the first occurrence of such terms within the tab to their glossary entry provided.*

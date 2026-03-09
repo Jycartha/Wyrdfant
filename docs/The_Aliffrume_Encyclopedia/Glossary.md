@@ -13,7 +13,7 @@ Will generally be transcribed as a j with a vowel afterwards, which is indicated
 ## Phlogistical Terms
 ### Pneumaphilic
 Adj.  
-Having a high capacity for and/or ease of [infusion](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md).
+Having a high capacity for and/or ease of [infusion](Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md).
 ### Notion
 Noun
 

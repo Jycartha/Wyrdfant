@@ -4,13 +4,13 @@
 
 ### Hythean Era (13,805 AC \- 2,764 AC)
 
-Defined by the global dominion of the Hythean Empire. Humanity used highly advanced digital technology, in addition to a majority of the population being genetically modified. During this time, Aliffrüme was called “Kal’hamaq” by the Hytheans, meaning “all-source,” with this meaning persisting in many Aliff languages. This era ended with the Great Gimyndization, which saw the spontaneous end of Hythean records and the earliest confirmed appearance of [dyed gimyndine](/The_Aliffrume_Encyclopedia/Technology/Materials/Pneumaphilics/Pneumaphilic%20Materials.md#Gimyndine%20Varieties) samples known to date. These gimyns would gradually be broken up, buried, and scattered by the forces of time, with the most powerful gimyns being located around major gatherings of the erudite, like old underground cities or metropolises.
+Defined by the global dominion of the Hythean Empire. Humanity used highly advanced digital technology, in addition to a majority of the population being genetically modified. During this time, Aliffrüme was called “Kal’hamaq” by the Hytheans, meaning “all-source,” with this meaning persisting in many Aliff languages. This era ended with the Great Gimyndization, which saw the spontaneous end of Hythean records and the earliest confirmed appearance of [dyed gimyndine](../Technology/Materials/Pneumaphilics/Pneumaphilic%20Materials.md#Gimyndine%20Varieties) samples known to date. These gimyns would gradually be broken up, buried, and scattered by the forces of time, with the most powerful gimyns being located around major gatherings of the erudite, like old underground cities or metropolises.
 
 ## Age of Twilight
 
 ### The Great Gimyndization (2,763 AT)
 
-The event which changed humanity forever, and the first day records of dyed gimyndine are dated to. The event is believed to have been caused by a planetary-scale pulse of [gimynfire](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md#Gimynfire) resonant with the Progenitor, killing every [artificial ascendant](/The_Aliffrume_Encyclopedia/Natural%20Sciences/Biology/Corporeal%20Immortality.md#**Induced%20Eternity**) it touched. All that remained of life on Aliffrüme was plants and animals incapable of harnessing [soulfire](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md#Soulfire), and the lower class of hytheans which had no eternity to interfere with.
+The event which changed humanity forever, and the first day records of dyed gimyndine are dated to. The event is believed to have been caused by a planetary-scale pulse of [gimynfire](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md#Gimynfire) resonant with the Progenitor, killing every [artificial ascendant](../Natural%20Sciences/Biology/Corporeal%20Immortality.md#**Induced%20Eternity**) it touched. All that remained of life on Aliffrüme was plants and animals incapable of harnessing [soulfire](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md#Soulfire), and the lower class of hytheans which had no eternity to interfere with.
 
 ### Twilight Era (2,763 AT \- 1 AT)
 
@@ -22,7 +22,7 @@ Crude semi-medieval societies emerged and fell, with very few finding the power 
 
 ### Day of First Light (0 AL)
 
-The origin point for many nations, each for separate reasons. Each reason, however, has its roots in when the local discovery of gimyndine’s use in [scriptlighting](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md#Flamescript) took place. For some this means a legendary inventor creating marvels of technology, for others it means the appearance of royally powerful flamebearers. But curiously, all of these “first contacts” with modern firekeeping were recorded to occur within the same cycle, a fact currently explained as coincidence.
+The origin point for many nations, each for separate reasons. Each reason, however, has its roots in when the local discovery of gimyndine’s use in [scriptlighting](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md#Flamescript) took place. For some this means a legendary inventor creating marvels of technology, for others it means the appearance of royally powerful flamebearers. But curiously, all of these “first contacts” with modern firekeeping were recorded to occur within the same cycle, a fact currently explained as coincidence.
 
 ### Kindling Period (0 \- 93 AL)
 
@@ -30,7 +30,7 @@ In the early medieval society still inundated with fear of possibly returning to
 
 ### Age of the Wanderflame (93 \- 394 AL)
 
-As certain people came to realize they could control a certain degree of power, many took to becoming “wanderflames,” [firekeepers](/The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Firekeeper.md) who traveled from place to place and used their comparatively-miniscule powers of flameless optimization to get by. Many legends and religions have their basis in embellished stories from this period, the true nature of the deified’s abilities slipping through the fingers of oral tradition.
+As certain people came to realize they could control a certain degree of power, many took to becoming “wanderflames,” [firekeepers](../Intuitive%20Phenomena%20&%20Theory/Firekeeper.md) who traveled from place to place and used their comparatively-miniscule powers of flameless optimization to get by. Many legends and religions have their basis in embellished stories from this period, the true nature of the deified’s abilities slipping through the fingers of oral tradition.
 
 ### The Dwindling (395 \- 431 AL)
 
