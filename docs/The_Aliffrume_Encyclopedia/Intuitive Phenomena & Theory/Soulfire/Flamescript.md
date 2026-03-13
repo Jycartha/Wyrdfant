@@ -12,7 +12,7 @@ Upon completion of this process, the lightfire will infuse upon the surface in a
 
 It should be noted that if a flamescribe possesses sufficient skill, the process of transcription can occur with much less than complete focus, and flamescript can be encoded briefly upon the body, allowing for scripts to be "remembered" in the short term.
 
-The form of flamescript varies heavily, due to their origin in the myriad thoughts of sapients. Those engraved using dyed gimynfire contain idiosyncratic circular patterns, the system used by the Hytheans to describe reality in mathematical notation. Flamescript burned by a natural [Firekeeper](../Firekeeper.md) or luciant, on the other hand, takes on a more chaotic and inconsistent shape that carries an uncanny beauty nonetheless.
+The form of flamescript varies heavily, due to their origin in the myriad thoughts of sapients. Those engraved using dyed gimynfire contain idiosyncratic circular patterns, the system used by the Hytheans to describe reality in mathematical notation. Flamescript burned by a natural [Firekeeper](../Firekeeping/Firekeeper.md) or luciant, on the other hand, takes on a more chaotic and inconsistent shape that carries an uncanny beauty nonetheless.
 
 ### Vestiges
 

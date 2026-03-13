@@ -2,4 +2,4 @@
 
 The study of [Soulfire](../Pure%20Phlogistics/Soulfire.md) and [Conscious Plane](../Pure%20Phlogistics/Conscious%20Plane.md), and how soulfire interacts with itself. It involves the study of [abstraction drag](../Pure%20Phlogistics/Engram.md#Abstraction%20Drag), [Infusion](../Soulfire/Interactions/Infusion.md) techniques, [Phlogistic Computing](Phlogistic%20Computing.md), resonance, [gimynfire](../Pure%20Phlogistics/Soulfire.md#gimynfire) control, and other fields. Essentially, hagnomy is to firekeeping like physics is to engineering. 
 
-Hagnomists are often looked down on as people who can’t focus on reality, but other [firekeepers](../Firekeeper.md) appreciate their curiosity for the abstract.
+Hagnomists are often looked down on as people who can’t focus on reality, but other [firekeepers](../Firekeeping/Firekeeper.md) appreciate their curiosity for the abstract.

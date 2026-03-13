@@ -30,7 +30,7 @@ In the early medieval society still inundated with fear of possibly returning to
 
 ### Age of the Wanderflame (93 \- 394 AL)
 
-As certain people came to realize they could control a certain degree of power, many took to becoming “wanderflames,” [firekeepers](../Intuitive%20Phenomena%20&%20Theory/Firekeeper.md) who traveled from place to place and used their comparatively-miniscule powers of flameless optimization to get by. Many legends and religions have their basis in embellished stories from this period, the true nature of the deified’s abilities slipping through the fingers of oral tradition.
+As certain people came to realize they could control a certain degree of power, many took to becoming “wanderflames,” [firekeepers](../Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md) who traveled from place to place and used their comparatively-miniscule powers of flameless optimization to get by. Many legends and religions have their basis in embellished stories from this period, the true nature of the deified’s abilities slipping through the fingers of oral tradition.
 
 ### The Dwindling (395 \- 431 AL)
 

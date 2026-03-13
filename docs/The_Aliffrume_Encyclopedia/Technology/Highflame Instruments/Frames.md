@@ -1,6 +1,6 @@
 ## Frames
 
-A staple of the [Flamebearer](../../Intuitive%20Phenomena%20&%20Theory/Flamebearer.md)’s professional sphere, a frame is any sufficiently large device intended to serve as an expansion of the bearer’s body, which allows for and facilitates high-level use of [gimynfire](../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md#Gimynfire). Because most professional activities are locked behind that level of use, the ability to operate a frame is considered the mark of a fully-matured flamebearer.  
+A staple of the [Flamebearer](../../Intuitive%20Phenomena%20&%20Theory/Firekeeping/Flamebearer.md)’s professional sphere, a frame is any sufficiently large device intended to serve as an expansion of the bearer’s body, which allows for and facilitates high-level use of [gimynfire](../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md#Gimynfire). Because most professional activities are locked behind that level of use, the ability to operate a frame is considered the mark of a fully-matured flamebearer.  
   
 The principal purpose of a frame is twofold: a *capacitor* and a *reinforcement*. As a natural extension, they also serve to provide a great deal of protection to their users, while greatly enhancing their effective strength. There are myriad designs that meet these requirements, though they can generally be sorted into *two categories*.  
 
