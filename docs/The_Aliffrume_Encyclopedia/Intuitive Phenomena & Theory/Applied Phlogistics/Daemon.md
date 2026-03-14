@@ -1,0 +1,2 @@
+# Daemon
+An intentionally designed subconscious process within the soul plane, and an incredibly important aspect of [phlogistic computing](Phlogistic%20Computing.md). These form the basis of many dynamic engrams, often responsible for arithmetic, timekeeping, sensory interpretation, memory management, and other otherwise conscious processes.

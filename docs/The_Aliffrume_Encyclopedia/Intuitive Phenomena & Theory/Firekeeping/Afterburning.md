@@ -1,0 +1,13 @@
+# Afterburning
+<!-- Alt Title: Superradiance -->
+<!-- Note: This is basically just Overdrive -->
+An advanced and highly technical process central to high-level [soulkeeping](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Soulkeeping.md), which involves inducing controlled combustion within the [soul plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md) during resonance in order to accelerate [soulfire](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md) generation. Properly managed, it leads to exponential growth in soulfire production, at the cost of being highly unstable and requiring extreme focus, lest the user misplace a combustion and force themselves unconscious.
+
+Notably, though it depends *heavily* upon the shape of the user's soul, this process is highly procedural, and thus easily automated by a [daemon](../Applied%20Phlogistics/Daemon.md). Such daemons are referred to as **afterburners**, and are exceptionally rare, given they often cannot be made for others and require a high level of comfort with [phlogistic computing](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md). More often than not, most soulkeepers simply learn the process as muscle memory, which while unreliable and messier, is easier to do.
+<!--
+Decanonized. Back from when soulfire was less rigorously defined.
+
+An ancient technique lost in the Hythean Era, which greatly strengthens soulfire’s material presence and energy content. To lightburn, the most important trait is an intensely focused desire grounded in the world; e.g. to save a loved one, defeat an enemy, etc. When a user recognizes and embraces this desire, resolving to hunt it no matter the obstacles, their soulfire becomes singularly aligned and laser focused, moving in perfect accordance and notable density. Additionally, the user becomes able to exert a greater conscious force at further distance, effectively gaining range.
+
+While lightburning, a user will be granted an incredibly enhanced physical fortitude and capacity for strength, heightened physical senses and intuition, and even the ability to harden soulfire into physical constructs while in contact with the body. Reports of the process by wielders also note a peculiar mindset consuming them while fully embracing the technique, not unlike a single-minded focus or “flow state.”
+-->

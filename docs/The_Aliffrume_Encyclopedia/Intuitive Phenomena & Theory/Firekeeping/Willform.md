@@ -1,0 +1,1 @@
+<!-- Implement later. Basically an "innate technique" that can afford mysticism because it follows the shape of the soul. Often colors the majority of a fighter's arsenal, and can be anything from an aspect to Ash's space-time warping. -->

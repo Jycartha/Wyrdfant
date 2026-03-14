@@ -1,6 +1,5 @@
-### The Soul
-
-Under the Phlogistic Model, the soul is a separate region of the conscious plane roughly overlapping the body. When standing curvature passes a certain limit, noise effects become negligible and the constituent phases begin self-stimulating and entering feedback loops with each other. This runaway process results in a curvature singularity, which promptly rebounds into a new, separate conscious plane composed of the phase set, generally reaching hydrostatic equilibrium with the wider plane’s phlogistic pressure in the shape of the body.
+# The Soul
+Under the Phlogistic Model, the soul is a separate region of [the conscious plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane.md) roughly overlapping the body. When standing curvature passes a certain limit, noise effects become negligible and the constituent phases begin self-stimulating and entering feedback loops with each other. This runaway process results in a curvature singularity, which promptly rebounds into a new, separate conscious plane composed of the phase set, generally reaching hydrostatic equilibrium with the wider plane’s phlogistic pressure in the shape of the body.
 
 The soul is further situated within a region of conscious space called the ***halo***, which has its boundary where foreign soulfire holds the soul’s own in equilibrium with external phlogistic pressure. The movements and vibrations of the soul result in halo soulfire being squashed and stretched, and correspond to the notion of thought and emotion. From this, the model thus posits the conscious soul to be the ultimate center of consciousness, and the seat of the common idea of “the self.”
 
@@ -15,7 +14,6 @@ Many scholars debate which exact pieces of the conscious experience the soul and
 The soul is also capable of affecting change within the exterior conscious plane according to a propagation limit. Within the noise, any phase is mostly unable to distinguish itself from the others and thus acts essentially randomly, resulting in close to net zero curvature. A soul creates a region of self-determination, from which information and [intention](Intention%20Field.md) can propagate out at light speed, with intention losing intensity as it travels through the noise.
 
 ### Refinement
-
 Despite the generally positive connotation of the term “refinement,” in phlogistics it serves as a catch-all term for reformations of the soul. This includes the original process named as such, the reforging of postnatal fireborn, and the corruption of shades.
 
 The original process, which gave the category its name, involves maintaining a sufficiently high soulfire production state with significant alignment for some length of time. If successful, and often accidental, the spinning soulfire will reach a critical point before collapsing down onto the soul, perfectly merging with it and granting the soul a higher “density.” This results in future movements of the soul inducing more curvature, thus allowing for stronger generation and manipulation. However, it also allows for the same production to be achieved with less movement, thus making previous tasks more efficient.
@@ -33,11 +31,9 @@ The mechanics of death depend upon the refinement of the dying.  If there remain
 If a being who did not come into possession of a soul dies, the process goes as follows: Once “brain death” takes place, the impression slowly returns to being indistinguishable from the conscious noise.
 
 ### Space Density
-
 Uniformity of space density is not a given when transitioning between conscious planes. In fact, most souls, in comparison to the greater conscious plane, are much denser due to their high engrammatic mass. Necessarily, crossing this boundary appropriately stretches or squishes whatever does so.
 
 ### Wandersouls
-
 Wandersouls are created by the mass recognition of some personification, tiny amounts of soulfire unconsciously donated to form an engrammatic mass in imitation of a soul. They can be benevolent, a notable example being the Lord of the Everstorm, the guardian spirit of Arenfürich. However, wandersouls can also be created from rumors or monster tales, and they will act accordingly.  
 
 Wandersouls vary wildly in power, size, and visibility, according to the number and nature of their believers. Often “imaginary friends” are very real, but since only one being believes in their existence, they are nearly invisible and are limited only to spectating or perhaps speaking through conscious vibrations.  
@@ -50,5 +46,4 @@ A list of known wandersouls and their locations, descriptions, powerbase, abilit
   * Behavior: Non-sentient, ambivalent. Very machine-like, it merely seeks to maintain the patterns of rain.
 
 ### Worldbound Soul
-
 A curious subset of wandersouls formed when a transcendent soul is rejected, binding them to the place of their transcendence as a wandersoul unreliant on extraneous soulfire to persist. Given that they used to be transcendent, they remain able to generate and control a massive amount of soulfire. However, since they no longer possess a corporeal form, they are unable to use coupling.
