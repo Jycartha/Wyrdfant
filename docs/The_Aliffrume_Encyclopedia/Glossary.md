@@ -10,7 +10,7 @@ Will generally be transcribed as a j with a vowel afterwards, which is indicated
 * **Reinbrüne**
   * /ˈrejnbry.ne/  
   * Lit. “the great flame,” the main solar body about which Aliffrüme orbits
-## Phlogistical Terms
+## Phlogistic Terms
 ### Pneumaphilic
 Adj.  
 Having a high capacity for and/or ease of [infusion](Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md).
@@ -22,6 +22,11 @@ I.e.
 - "though he appeared calm, the his halo was furious" 
 - "the engram carried a notion of crimson red" 
 - "her soulfire was always tinged with hope"
+
+### Flamebearer
+Noun
+
+A firekeeper specializing in the implementation of engrams; typically combat-oriented, but may also be industrial or otherwise professional.
 ## Species Names
 
 * **Llantakúna** : \[Yan-ta-ku-na\] /jɑntakyna/

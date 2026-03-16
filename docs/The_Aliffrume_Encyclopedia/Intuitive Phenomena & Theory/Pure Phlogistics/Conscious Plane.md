@@ -8,6 +8,9 @@ Additionally, though the conscious plane is named so, current science can only c
 ### Impressions
 An impression is a region of higher than average curvature in the conscious plane, caused by a congregation of soulfire around an organic object or other construct uniquely adapted to receive certain patterns of soulfire fluctuation. Such regions tend to form around living objects, as the structure of life naturally lends itself to resonating with the phases, with each organism favoring different patterns.
 
+### Space Density
+Uniformity of space density is not a given when transitioning between conscious planes. In fact, most souls, in comparison to the greater conscious plane, are much denser due to their high engrammatic mass. Necessarily, crossing this boundary appropriately stretches or squishes whatever does so.
+
 ### Field Equivalence
 A component of many emerging theories at time of composition is the notion that soulfire and the conscious plane are identical on some deep, fundamental level. That is, soulfire is a compactified form of the conscious plane, and the conscious plane is a vast sea of soulfire. This has many implications on its own, but some unified theories which attempt to marry phlogistics to physical science even go so far as to say physical matter and energy have a similar relation with some as yet undetected field.
 

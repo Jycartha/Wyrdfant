@@ -1,0 +1,2 @@
+### Sparks
+Sparks are the result of soulfire's loss of arbitrary precision when brought into quantized reality. It behaves similarly to electromagnetic radiation, and has the unique property of causing sentient beings to experience [pixies](../Soulfire/Pixies.md) when passing through the brain. Being able to interact with both soulfire and matter, it allows for both soulfire and soulfire constructs to be seen without intuitive senses, such as by machines and artifacts. It is also highly ionizing, and follows different rules for reflection than standard light.
