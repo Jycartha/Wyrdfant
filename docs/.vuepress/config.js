@@ -76,8 +76,8 @@ const generatedSidebar = {
 export default defineUserConfig({
   lang: 'en-US',
   head: [[ 'link', {rel: 'icon', type:'image/png', sizes: '16x16', href: '/Wyrdfant/images/favicon-16x16.png'}]],
-  title: 'Würdfant',
-  description: 'Soethjëorn\'s Wiki, Updates, and Writings',
+  title: 'Sourcepoint',
+  description: 'Andiurne\'s Wiki, Updates, and Writings',
   base: "/Wyrdfant/",
 
   theme: defaultTheme({

@@ -1,3 +1,9 @@
+---
+aliases:
+  - engrammatic matter
+  - ichor
+  - mnemonite
+---
 # Ichor
 Also referred to as engrammatic matter or mnemonite, ichor is a kind of amorphous material formed by infusing [tangled soulfire](../Pure%20Phlogistics/Soulfire.md#Tangled). It naturally encrusts surfaces over time if they are exposed to any amount of [infusion](Interactions/Infusion.md), as permeability gradients slightly bunch up incoming soulfire, which is then slowly infused by the local [conscious pressure](../Pure%20Phlogistics/Conscious%20Plane.md).
 

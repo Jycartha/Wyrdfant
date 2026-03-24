@@ -10,7 +10,7 @@ Defined by the global dominion of the Hythean Empire. Humanity used highly advan
 
 ### The Great Gimyndization (2,763 AT)
 
-The event which changed humanity forever, and the first day records of dyed gimyndine are dated to. The event is believed to have been caused by a planetary-scale pulse of [gimynfire](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md#Gimynfire) resonant with the Progenitor, killing every [artificial ascendant](../Natural%20Sciences/Biology/Corporeal%20Immortality.md#**Induced%20Eternity**) it touched. All that remained of life on Aliffrüme was plants and animals incapable of harnessing [soulfire](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md#Soulfire), and the lower class of hytheans which had no eternity to interfere with.
+The event which changed humanity forever, and the first day records of dyed gimyndine are dated to. The event is believed to have been caused by a planetary-scale pulse of [gimynfire](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md#Gimynfire) resonant with the Progenitor, killing every [artificial ascendant](../Natural%20Sciences/Biology/Corporeal%20Immortality.md#**Induced%20Eternity**) it touched. All that remained of life on Aliffrüme was plants and animals incapable of harnessing [soulfire](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Phlogistic%20Model.md#Soulfire), and the lower class of hytheans which had no eternity to interfere with.
 
 ### Twilight Era (2,763 AT \- 1 AT)
 
@@ -22,7 +22,7 @@ Crude semi-medieval societies emerged and fell, with very few finding the power 
 
 ### Day of First Light (0 AL)
 
-The origin point for many nations, each for separate reasons. Each reason, however, has its roots in when the local discovery of gimyndine’s use in [scriptlighting](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md#Flamescript) took place. For some this means a legendary inventor creating marvels of technology, for others it means the appearance of royally powerful flamebearers. But curiously, all of these “first contacts” with modern firekeeping were recorded to occur within the same cycle, a fact currently explained as coincidence.
+The origin point for many nations, each for separate reasons. Each reason, however, has its roots in when the local discovery of gimyndine’s use in [scriptlighting](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Phlogistic%20Model.md#Flamescript) took place. For some this means a legendary inventor creating marvels of technology, for others it means the appearance of royally powerful flamebearers. But curiously, all of these “first contacts” with modern firekeeping were recorded to occur within the same cycle, a fact currently explained as coincidence.
 
 ### Kindling Period (0 \- 93 AL)
 

@@ -2,8 +2,8 @@
 home: true
 title: Home
 heroImage: /images/serverLogo512orangeNeon.png
-tagline: Once More Unto The Void
-heroText: Würdfant
+tagline: #And onto Definition
+heroText: Unto the Crossroads
 actions:
   - text: Updates
     link: /updates/

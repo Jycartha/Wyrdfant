@@ -2,7 +2,7 @@ What follows is the last-known theories of the [Hythean](Nations%20&%20States/Th
 
 ## Küranna's Theory of Data
 
-An antiquated combined theory of physics and [intuitive phenomena](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/The%20Phlogistic%20Model.md) developed by [Hythean Truthseeker Küranna](../../Narratives/Characters/Misc/Küranna%20of%20Palkûaka.md) regarding the underlying nature of intuitive phenomena, describing the universe as being composed of three fundamental data: Qualia, Axiom, and Substance. Reality is described and processed through Axioms, granted form and motion through Substance, and finally perceived through Qualia.  
+An antiquated combined theory of physics and [intuitive phenomena](../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Phlogistic%20Model.md) developed by [Hythean Truthseeker Küranna](../../Narratives/Characters/Misc/Küranna%20of%20Palkûaka.md) regarding the underlying nature of intuitive phenomena, describing the universe as being composed of three fundamental data: Qualia, Axiom, and Substance. Reality is described and processed through Axioms, granted form and motion through Substance, and finally perceived through Qualia.  
 
 The three elementary aspects of firekeeping–scriptlighting, flowfiring, and coupling–each are manipulations of these three fundamental data for paracausal purposes. Each uses a unique energy drawn from a unique layer of existence, and each can more easily achieve certain effects than the others.  
 

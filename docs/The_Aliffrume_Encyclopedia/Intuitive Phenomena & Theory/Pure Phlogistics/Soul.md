@@ -1,11 +1,20 @@
 # The Soul
-Under the Phlogistic Model, the soul is a separate region of [the conscious plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane.md) roughly overlapping the body. When standing curvature passes a certain limit, noise effects become negligible and the constituent phases begin self-stimulating and entering feedback loops with each other. This runaway process results in a curvature singularity, which promptly rebounds into a new, separate conscious plane composed of the phase set, generally reaching hydrostatic equilibrium with the wider plane’s phlogistic pressure in the shape of the body.
-
-## The Halo
+Under the [Phlogistic Model](Phlogistic%20Model.md), the soul is a separate region of the [conscious plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane.md) roughly overlapping the body. When standing curvature passes a certain limit, noise effects become negligible and the constituent phases begin self-stimulating and entering feedback loops with each other. This runaway process results in a curvature singularity, which promptly rebounds into a new, separate conscious plane composed of the phase set, generally reaching hydrostatic equilibrium with the wider plane’s phlogistic pressure in the shape of the body.
+## Structure
+### The Halo
 The soul is further situated within a region of conscious space called the ***halo***, which has its boundary where foreign soulfire holds the soul’s own in equilibrium with external phlogistic pressure. The movements and vibrations of the soul result in halo soulfire being squashed and stretched, and correspond to the notion of thought and emotion. From this, the model thus posits the conscious soul to be the ultimate center of consciousness, and the seat of the common idea of “the self.”
 
+### The Soul Wall
+While not technically a separate construct, the soul wall is a dense layer of soulfire between the halo and the soul plane, often taking the shape of the soul's body. It naturally arises over time as a result of resonant thought within the plane, and excess is exactly what produces the halo. When removed, conscious waves able to freely transfer into the soul, interfering with the plane's ability to distinguish itself and causing it to gradually blend back into the greater plane. This is precisely what happens during corporeal death, as the dying body becomes less defined and able to support a coherent soul wall, and many beings lack the ability to define their own without the help of infusion.
+
+### The Soul Plane
+Where most of a soul's engrammatic mass is actually concentrated, as an inherent "density" of the plane. All of a soul's cognition and intention begin here.
+
+### The Core
+The densest area of the soul in terms of engrammatic mass, and that which is the least well-studied, due to the difficulty in empirical observation. It's known to store long-term memory as permanent [flamescript](../Soulfire/Flamescript.md), although its exact structure and how it does this is unknown. Notably, the core does not seem to precisely *disappear* upon death with the rest of the soul plane, but rather it seems to unfold and lose structure before becoming too thin to detect.
+
 ## Role of the Brain
-Given the theory that the soul and conscious plane are the source of cognition and choice, it is prudent to clarify the role of the brain in such a model. While the soul hosts what may well be called the psyche and will, the brain acts like an interface and microcontroller for the body. Under this model, the brain can be treated like a sensory organ for the soul, something which presents information about the material plane to the soul, then interprets and enacts the soul’s whims within it.
+Given the theory that the soul and conscious plane are the source of cognition and choice, it is prudent to clarify the role of the brain in such a model. While the soul hosts what may be called the psyche and will, the brain acts like an interface and microcontroller for the body. Under this model, the brain can be treated like a sensory organ for the soul, something which presents information about the material plane to the soul, then interprets and enacts the soul’s whims within it.
 
 But how does the soul communicate with the material plane? It is currently believed that thought necessitates movement in the soul, necessarily causing internal soulfire collisions. This in turn shunts small amounts of soulfire down to communicate the soul’s intentions to the brain, which processes this information into movement and other voluntary functions, while automatically handling involuntary functions.
 
@@ -20,10 +29,13 @@ The soul is also capable of affecting change within the exterior conscious plane
 ## Refinement
 Despite the generally positive connotation of the term “refinement,” in phlogistics it serves as a catch-all term for reformations of the soul. This includes the original process named as such, the reforging of postnatal fireborn, and the corruption of shades.
 
+### Increased Density
 The original process, which gave the category its name, involves maintaining a sufficiently high soulfire production state with significant alignment for some length of time. If successful, and often accidental, the spinning soulfire will reach a critical point before collapsing down onto the soul, perfectly merging with it and granting the soul a higher “density.” This results in future movements of the soul inducing more curvature, thus allowing for stronger generation and manipulation. However, it also allows for the same production to be achieved with less movement, thus making previous tasks more efficient.
 
+### Firebirth
 Refinement also occurs during the process of postnatal firebirth, where an individual undergoes an extreme realization or pattern of thought, resulting in a tremendous volume of soulfire crashing down into their soul plane at once, often initiating a second soul genesis. This reconstructs the soul plane from the ground up, and often the body along with it given the intensity of the phlogistic forces involved. What results in a body and soul more closely aligned with the thoughts that caused the rebirth, often accompanied by a denser and stronger soul plane.
 
+### Shades
 Though decidedly negative, refinement is also the process responsible for the formation and appearance of shades. The chief difference, and a recent discovery with the use of improved pyrrhosensory engrams, is the direction of the soulfire. Rather than in alignment with the soul’s inertia, the soulfire spins with such intensity in an opposing direction, that the soul is bent into conformity until it aligns with the rotation and *then* combines, often trapping the victim in the monstrous form they imagined.
 
 ## Death
