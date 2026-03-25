@@ -2,8 +2,8 @@
 home: true
 title: Home
 heroImage: /images/serverLogo512orangeNeon.png
-tagline: #And onto Definition
-heroText: Unto the Crossroads
+heroText: Ignis et Ichor
+tagline: #Home to None
 actions:
   - text: Updates
     link: /updates/
