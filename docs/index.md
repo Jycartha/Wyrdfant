@@ -2,8 +2,8 @@
 home: true
 title: Home
 heroImage: /images/serverLogo512orangeNeon.png
-heroText: Ignis et Ichor
-tagline: #Home to None
+heroText: Ad Idealis
+tagline: Welcome!
 actions:
   - text: Updates
     link: /updates/
