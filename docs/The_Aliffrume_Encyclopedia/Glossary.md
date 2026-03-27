@@ -1,3 +1,5 @@
+# Glossary
+A collection of definitions and contextualisations by the translators of this work.
 ## General Transcription
 ### Palatal Approximant (Y in “yours”)
 Will generally be transcribed as a j with a vowel afterwards, which is indicated with an umlaut. For example, “yours” might be transcribed as “jörs.”
@@ -14,19 +16,22 @@ Will generally be transcribed as a j with a vowel afterwards, which is indicated
 ### Pneumaphilic
 Adj.  
 Having a high capacity for and/or ease of [infusion](Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md).
-### Notion
-Noun
 
-A concept carried by particular spark emission patterns, often indicating the cognitive state of their producer. Typically spoken of through metaphors, often onto color or emotion.
+### Notion
+Noun.  
+A concept carried by particular spark emission patterns or conscious waves, often indicating the cognitive state of their producer. Typically spoken of through metaphors, often onto color or emotion.
 I.e.
-- "though he appeared calm, the his halo was furious" 
+- "though he appeared calm, his notion was furious" 
 - "the engram carried a notion of crimson red" 
 - "her soulfire was always tinged with hope"
 
 ### Flamebearer
+Noun.
+A firekeeper specializing in the implementation of engrams; typically combat-oriented, but may also be industrial or otherwise professional.
+### Hearth
 Noun
 
-A firekeeper specializing in the implementation of engrams; typically combat-oriented, but may also be industrial or otherwise professional.
+Among firekeepers, a gathering place.
 ## Species Names
 
 * **Llantakúna** : \[Yan-ta-ku-na\] /jɑntakyna/

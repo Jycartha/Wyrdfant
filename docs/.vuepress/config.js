@@ -76,7 +76,7 @@ const generatedSidebar = {
 export default defineUserConfig({
   lang: 'en-US',
   head: [[ 'link', {rel: 'icon', type:'image/png', sizes: '16x16', href: '/Wyrdfant/images/favicon-16x16.png'}]],
-  title: 'Solsärth',
+  title: 'Solarium',
   description: 'Andiurne\'s Wiki, Updates, and Writings',
   base: "/Wyrdfant/",
 
