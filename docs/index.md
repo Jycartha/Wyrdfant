@@ -3,7 +3,7 @@ home: true
 title: Home
 heroImage: /images/serverLogo512orangeNeon.png
 heroText: Ad Idealis
-tagline: Welcome!
+tagline: 
 actions:
   - text: Updates
     link: /updates/
