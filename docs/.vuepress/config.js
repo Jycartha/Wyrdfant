@@ -77,11 +77,11 @@ export default defineUserConfig({
   lang: 'en-US',
   head: [[ 'link', {rel: 'icon', type:'image/png', sizes: '16x16', href: '/Wyrdfant/images/favicon-16x16.png'}]],
   title: 'Andiurne',
-  description: 'Andiurne\'s Wiki, Updates, and Writings',
+  description: 'Wiki, Updates, and Writings',
   base: "/Wyrdfant/",
 
   theme: defaultTheme({
-    logo: '/images/serverLogo512orangeGlow.png',
+    logo: '/images/andiurne600orangeGlow.png',
     colorMode: 'dark',
     colorModeSwitch: false,
 
