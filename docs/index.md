@@ -2,7 +2,7 @@
 home: true
 title: Home
 heroImage: /images/andiurne600orangeIncandescentHalo.png
-heroText: Ad Idealis
+heroText: Andiurne
 tagline: 
 actions:
   - text: Updates
