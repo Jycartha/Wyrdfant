@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: /images/serverLogo512orangeNeon.png
+heroImage: /images/andiurne600orangeIncandescentHalo.png
 heroText: Ad Idealis
 tagline: 
 actions:
