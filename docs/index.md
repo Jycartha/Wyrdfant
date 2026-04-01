@@ -29,14 +29,11 @@ features:
 footerHtml: true
 footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener norefferer">"But that's part of understanding, isn't it? To misunderstand."</a>
 ---
-::: center
-Welcome to Ad Idealis, a self-publishing site/blog for myself, Andiurne.
-:::
+---
 # Current Plans
-- Continue developing the Encyclopedia
 - Publish a short story here before summer's end
-::: right
-# Current Projects
-## Indelible
-A webnovel series which follows Ashjërunei Riemend through the Blood Wars of Arenfürich
-:::
+- Continue developing the Encyclopedia in:
+  - Non-Halanian history
+  - Structure of the soul
+  - Fireborn article
+  - Phantasms article
