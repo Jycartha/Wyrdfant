@@ -19,7 +19,7 @@ actions:
 
 features:
   - title: Updates
-    details: A section for blog-like updates related to my projects.
+    details: Blog-like updates related to my projects.
 
   - title: Writings
     details: Public-facing writings, including short stories and webnovel chapters.
@@ -30,5 +30,13 @@ footerHtml: true
 footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener norefferer">"But that's part of understanding, isn't it? To misunderstand."</a>
 ---
 ::: center
-This will be the future home page, with a short summary of my work, plans, and website structure.
+Welcome to Ad Idealis, a self-publishing site/blog for myself, Andiurne.
+:::
+# Current Plans
+- Continue developing the Encyclopedia
+- Publish a short story here before summer's end
+::: right
+# Current Projects
+## Indelible
+A webnovel series which follows Ashjërunei Riemend through the Blood Wars of Arenfürich
 :::
