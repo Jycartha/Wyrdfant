@@ -33,9 +33,9 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ## Roadmap
 :::
 ### Writings
-- Post a character-focused short story here before summer's end; possibilities:
-  - Reinlutre: "When the Light Goes Out"
-  - Ashjërunei: "To Understand"
+- Post a short story here before summer's end; possibilities:
+  - How Reinlutre lost her vision (basically a prologue, happens immeidately prior to [Indelible](/writings/Indelible/README.md)
+  - Ashjërunei's arrival in the Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
   - Non-Halanian history
