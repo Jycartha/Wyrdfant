@@ -78,7 +78,7 @@ export default defineUserConfig({
   head: [[ 'link', {rel: 'icon', type:'image/png', sizes: '16x16', href: '/Wyrdfant/images/favicon-16x16.png'}]],
   title: 'Ad Idealis',
   description: 'Wiki, Updates, and Writings',
-  base: "/Wyrdfant/",
+  base: "/Idealis/",
 
   theme: defaultTheme({
     logo: '/images/andiurne600orangeIncandescent.png',
