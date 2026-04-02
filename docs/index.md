@@ -19,7 +19,7 @@ actions:
 
 features:
   - title: Updates
-    details: Blog-like updates related to my projects.
+    details: Blog-like updates related to my projects, in longer form than the roadmap below.
 
   - title: Writings
     details: Public-facing writings, including short stories and webnovel chapters.
@@ -29,9 +29,14 @@ features:
 footerHtml: true
 footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener norefferer">"But that's part of understanding, isn't it? To misunderstand."</a>
 ---
----
-# Current Plans
-- Publish a short story here before summer's end
+:::center
+## Roadmap
+:::
+### Writings
+- Post a character-focused short story here before summer's end; possibilities:
+  - Reinlutre: "When the Light Goes Out"
+  - Ashjërunei: "To Understand"
+### Encyclopedia
 - Continue developing the Encyclopedia in:
   - Non-Halanian history
   - Structure of the soul
