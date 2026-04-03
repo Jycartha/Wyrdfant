@@ -34,7 +34,7 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 :::
 ### Writings
 - Post a short story here before summer's end; possibilities:
-  - How Reinlutre lost her vision (basically a prologue, happens immeidately prior to [Indelible](/writings/Indelible/README.md)
+  - How Reinlutre lost her vision (basically a prologue, happens immeidately prior to [Indelible](/writings/Indelible/README.md))
   - Ashjërunei's arrival in the Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
@@ -45,4 +45,4 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
-**3/3/2026** - Phantasms updated
+**3/3/2026** - [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) article updated
