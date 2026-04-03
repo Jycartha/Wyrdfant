@@ -45,4 +45,4 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
-**<3/3/2026>** - Phantasms updated
+**3/3/2026** - Phantasms updated
