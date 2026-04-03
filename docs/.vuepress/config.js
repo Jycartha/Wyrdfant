@@ -71,6 +71,7 @@ const getSidebarItems = (dir, capitalizing) => {
 const generatedSidebar = {
       '/The_Aliffrume_Encyclopedia/' : getSidebarItems(path.resolve(__dirname, "../The_Aliffrume_Encyclopedia/"), true),
       '/writings/': getSidebarItems(path.resolve(__dirname, "../writings/"), false),
+      '/updates/': getSidebarItems(path.resolve(__dirname, "../updates/"), false),
 };
 
 export default defineUserConfig({

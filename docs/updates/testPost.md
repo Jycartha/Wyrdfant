@@ -1,10 +1,10 @@
 ---
 date: 2025-10-21
-category: 
+category:
   - test
-tag: 
+tag:
   - tes
-excerpt: This should show instead!
+excerpt: Excerpt. This should show instead of body!
 ---
 # Test
 This is a test article!
