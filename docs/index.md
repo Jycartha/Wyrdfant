@@ -29,7 +29,7 @@ features:
 footerHtml: true
 footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener norefferer">"But that's part of understanding, isn't it? To misunderstand."</a>
 ---
-:::center
+::: center
 ## Roadmap
 :::
 ### Writings
