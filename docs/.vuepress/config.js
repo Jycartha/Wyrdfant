@@ -76,7 +76,7 @@ const generatedSidebar = {
 
 export default defineUserConfig({
   lang: 'en-US',
-  head: [[ 'link', {rel: 'icon', type:'image/png', sizes: '16x16', href: '/Wyrdfant/images/favicon-16x16.png'}]],
+  head: [[ 'link', {rel: 'icon', type:'image/png', sizes: '16x16', href: '/Idealis/images/favicon-16x16.png'}]],
   title: 'Ad Idealis',
   description: 'Wiki, Updates, and Writings',
   base: "/Idealis/",
