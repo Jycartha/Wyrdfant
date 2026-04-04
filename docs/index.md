@@ -34,7 +34,7 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 :::
 ### Writings
 - Post a short story here before summer's end; possibilities:
-  - How Reinlutre lost her vision (basically a prologue, happens immeidately prior to [Indelible](/writings/Indelible/README.md))
+  - How Reinlutre lost her vision (basically a prologue, happens immediately prior to [Indelible](/writings/Indelible/README.md))
   - Ashjërunei's arrival in the Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
