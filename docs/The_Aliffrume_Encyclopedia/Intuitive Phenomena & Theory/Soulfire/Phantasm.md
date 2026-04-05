@@ -8,7 +8,7 @@ The lowest class of phantasm, with barely a distinctive identity to perpetuate. 
 Many wisps are formed around nature, and will thus tend to stimulate plant growth, dew miscellany surfaces, create small gusts of wind, among other things. Such wisps will often align with the primary ideal of their environment; wisps formed in a canyon generally thought to be windy will often habitually produce wind, those in a lake rumored to have treasure might occasionally sparkle like gold, etc.
 
 ### Eidolon
-What seperates an eidolon from a wisp is the possession of a [soul](../Pure%20Phlogistics/Soul.md), granting them true consciousness and a great deal more freedom. Eidolons often closer embody their ideal,
+What seperates an eidolon from a wisp is the possession of a [soul](../Pure%20Phlogistics/Soul.md), granting them true consciousness and a great deal more freedom.  However, eidolons are still bound within their impression, and are reliant upon it for survival. Without one, like any other sapient being without a soul wall,
 
 ### Dragon
 
