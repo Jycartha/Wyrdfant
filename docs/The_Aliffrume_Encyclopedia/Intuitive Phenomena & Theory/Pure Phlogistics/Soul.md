@@ -1,20 +1,20 @@
-# The Soul
+# Soul
 Under the [Phlogistic Model](Phlogistic%20Model.md), the soul is a separate region of the [conscious plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane.md) roughly overlapping the body. When standing curvature passes a certain limit, noise effects become negligible and the constituent phases begin self-stimulating and entering feedback loops with each other. This runaway process results in a curvature singularity, which promptly rebounds into a new, separate conscious plane composed of the phase set, generally reaching hydrostatic equilibrium with the wider plane’s phlogistic pressure in the shape of the body.
 ## Structure
-### The Halo
+### Halo
 The soul is further situated within a region of conscious space called the ***halo***, which has its boundary where foreign soulfire holds the soul’s own in equilibrium with external phlogistic pressure. 
 
 The movements and vibrations of the soul result in halo soulfire being squashed and stretched, and correspond to the notion of thought and emotion. From this, the model thus posits the conscious soul to be the ultimate center of consciousness, and the seat of the common idea of “the self.”
 
-### The Soul Wall
+### Soul Wall
 While not technically a separate construct, the soul wall is a dense layer of soulfire between the halo and the soul plane, often taking the shape of the soul's body. It naturally arises over time as a result of resonant thought within the plane, and excess is exactly what produces the halo. 
 
 When removed, conscious waves able to freely transfer into the soul, interfering with the plane's ability to distinguish itself and causing it to gradually blend back into the greater plane. This is precisely what happens during corporeal death, as the dying body becomes less defined and able to support a coherent soul wall, and many beings lack the ability to define their own without the help of infusion.
 
-### The Soul Plane
+### Soul Plane
 Where most of a soul's engrammatic mass is actually concentrated, as an inherent "density" of the plane. All of a soul's cognition and intention begin here.
 
-### The Core
+### Core
 The densest area of the soul in terms of engrammatic mass, and that which is the least well-studied, due to the difficulty in empirical observation. It's known to store long-term memory as permanent [flamescript](../Soulfire/Flamescript.md), although its exact structure and how it does this is unknown. Notably, the core does not seem to precisely *disappear* upon death with the rest of the soul plane, but rather it seems to unfold and lose structure before becoming too thin to detect.
 
 ## Role of the Brain

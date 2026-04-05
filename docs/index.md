@@ -45,4 +45,10 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
-**3/3/2026** - [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) article updated
+- **3/4/2026** 
+	- Planned [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) article changes completed, created articles for its sub-classifications
+		- + [Shade](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Shade.md)
+		- + [Fairy](Fairy.md)
+		- + [Automaton](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Automaton.md)
+- **3/3/2026** 
+	- [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) article updated

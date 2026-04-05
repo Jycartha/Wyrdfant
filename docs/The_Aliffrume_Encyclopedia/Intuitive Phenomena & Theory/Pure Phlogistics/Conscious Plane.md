@@ -9,7 +9,7 @@ Additionally, though the conscious plane is named so, current science can only c
 A subplane with a distinct boundary seperating it from the wider conscious plane, which contains a core of engrammatic mass called [the soul](Soul.md).
 
 ## Impressions
-An impression is a region of higher than average curvature in the conscious plane, caused by a congregation of soulfire around an organic object or other construct uniquely adapted to receive certain patterns of soulfire fluctuation. Such regions tend to form around living objects, as the structure of life naturally lends itself to resonating with the phases, with each organism favoring different patterns.
+A region of higher than average curvature in the conscious plane, caused by a congregation of soulfire around an organic object or other construct uniquely adapted to receive certain patterns of soulfire fluctuation. Such regions tend to form around living objects, as the structure of life naturally lends itself to resonating with the phases, with each organism favoring different patterns.
 
 ## Space Density
 Uniformity of space density is not a given when transitioning between conscious planes. In fact, most souls, in comparison to the greater conscious plane, are much denser due to their high engrammatic mass. Necessarily, crossing this boundary appropriately stretches or squishes whatever does so.
