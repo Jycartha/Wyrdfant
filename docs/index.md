@@ -34,17 +34,23 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 :::
 ### Writings
 - Post a short story here before summer's end; possibilities:
-  - How Reinlutre lost her vision (basically a prologue, happens immediately prior to [Indelible](/writings/Indelible/README.md))
-  - Ashjërunei's arrival in the Arteries
+	- How Reinlutre lost her vision (basically a prologue, happens immediately prior to [Indelible](/writings/Indelible/README.md))
+	- Ashjërunei's arrival in the Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
-  - Non-Halanian history
-  - Structure of the soul
-  - Fireborn article
-  - Phantasms article
+	- Phantasm Subclassifications
+		- Fairy
+		- Shade
+		- Automaton
+	- Fireborn article
+	- Structure of the soul
+	- Non-Halanian history
+
 ::: center
 ## Changelog
 :::
+- **4/8/2026**
+	- Concluded work on [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) for now. (There will always be more work...)
 - **4/5/2026**
 	- Fixed the fact that these dates said March...
 	- *Actually* completed [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) changes.

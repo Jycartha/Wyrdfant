@@ -1,7 +1,7 @@
 # Glossary
 A collection of definitions and contextualisations by the translators of this work.
 ## General Transcription
-### Palatal Approximant (Y in “yours”)
+### Palatal Approximant
 Will generally be transcribed as a j with a vowel afterwards, which is indicated with an umlaut. For example, “yours” might be transcribed as “jörs.”
 
 ## Place Names
@@ -13,6 +13,14 @@ Will generally be transcribed as a j with a vowel afterwards, which is indicated
   * /ˈrejnbry.ne/  
   * Lit. “the great flame,” the main solar body about which Aliffrüme orbits
 ## Phlogistic Terms
+### Somagenic
+Adj.  
+Lit. "born from the body," used to refer to [dragons](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#Dragon) which were born as biological lifeforms, as opposed to fireborn. Synonymous with "bodyborn."
+
+### Phlogenic
+Adj.  
+Lit. "born from soulfire," often used to differentiate fireborn from bodyborn. Synonymous with the former.
+
 ### Pneumaphilic
 Adj.  
 Having a high capacity for and/or ease of [infusion](Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md).
