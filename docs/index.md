@@ -49,8 +49,10 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
+- **4/10/2026**
+	- 
 - **4/8/2026**
-	- Concluded work on [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) for now. (There will always be more work...)
+	- Concluded work on [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) for now (there will always be more work...)
 - **4/5/2026**
 	- Fixed the fact that these dates said March...
 	- *Actually* completed [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) changes.

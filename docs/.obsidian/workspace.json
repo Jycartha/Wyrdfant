@@ -1,0 +1,362 @@
+{
+  "main": {
+    "id": "582a0c89991016e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "94a45eac36209969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "806f886af3d24d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "2395138ade9f9e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Pure Phlogistics/Soul.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Soul"
+            }
+          },
+          {
+            "id": "bb7560315e07f17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_Aliffrume_Encyclopedia/Glossary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Glossary"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5b14bbe57fe7501b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e58e15b952ccc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Fairy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Fairy"
+            }
+          },
+          {
+            "id": "e842e064a9edea62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Automaton.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Automaton"
+            }
+          },
+          {
+            "id": "a31b19531053efb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Shade.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Shade"
+            }
+          },
+          {
+            "id": "1949bd23fd5da286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Phantasm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Phantasm"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da04ee3976a13837",
+    "type": "split",
+    "children": [
+      {
+        "id": "b078502be14edcff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c4e02034d8944e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4ef494a9e58b54db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "automaton",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d5f800409b6f172d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7824bd2adfff5746",
+    "type": "split",
+    "children": [
+      {
+        "id": "73c5021f97976ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c54abdda691c2ece",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Narratives/Characters/Indelible/Ashjërünei Riemend.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ashjërünei Riemend"
+            }
+          },
+          {
+            "id": "ebed7e0c3522f119",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Narratives/Characters/Indelible/Ashjërünei Riemend.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ashjërünei Riemend"
+            }
+          },
+          {
+            "id": "e4330934931a7815",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Shade.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Shade"
+            }
+          },
+          {
+            "id": "601ee9caf93b8d9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Narratives/Outlines/Indelible Narrative Outline.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Indelible Narrative Outline"
+            }
+          },
+          {
+            "id": "913d2d3a7ffd5477",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "6839c802f2b6f5cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09ecda847d5f6764",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1949bd23fd5da286",
+  "lastOpenFiles": [
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Shade.md",
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Phantasm.md",
+    "The_Aliffrume_Encyclopedia/Glossary.md",
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Firekeeping/Phlogistic Immortality.md",
+    "index.md",
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Pure Phlogistics/Soul.md",
+    "The_Aliffrume_Encyclopedia/Natural Sciences/Biology/Corporeal Immortality.md",
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Automaton.md",
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Fairy.md",
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Flamescript.md",
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Pure Phlogistics/Conscious Plane.md",
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Soulfire/Ichor.md",
+    "updates/testPost.md",
+    "writings/Indelible/README.md",
+    "The_Aliffrume_Encyclopedia/README.md",
+    "docs/index.md",
+    "writings/Indelible",
+    "writings",
+    "docs/writings/README.md",
+    "docs/writings/Indelible/README.md",
+    "docs/The_Aliffrume_Encyclopedia/Glossary.md",
+    "docs/The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Pure Phlogistics/Soul.md",
+    "docs/The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Pure Phlogistics/Soulfire.md",
+    "docs/The_Aliffrume_Encyclopedia/README.md",
+    "Aliffrume.png",
+    "Narratives/Miscellania/portrait_Ashjerunei.md",
+    "Narratives/Miscellania/portrait_Reinlutre.md",
+    "The_Aliffrume_Encyclopedia/Chronology/Central Calendar.md",
+    "The_Aliffrume_Encyclopedia/Chronology/Global History.md",
+    "The_Aliffrume_Encyclopedia/Intuitive Phenomena & Theory/Firekeeping",
+    "Images/Characters/Generics/generic_Ayauitlaka.png",
+    "Images/Characters/Generics/generic_Yejian.png",
+    "Images/Characters/Generics/generic_Aren.png",
+    "Images/Characters/Generics/generic_Schausen.png",
+    "Images/Characters/Generics",
+    "Images/Characters/ashjeruneiAlbefath.png",
+    "Images/Characters/tonatiaKuaiatl.png",
+    "Images/Characters/laceraToracruf.png",
+    "Images/Characters/arstafas_bleached.png",
+    "Images/Characters/generic_Yejian.png",
+    "Images/Characters",
+    "Narratives/Characters/Sic Semper Tyrannis/Untitled 1.base",
+    "Narratives/Characters/Sic Semper Tyrannis/Untitled.base",
+    "The_Aliffrume_Encyclopedia/Untitled",
+    "The_Aliffrume_Encyclopedia/Anthropology/Untitled",
+    "The_Aliffrume_Encyclopedia/Natural Sciences/Biology/Sapient Species",
+    "Indelible - SRPG Project/Unit Design.canvas"
+  ]
+}

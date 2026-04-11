@@ -5,22 +5,36 @@ A collection of definitions and contextualisations by the translators of this wo
 Will generally be transcribed as a j with a vowel afterwards, which is indicated with an umlaut. For example, “yours” might be transcribed as “jörs.”
 
 ## Place Names
-* **Aliffrüme**
-  * /ælliːfˈfru.m/  
-  * Lit. “source of all life,” the home planet of the Reinbrüne system
+### Aliffrüme
+Noun. /ælliːfˈfru.m/  
+Lit. “source of all life,” the home planet of the Reinbrüne system.
 
-* **Reinbrüne**
-  * /ˈrejnbry.ne/  
-  * Lit. “the great flame,” the main solar body about which Aliffrüme orbits
-## Phlogistic Terms
+### Reinbrüne
+Noun. /ˈrejnbry.ne/  
+Lit. “the great flame,” the main solar body about which Aliffrüme orbits.
+
+## Phantasms
+### Dragon
+Noun.  
+An [ideal phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#Ideal%20Phantasm), generically. Notably, except in scientific literature, any dragon is often referred to simply as such, rather than by a more specific construction (i.e. "ideal automaton") as origin often becomes less important at this level.
+
+### Eidolon
+Noun.  
+A [greater phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#Greater%20Phantasm), generically.
+
+### Wisp
+Noun.  
+Generically, a [lesser phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#Lesser%20Phantasm). Often used when its archiecture is indeterminate or unimportant.
+
 ### Somagenic
 Adj.  
-Lit. "born from the body," used to refer to [dragons](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#Dragon) which were born as biological lifeforms, as opposed to fireborn. Synonymous with "bodyborn."
+Lit. "born from the body," used to refer to [phantasms](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#) which were born as biological lifeforms, as opposed to fireborn. A more formal synonym for "bodyborn."
 
 ### Phlogenic
 Adj.  
-Lit. "born from soulfire," often used to differentiate fireborn from bodyborn. Synonymous with the former.
+Lit. "born from soulfire," often used to differentiate fireborn from bodyborn. Synonymous with the former, and considered more formal.
 
+## Phlogistics
 ### Pneumaphilic
 Adj.  
 Having a high capacity for and/or ease of [infusion](Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md).
@@ -29,8 +43,8 @@ Having a high capacity for and/or ease of [infusion](Intuitive%20Phenomena%20&%2
 Noun.  
 A concept carried by particular [spark](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Sparks.md) emission patterns or conscious waves, often indicating the cognitive state of their producer. Typically spoken of through metaphors, often onto color or emotion.  
 I.e.
-- "though he appeared calm, his notion was furious" 
-- "the engram carried a notion of crimson red" 
+- "though he appeared calm, he shone with ferocity" 
+- "the engram carried a crimson notion" 
 - "her soulfire was always tinged with hope"
 
 ### Flamebearer
