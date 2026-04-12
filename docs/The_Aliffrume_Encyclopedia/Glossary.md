@@ -1,3 +1,9 @@
+---
+aliases:
+  - Phantasms
+  - phantasm
+  - phantasms
+---
 # Glossary
 A collection of definitions and contextualisations by the translators of this work.
 ## General Transcription
@@ -7,28 +13,32 @@ Will generally be transcribed as a j with a vowel afterwards, which is indicated
 ## Place Names
 ### Aliffrüme
 Noun. /ælliːfˈfru.m/  
-Lit. “source of all life,” the home planet of the Reinbrüne system.
+Lit. “source of all life,” a large habitable planet of the Reinbrüne system, 6th in the orbit from its star.
 
 ### Reinbrüne
 Noun. /ˈrejnbry.ne/  
 Lit. “the great flame,” the main solar body about which Aliffrüme orbits.
 
 ## Phantasms
+### Shade
+Noun.  
+A malicious [phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md).
+
 ### Dragon
 Noun.  
-An [ideal phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#Ideal%20Phantasm), generically. Notably, except in scientific literature, any dragon is often referred to simply as such, rather than by a more specific construction (i.e. "ideal automaton") as origin often becomes less important at this level.
+An [ideal phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md#Ideal%20Phantasm). Except in scientific literature, any ideal phantasm is often referred to simply as such, rather than by a more specific construction (i.e. "ideal automaton") as origin often becomes less relevant to discussion of these beings.
 
 ### Eidolon
 Noun.  
-A [greater phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#Greater%20Phantasm), generically.
+A [greater phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md#Greater%20Phantasm).
 
 ### Wisp
 Noun.  
-Generically, a [lesser phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#Lesser%20Phantasm). Often used when its archiecture is indeterminate or unimportant.
+A [lesser phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md#Lesser%20Phantasm). 
 
 ### Somagenic
 Adj.  
-Lit. "born from the body," used to refer to [phantasms](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#) which were born as biological lifeforms, as opposed to fireborn. A more formal synonym for "bodyborn."
+Lit. "born from the body," used to refer to [phantasms](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md#) which were born as biological lifeforms, as opposed to fireborn. A more formal synonym for "bodyborn."
 
 ### Phlogenic
 Adj.  

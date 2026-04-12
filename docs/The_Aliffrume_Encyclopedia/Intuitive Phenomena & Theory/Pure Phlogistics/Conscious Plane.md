@@ -8,7 +8,7 @@ Additionally, though the conscious plane is named so, current science can only c
 ## Soul Plane
 A subplane with a distinct boundary seperating it from the wider conscious plane, which contains a core of engrammatic mass called [the soul](Soul.md).
 
-## Impressions
+## Impression
 A region of higher than average curvature in the conscious plane, caused by a congregation of soulfire around an organic object or other construct uniquely adapted to receive certain patterns of soulfire fluctuation. Such regions tend to form around living objects, as the structure of life naturally lends itself to resonating with the phases, with each organism favoring different patterns.
 
 ## Space Density

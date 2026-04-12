@@ -1,0 +1,2 @@
+# Automaton
+[Phantasms](Phantasm.md) formed intentionally, often to serve as assistants to [firekeepers](../../Firekeeping/Firekeeper.md). Often they are referred to with specific terms suited to their exact use. Intentional construction of anything greater than a lesser automaton is considered an advanced feat, and simultaneously an act of immense moral and often legal weight, given one is essentially constructing a person to their liking.

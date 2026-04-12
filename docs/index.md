@@ -49,17 +49,21 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
-- **4/10/2026**
-	- 
+- **4/11/2026**
+	- Continued work on [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md) actually:
+		- Split shades into two clearer categories: [fellsouls](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Fellsoul.md) and [nightspawn](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Nightspawn.md).
+		- "Shade" as an article has been removed, but the term remains as a catch-all for "malicious phantasm," which has been added to the glossary.
+	- Filled out the [Fairy](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Fairy.md) article, including descriptions of the three tiers.
+	- Filled out [Automaton](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Automaton.md), [Nightspawn](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Nightspawn.md), and [Fellsoul](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Fellsoul.md) with preliminary, minimal descriptions.
 - **4/8/2026**
-	- Concluded work on [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) for now (there will always be more work...)
+	- Concluded work on [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md) for now (there will always be more work...)
 - **4/5/2026**
 	- Fixed the fact that these dates said March...
-	- *Actually* completed [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) changes.
+	- *Actually* completed [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md) changes.
 - **4/4/2026** 
-	- Planned [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) article changes completed, created articles for its sub-classifications
+	- Planned [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md) article changes completed, created articles for its sub-classifications
 		- Added [Shade](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Shade.md)
-		- Added [Fairy](Fairy.md)
-		- Added [Automaton](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Automaton.md)
+		- Added [Fairy](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Fairy.md)
+		- Added [Automaton](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Automaton.md)
 - **4/3/2026** 
-	- [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md) article updated
+	- [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md) article updated

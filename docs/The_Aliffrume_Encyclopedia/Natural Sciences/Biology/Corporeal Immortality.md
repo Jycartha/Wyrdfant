@@ -1,7 +1,7 @@
 # Corporeal Immortality
 Though never truly unkillable, life has a few different ways of obtaining what might be called immortality. The most common form, being **eternal**, refers to the body no longer requiring external energy and forgoing senescence. 
 
-Truer immortals, called [dragons](../../Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasm.md#Dragon), are able to maintain consciousness as a detached soul and produce intense soulfire, allowing them to generate material bodies autonomously from [ichor](../../Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md). However, they can be prevented from doing so via sealing methods. 
+Truer immortals, called [dragons](../../Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md#Dragon), are able to maintain consciousness as a detached soul and produce intense soulfire, allowing them to generate material bodies autonomously from [ichor](../../Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md). However, they can be prevented from doing so via sealing methods. 
 
 ## Natural Eternal
 ### Ouroboran

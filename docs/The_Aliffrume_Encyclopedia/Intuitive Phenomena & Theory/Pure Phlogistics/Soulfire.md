@@ -1,3 +1,7 @@
+---
+aliases:
+  - soulfire
+---
 # Soulfire
 <!-- Also referred to as alferhþ (lit. “Fire of the Ferhþ,” where “ferhþ” is a Küthjïuman-Halanian word meaning something between life, heart, and mind, commonly translated as “soul”) -->
 Soulfire is an energy inherent to a [conscious plane](Conscious%20Plane.md), passively loosed through thought. Thought causes changes in the plane, which in turn produces soulfire within it. Born from consciousness, soulfire is an energy shaped by consciousness; it follows the geometry of its inhabited plane, allowing it to be manipulated by [intention fields](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Intention%20Field.md). Combined with its various interactions, this allows for the manipulation of physical reality. It can only be summoned in large quantities by sapient creatures, but all life generates soulfire to some degree.
