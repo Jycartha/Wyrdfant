@@ -20,15 +20,19 @@ The highest classification of phantasm, which are those that are [phlogistically
 This makes ideal [shades](Shade.md) some of the most dangerous entities on the planet, as they often become the downfall of entire regions. As the shade cannot be normally quelled, this leaves pacifying it as the only viable option to contain the threat. Oddly enough, while [somagenics](Shade.md) are often more powerful than [phlogenics](Shade.md), ideal somagenics are often easier to subdue as their mental state is more readily understood, and thus more easily tempered. Phlogenics, meanwhile, can be entirely unpredictable, leading them to be difficult to subdue quickly and thus a greater long-term threat even if they're less powerful.
 
 ## By Psyche
+### Fairies
 - [Fairy](Phantasms/Fairy.md)
 	- Harmonic phantasms born from natural coalescence, often as wisps.  
 	- Typically bear a symbolic resemblance to subjects of repeated attention in thought; put simply, the elements of dreams
+### Fellsouls
 - [Fellsoul](Fellsoul.md)
 	- Greater phantasms which have undergone ego death and are thus directed by fear, anger, and transformed into shades.  
 	- Given their origin, a fellsoul will resemble the image which a soul has constructed of themselves
+### Nightspawn 
 - [Nightspawn](Nightspawn.md)
 	- Lesser, and occasionally greater, phantasms formed by chaotic coagulation of ill-oriented soulfire. 
 	- Bear a symbolic resemblance to subjects of fear, anger, anxiety, and other negative emotions; the elements of nightmares
+### Automatons
 - [Automaton](Phantasms/Automaton.md)
 	- Phantasms which were deliberately constructed, and thus often are highly logical and machine-like.
 	- Their form often follows from their function, as even if they do not require one, having a sense of self is a natural consequence of existing as a phlogistic being.

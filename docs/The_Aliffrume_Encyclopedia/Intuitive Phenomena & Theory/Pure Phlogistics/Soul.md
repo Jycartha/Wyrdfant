@@ -5,7 +5,7 @@ aliases:
   - souls
 ---
 # Soul
-Under the [Phlogistic Model](Phlogistic%20Model.md), the soul is a separate region of the [conscious plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane.md) roughly overlapping the body. When standing curvature passes a certain limit, noise effects become negligible and the constituent phases begin self-stimulating and entering feedback loops with each other. This runaway process results in a curvature singularity, which promptly rebounds into a new, separate conscious plane composed of the phase set, generally reaching hydrostatic equilibrium with the wider plane’s phlogistic pressure in the shape of the body.
+Under the [Phlogistic Model](Phlogistic%20Model.md), the soul is a separate region of the [conscious plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane.md) roughly overlapping the body. When standing curvature passes a certain limit, noise effects become negligible and the constituent [phases](Fundamental%20Phase.md) begin self-stimulating and entering feedback loops with each other. This runaway process results in a curvature singularity, which promptly rebounds into a new, separate conscious plane composed of the phase set, generally reaching hydrostatic equilibrium with the wider plane’s phlogistic pressure in the shape of the body.
 ## Structure
 ### Halo
 The soul is further situated within a region of conscious space called the ***halo***, which has its boundary where foreign soulfire holds the soul’s own in equilibrium with external phlogistic pressure. 

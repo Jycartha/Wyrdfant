@@ -38,17 +38,17 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- Ashjërunei's arrival in the Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
-	- Phantasm Subclassifications
-		- Fairy
-		- Shade
-		- Automaton
-	- Fireborn article
 	- Structure of the soul
+	- Important Persons
+	- Clarification on momentum conservation
 	- Non-Halanian history
+	- Expand on Phantasms
 
 ::: center
 ## Changelog
 :::
+- **4/13/2026**
+	- [Fireborn](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Fireborn.md) article added
 - **4/11/2026**
 	- Continued work on [Phantasm](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md) actually:
 		- Split shades into two clearer categories: [fellsouls](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Fellsoul.md) and [nightspawn](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Nightspawn.md).

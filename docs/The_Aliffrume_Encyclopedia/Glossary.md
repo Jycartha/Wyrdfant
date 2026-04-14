@@ -45,6 +45,10 @@ Adj.
 Lit. "born from soulfire," often used to differentiate fireborn from bodyborn. Synonymous with the former, and considered more formal.
 
 ## Phlogistics
+### Dominion
+Noun.  
+The region of space where a given soul or other phlogistic formation has full or partial influence.
+
 ### Pneumaphilic
 Adj.  
 Having a high capacity for and/or ease of [infusion](Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md).
