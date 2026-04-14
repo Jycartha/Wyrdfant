@@ -43,12 +43,16 @@ Lit. "born from the body," used to refer to [phantasms](Intuitive%20Phenomena%20
 ### Phlogenic
 Adj.  
 Lit. "born from soulfire," often used to differentiate fireborn from bodyborn. Synonymous with the former, and considered more formal.
-
-## Phlogistics
+## Souls
 ### Dominion
 Noun.  
 The region of space where a given soul or other phlogistic formation has full or partial influence.
 
+### Symbolic Density
+Noun.  
+How many symbols (that is, atoms of thought) one is able to fit within a certain standard volume of their [soul](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md). Directly correlated with one's capacity for [phlogistic computing](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md), more specifically their ability to simulate greater numbers of logic gates and with a shorter distance between them. Scales directly with the soul's mass.
+
+## General Phlogistics
 ### Pneumaphilic
 Adj.  
 Having a high capacity for and/or ease of [infusion](Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md).

@@ -5,7 +5,7 @@ aliases:
   - phantasms
 ---
 # Phantasm
-Also referred to as spirits, phantasms are a curious form of life born of [soulfire](../../Pure%20Phlogistics/Soulfire.md) and [ichor](Ichor.md), birthed from the aggregate [halo](../../Pure%20Phlogistics/Soul.md#Halo) of [sentients](../../../Natural%20Sciences/Biology/Sapient%20Species/Consciousness.md) coalescing within an [impression](../../Pure%20Phlogistics/Conscious%20Plane.md#Impressions) around a central concept; the focal points responsible are often referred to as their **ideal**, while their area is referred to as their **dominion**. 
+Also referred to as spirits, phantasms are a curious form of life born of [soulfire](../../Pure%20Phlogistics/Soulfire.md) and [ichor](Ichor.md), birthed from the aggregate [halo](../../Pure%20Phlogistics/Soul.md#Halo) of [sentients](../../../Natural%20Sciences/Biology/Sapient%20Species/Consciousness.md) coalescing within an [impression](../../Pure%20Phlogistics/Conscious%20Plane.md#Impressions) around a central concept; the focal points responsible are often referred to as their *ideal*, while their area is referred to as their *dominion*. 
 
 ## By Structure
 ### Lesser Phantasm
@@ -21,18 +21,13 @@ This makes ideal [shades](Shade.md) some of the most dangerous entities on the p
 
 ## By Psyche
 ### Fairies
-- [Fairy](Phantasms/Fairy.md)
-	- Harmonic phantasms born from natural coalescence, often as wisps.  
-	- Typically bear a symbolic resemblance to subjects of repeated attention in thought; put simply, the elements of dreams
+Harmonic phantasms born from natural coalescence, often as wisps. [Fairies](Fairy.md) typically bear a symbolic resemblance to subjects of repeated attention in thought; put simply, the elements of dreams.
+
 ### Fellsouls
-- [Fellsoul](Fellsoul.md)
-	- Greater phantasms which have undergone ego death and are thus directed by fear, anger, and transformed into shades.  
-	- Given their origin, a fellsoul will resemble the image which a soul has constructed of themselves
+Greater phantasms which have undergone ego death and are thus directed by fear, anger, and transformed into shades. Given their origin, a [fellsoul](Fellsoul.md) will always resemble the image of themselves which the soul constructed as a consequence of their collapse.
+
 ### Nightspawn 
-- [Nightspawn](Nightspawn.md)
-	- Lesser, and occasionally greater, phantasms formed by chaotic coagulation of ill-oriented soulfire. 
-	- Bear a symbolic resemblance to subjects of fear, anger, anxiety, and other negative emotions; the elements of nightmares
+Lesser, and occasionally greater, phantasms formed by chaotic coagulation of ill-oriented soulfire. [Nightspawn](Nightspawn.md) typically bear a symbolic resemblance to subjects of fear, anger, anxiety, and other negative emotions; the elements of nightmares.
+
 ### Automatons
-- [Automaton](Phantasms/Automaton.md)
-	- Phantasms which were deliberately constructed, and thus often are highly logical and machine-like.
-	- Their form often follows from their function, as even if they do not require one, having a sense of self is a natural consequence of existing as a phlogistic being.
+Phantasms which were deliberately constructed, and thus often are highly logical and machine-like. An [automaton](Automaton.md)'s form often follows from their function, as even if they do not require one, having a sense of self is a natural consequence of existing as a phlogistic being.
