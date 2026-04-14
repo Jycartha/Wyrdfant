@@ -5,8 +5,8 @@ heroImage: /images/andiurne600orangeIncandescentHalo.png
 heroText: Andiurne
 tagline: 
 actions:
-  - text: Updates
-    link: /updates/
+  - text: Discord
+    link: https://discord.gg/Rf5gvbsuKV
     type: secondary
 
   - text: Latest Writings
@@ -38,6 +38,9 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- Ashjërunei's encounter with Alfiürwit, lackadaisical dragon and Drüten of the Arenfürich Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
+	- Engram clarification
+	- Gimyndization
+	- Phlogistic computing article expansion
 	- Important Persons
 	- Clarification on momentum conservation
 	- Non-Halanian history
@@ -47,6 +50,7 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ## Changelog
 :::
 - **4/14/2026**
+	- Reworked [Engram](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md) classification
 	- Clarified the structure of the [Soul](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md), including the notion of [Symbolic Density](The_Aliffrume_Encyclopedia/Glossary.md#Symbolic%20Density) and the nature of the [Soul Plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md#Soul%20Plane).
 - **4/13/2026**
 	- [Fireborn](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Fireborn.md) article added

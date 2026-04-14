@@ -26,7 +26,7 @@ A malicious [phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Pha
 
 ### Dragon
 Noun.  
-An [ideal phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md#Ideal%20Phantasm). Except in scientific literature, any ideal phantasm is often referred to simply as such, rather than by a more specific construction (i.e. "ideal automaton") as origin often becomes less relevant to discussion of these beings.
+An [ideal phantasm](Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Phantasm.md#Ideal%20Phantasm). Except in scientific literature, any ideal phantasm is often referred to simply as such, rather than by a more specific construction (i.e. "ideal automaton") as origin often becomes less relevant in discussion of such beings.
 
 ### Eidolon
 Noun.  
@@ -50,7 +50,7 @@ The region of space where a given soul or other phlogistic formation has full or
 
 ### Symbolic Density
 Noun.  
-How many symbols (that is, atoms of thought) one is able to fit within a certain standard volume of their [soul](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md). Directly correlated with one's capacity for [phlogistic computing](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md), more specifically their ability to simulate greater numbers of logic gates and with a shorter distance between them. Scales directly with the soul's mass.
+How many symbols (that is, atoms of thought) one is able to fit within a certain standard volume of their [soul](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md). Directly correlated with one's capacity for [phlogistic computing](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md), more specifically their ability to simulate greater numbers of logic gates and other computational components, and with a shorter distance between them leading to faster response times. Scales directly with the soul's mass.
 
 ## General Phlogistics
 ### Pneumaphilic

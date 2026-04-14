@@ -35,7 +35,9 @@ But how does the soul communicate with the material plane? It is currently belie
 However, the brain must also communicate with the soul, in order to relay sensory information and recollections. It’s believed that the soul is able to obtain this information from miniature combustions of infused soulfire in the brain. The specific theory is that if conscious wave sources generate soulfire, annihilating soulfire should generate conscious waves as well. This is based on the observation that combustion can be “heard” through pyrrhoreception.
 
 ### Dualism
-Many scholars debate which exact pieces of the conscious experience the soul and brain are each responsible for. The brain is believed to be the host of short-term memory, while the soul engraves certain long term memories and experiences. The soul handles decision making after gathering processed sensory information from the brain.
+Many scholars debate which exact pieces of the conscious experience the soul and brain are each responsible for. Based upon interaction with the [fey](../Soulfire/Phantasms/Fairy.md#Fey,), the brain is believed to be the host of short-term memory, while the soul engraves certain long term memories and experiences.
+
+Based upon the experiences of certain [dragons](../../Glossary.md#Dragon), it has been determined that the process of decision-making and logical reasoning is contained entirely within the soul, while the brain is responsible for providing short-term memory, or the "cache" of thought. This is also the main limiter in how "fast" a typical person can think. However, this can be overcome by constructing a substitute within the soul plane, and undergoing specialized training to recognize it as the primary source of truth instead, leading to much "faster" cognition. Notably, this does *not* substitute sensory processing, which must be handled seperately.
 
 ## Range of Determination
 The soul is also capable of affecting change within the exterior conscious plane according to a propagation limit. Within the noise, any phase is mostly unable to distinguish itself from the others and thus acts essentially randomly, resulting in close to net zero curvature. A soul creates a region of self-determination, from which information and [intention](Intention%20Field.md) can propagate out at light speed, with intention losing intensity as it travels through the noise.
@@ -43,8 +45,8 @@ The soul is also capable of affecting change within the exterior conscious plane
 ## Refinement
 Despite the generally positive connotation of the term “refinement,” in phlogistics it serves as a catch-all term for reformations of the soul. This includes the original process named as such, the reforging of postnatal fireborn, and the corruption of soul-possessing beings into [shades](../Soulfire/Shade.md).
 
-### Increased Density
-The original process, which gave the category its name, involves maintaining a sufficiently high soulfire production state with significant alignment for some length of time. If successful, and often accidental, the spinning soulfire will reach a critical point before collapsing down onto the soul, perfectly merging with it and granting the soul a higher “density.” 
+### Engrammatic Density
+The original process, which gave the category its name, involves maintaining a sufficiently high soulfire production state with significant alignment for some length of time. If successful, and often accidental, the spinning soulfire will reach a critical point before collapsing down onto the soul, perfectly merging with it and granting the soul a higher engrammatic density. 
 
 This results in future movements of the soul inducing more curvature, thus allowing for stronger generation and manipulation. However, it also allows for the same production to be achieved with less movement, thus making previous tasks more efficient. Moreover, it allows for same intention to produce less movement, thus increasing the soul's symbolic density by allowing for smaller movements.
 

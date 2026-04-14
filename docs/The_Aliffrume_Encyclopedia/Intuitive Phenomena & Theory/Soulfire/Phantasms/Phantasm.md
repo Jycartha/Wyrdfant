@@ -17,7 +17,7 @@ A phantasm which possesses a [soul](../../Pure%20Phlogistics/Soul.md), granting 
 ### Ideal Phantasm
 The highest classification of phantasm, which are those that are [phlogistically immortal](../../Firekeeping/Phlogistic%20Immortality.md). Notably, this allows them to be unrestrained by the impression which birthed them, and makes them exceedingly difficult to cleanse. 
 
-This makes ideal [shades](Shade.md) some of the most dangerous entities on the planet, as they often become the downfall of entire regions. As the shade cannot be normally quelled, this leaves pacifying it as the only viable option to contain the threat. Oddly enough, while [somagenics](Shade.md) are often more powerful than [phlogenics](Shade.md), ideal somagenics are often easier to subdue as their mental state is more readily understood, and thus more easily tempered. Phlogenics, meanwhile, can be entirely unpredictable, leading them to be difficult to subdue quickly and thus a greater long-term threat even if they're less powerful.
+This makes ideal [shades](../../../Glossary.md#Shade) some of the most dangerous entities on the planet, often becoming the downfall of entire regions. As the shade cannot be normally quelled, this leaves pacifying it as the only viable option to contain the threat. Oddly enough, while [fellsouls](Fellsoul.md) are often more powerful than [nightspawn](Nightspawn.md), fellsouls are often easier to subdue as their mental state is more readily understood, and thus more easily tempered. Ideal nightspawn, meanwhile, can be entirely unpredictable, leading them to be difficult to subdue quickly and thus a greater long-term threat even if they're less powerful.
 
 ## By Psyche
 ### Fairies
