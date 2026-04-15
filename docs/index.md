@@ -19,7 +19,7 @@ actions:
 
 features:
   - title: Updates
-    details: Blog-like updates related to my projects, in longer form than the roadmap below.
+    details: Join the Discord for more frequent news, or see the blog (navbar link) for longer summaries every month or so.
 
   - title: Writings
     details: Public-facing writings, including short stories and webnovel chapters.

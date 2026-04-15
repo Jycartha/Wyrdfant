@@ -89,7 +89,7 @@ export default defineUserConfig({
     contributors: false,
     navbar: [
       {
-        text: 'Updates',
+        text: 'News',
         link: '/updates/',
       },
       {
