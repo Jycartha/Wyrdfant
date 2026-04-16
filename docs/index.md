@@ -49,6 +49,8 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
+- **4/16/2026**
+	- News!
 - **4/14/2026**
 	- Reworked [Engram](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md) classification
 	- Clarified the structure of the [Soul](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md), including the notion of [Symbolic Density](The_Aliffrume_Encyclopedia/Glossary.md#Symbolic%20Density) and the nature of the [Soul Plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md#Soul%20Plane).

@@ -98,3 +98,19 @@ A soulkeeper capable of [Phlogistic Computing](Intuitive%20Phenomena%20&%20Theor
 	* Schausen : \[Shou(t)-sen\]
 	* Marmjögur : \[Marm-yo-gur\]
 * [Rokajun](Natural%20Sciences/Biology/Sapient%20Species/Rokajun.md) : \[Roe-ka-june\]
+## Terminology
+### Metacycle
+Noun.  
+12 cycles, or 24 semicycles. Used as a threshold for adulthood in many cultures.
+
+### Fullcycle
+Noun.  
+Approximately 72 semicycles; often used as an approximation for a lifetime.
+
+### Greatcycle
+Noun.  
+72 cycles, or 144 semicycles; used in the description of periods in history.
+
+### Grandcycle
+Noun.  
+144 cycles, often used in the description of eras in modern history.
