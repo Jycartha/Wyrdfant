@@ -1,2 +1,2 @@
 # Reckoning
-The practice of applying the principles of phlogistic computing within one's [soul plane](../Pure%20Phlogistics/Soul.md#The%20Soul%20Plane), enabling advanced modes of thought, faster reaction times, perfect memory, and other applications.
+The practice of applying the principles of phlogistic computing within one's [soul plane](../Pure%20Phlogistics/Soul/Soul.md#The%20Soul%20Plane), enabling advanced modes of thought, faster reaction times, perfect memory, and other applications.

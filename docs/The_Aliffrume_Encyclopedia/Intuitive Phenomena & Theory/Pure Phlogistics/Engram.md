@@ -5,7 +5,7 @@ aliases:
   - engrams
 ---
 # Engram
-An engram is any fully self-contained program for [soulfire](Soulfire.md) manipulation, typically encoded within [flamescript](../Soulfire/Flamescript.md) to produce a complex effect like state manipulation, chemical processing, or computation. Notably, this also includes memories, thoughts, and sensory records; anything that could constitute cognitive activity. 
+An engram is any fully self-contained program for [soulfire](Soul/Soulfire.md) manipulation, typically encoded within [flamescript](../Soulfire/Flamescript.md) to produce a complex effect like state manipulation, chemical processing, or computation. Notably, this also includes memories, thoughts, and sensory records; anything that could constitute cognitive activity. 
 
 Engrams need not be intentionally constructed. After all, long term memory is (typically) an unintentional engram. Generally speaking, any action performed frequently enough becomes embedded as an engram in the core, commonly referred to as muscle memory.
 

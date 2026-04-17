@@ -4,4 +4,4 @@ An extremely common supplemental [Kindlegem](../Kindlegem.md) to a lightweight f
 
 Notably, this method breaks down in the extreme case that the projectile is extremely fast. However, this also means that the projectile is likely very small, and also has a very predictable trajectory. In this case, a slug-catcher will often not "catch" the projectile at all, and will instead selectively harden the impact area.
 
-Each slug-catcher system is unique, especially depending upon how much [soulfire](../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md) can be devoted to it. A common middle ground is a detection range of around 10 meters, and a maximum projectile mass of 10 kilograms, the average weight of a cannonball.
+Each slug-catcher system is unique, especially depending upon how much [soulfire](../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md) can be devoted to it. A common middle ground is a detection range of around 10 meters, and a maximum projectile mass of 10 kilograms, the average weight of a cannonball.

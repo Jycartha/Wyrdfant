@@ -38,10 +38,12 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- Ashjërunei's encounter with Alfiürwit, lackadaisical dragon and Drüten of the Arenfürich Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
-	- Important Persons
 	- Gimyndization
+	- Separate soulplane projection into its own article, expand
+	- What is [Engrammatic Mass](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Engrammatic%20Mass.md) doing there?
 	- Phlogistic computing article expansion
 	- Clarification on momentum conservation
+	- Arenfürich politics cohesion
 	- Non-Halanian history
 	- Expand on Phantasms
 
@@ -52,7 +54,7 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- News!
 - **4/14/2026**
 	- Reworked [Engram](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md) classification
-	- Clarified the structure of the [Soul](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md), including the notion of [Symbolic Density](The_Aliffrume_Encyclopedia/Glossary.md#Symbolic%20Density) and the nature of the [Soul Plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul.md#Soul%20Plane).
+	- Clarified the structure of the [Soul](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soul.md), including the notion of [Symbolic Density](The_Aliffrume_Encyclopedia/Glossary.md#Symbolic%20Density) and the nature of the [Soul Plane](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soul.md#Soul%20Plane).
 - **4/13/2026**
 	- [Fireborn](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Phantasms/Fireborn.md) article added
 - **4/11/2026**

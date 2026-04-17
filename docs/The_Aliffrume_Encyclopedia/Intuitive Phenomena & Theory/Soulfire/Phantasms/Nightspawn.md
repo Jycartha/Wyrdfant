@@ -3,7 +3,7 @@ aliases:
   - nightspawn
 ---
 # Nightspawn
-Similar to [fairies](Fairy.md), nightspawn are [phantasms](Phantasm.md) born from collective thought. The notable difference: nightspawn are formed by the coagulation of ill-oriented [soulfire](../../Pure%20Phlogistics/Soulfire.md), leading them to take after creatures of nightmare and fear. 
+Similar to [fairies](Fairy.md), nightspawn are [phantasms](Phantasm.md) born from collective thought. The notable difference: nightspawn are formed by the coagulation of ill-oriented [soulfire](../../Pure%20Phlogistics/Soul/Soulfire.md), leading them to take after creatures of nightmare and fear. 
 
 ## Origin
 True to their name, nightspawn often form during the sleeping hours of the local populace, coming about as their fears and negative emotions crash into each other. However, nightspawn are not necessarily formed only by sapient activity. In fact, nightspawn are observed to grow stronger within deep forests and other places of dense life.

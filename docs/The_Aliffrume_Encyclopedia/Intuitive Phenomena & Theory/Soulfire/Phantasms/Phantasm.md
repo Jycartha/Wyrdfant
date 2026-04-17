@@ -5,14 +5,14 @@ aliases:
   - phantasms
 ---
 # Phantasm
-Also referred to as spirits, phantasms are a curious form of life born of [soulfire](../../Pure%20Phlogistics/Soulfire.md) and [ichor](Ichor.md), birthed from the aggregate [halo](../../Pure%20Phlogistics/Soul.md#Halo) of [sentients](../../../Natural%20Sciences/Biology/Sapient%20Species/Consciousness.md) coalescing within an [impression](../../Pure%20Phlogistics/Conscious%20Plane.md#Impressions) around a central concept; the focal points responsible are often referred to as their *ideal*, while their area is referred to as their *dominion*. 
+Also referred to as spirits, phantasms are a curious form of life born of [soulfire](../../Pure%20Phlogistics/Soul/Soulfire.md) and [ichor](Ichor.md), birthed from the aggregate [halo](../../Pure%20Phlogistics/Soul/Soul.md#Halo) of [sentients](../../../Natural%20Sciences/Biology/Sapient%20Species/Consciousness.md) coalescing within an [impression](../../Pure%20Phlogistics/Conscious%20Plane/Conscious%20Plane.md#Impressions) around a central concept; the focal points responsible are often referred to as their *ideal*, while their area is referred to as their *dominion*. 
 
 ## By Structure
 ### Lesser Phantasm
 The lowest class of phantasm, with barely a distinctive identity to perpetuate. More a loose collection of soulfire than a creature, wisps permeate the environment wherever life abounds. Notably, while lacking a soul, lesser phantasms may command exceptional volumes of soulfire if their impression is sufficiently strong, and one must be careful not to assume their weakness.
 
 ### Greater Phantasm
-A phantasm which possesses a [soul](../../Pure%20Phlogistics/Soul.md), granting them sapience and a great deal more freedom.  However, greater phantasms are still bound within their impression, and are reliant upon it for survival. Without one, [like any other sapient mortal](../../Pure%20Phlogistics/Soul.md#Death), they will slowly erode into the background until it either completely fades or regains its impression. Yet a greater phantasm may in fact contribute to its own impression, and thus influence its own limitations.
+A phantasm which possesses a [soul](../../Pure%20Phlogistics/Soul/Soul.md), granting them sapience and a great deal more freedom.  However, greater phantasms are still bound within their impression, and are reliant upon it for survival. Without one, [like any other sapient mortal](../../Pure%20Phlogistics/Soul/Soul.md#Death), they will slowly erode into the background until it either completely fades or regains its impression. Yet a greater phantasm may in fact contribute to its own impression, and thus influence its own limitations.
 
 ### Ideal Phantasm
 The highest classification of phantasm, which are those that are [phlogistically immortal](../../Firekeeping/Phlogistic%20Immortality.md). Notably, this allows them to be unrestrained by the impression which birthed them, and makes them exceedingly difficult to cleanse. 

@@ -9,7 +9,7 @@ There's not much to say right now besides what's visible on the roadmap. I'm pla
 
 Over the summer, the current plan is to work on getting a short story within Aliffrüme up on here, likely as some form of prelude to the larger narrative I'm working on, [Indelible](../writings/Indelible/README.md) (yes that link doesn't really point to anything as of now, but it's good for backwards compatibility). However, knowing my writing tendencies, it might end up being a chapter one instead... 
 
-Encyclopedia progress will be steady [until then](https://untilthengame.com/), sporadic as typical. In some recent journeys, I've noticed some of the older sections can have significant dissonance with newer ones, or some ideas that I've developed out of site. I'll be putting these on the roadmap to change as I notice them, but if you yourself notice any inconsistencies, as always reach out to me via the \#encyclopedia-feedback channel in the Discord.
+Encyclopedia progress will be steady [until then](https://untilthengame.com/), sporadic as typical. In some recent journeys, I've noticed some of the older sections can have significant dissonance with newer ones, or some ideas that I've developed out of site. I'll be putting these on the roadmap to change as I notice them, but if you yourself notice any inconsistencies, please reach out to me via the \#encyclopedia-feedback channel in the Discord, or (for now) directly via email at andiurne@gmail.com.
 
-Ad idealis,
+Ad idealis,  
 Andiurne

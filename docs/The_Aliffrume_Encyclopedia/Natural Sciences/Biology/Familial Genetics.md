@@ -2,7 +2,7 @@
 
 ### Eye Color 
 
-The eye color of a sentient being is incredibly complex, due to a structurally-colored array of pigments being best at deterring [sparks](../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md#Sparks). One gene controls lycopene, one controls lipochrome. Notably, the yellow pigment is polar, and pushed into flakes when lycopene is present
+The eye color of a sentient being is incredibly complex, due to a structurally-colored array of pigments being best at deterring [sparks](../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md#Sparks). One gene controls lycopene, one controls lipochrome. Notably, the yellow pigment is polar, and pushed into flakes when lycopene is present
 
 | More of either pigment means higher clarity spark sight. | PP (Deep gold)                         |  Pp (A little yellow)  | pp (No yellow, blue light from Rayleigh scattering) |
 | :------------------------------------------------------: | -------------------------------------- | :--------------------: | :-------------------------------------------------: |

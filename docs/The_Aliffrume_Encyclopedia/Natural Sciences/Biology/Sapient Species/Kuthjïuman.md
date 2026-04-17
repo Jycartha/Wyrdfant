@@ -23,7 +23,7 @@ Their hair consists of delphinidin and cyanidin hues, predominantly cyan, as wel
 
 There is also a notable mutation in the Kaithurhi, where the skin is turned white and acquired hair and eyes shades are pink and yellow. Kaithurhi possessing this trait are called Rosithurhi, and are revered as once-a-generation soul-mediums and leaders. They always possess red, exceptionally long, upwards horns.  
 
-Of note is the Kaithurhi's distinct lack of practical spark sensors, due to all life in copperleaf forests simply using ambient [soulfire](../../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soulfire.md). This also lends them to having incredible pyrrhoreceptors, however, since many more threats can harness soulfire.
+Of note is the Kaithurhi's distinct lack of practical spark sensors, due to all life in copperleaf forests simply using ambient [soulfire](../../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md). This also lends them to having incredible pyrrhoreceptors, however, since many more threats can harness soulfire.
 
 ### Muintaferan
 A species closely related to the Kaithurhi, who live mostly on the bloodgrass plains just south of Kanthyna and the Hynawyll valley. Characterized by dark skin to guard against the equatorial sun without tree cover, long, skyward scarlet horns as ears and pyrrhoreceptic organs, and nearly homogeneously scarlet hair and eyes. Their hair and antlers help them to camouflage among the bloodgrass, resembling standing blades.  
