@@ -38,10 +38,9 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- Ashjërunei's encounter with Alfiürwit, lackadaisical dragon and Drüten of the Arenfürich Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
-	- Engram clarification
+	- Important Persons
 	- Gimyndization
 	- Phlogistic computing article expansion
-	- Important Persons
 	- Clarification on momentum conservation
 	- Non-Halanian history
 	- Expand on Phantasms

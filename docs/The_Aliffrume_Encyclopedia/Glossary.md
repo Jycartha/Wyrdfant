@@ -99,7 +99,7 @@ A soulkeeper capable of [Phlogistic Computing](Intuitive%20Phenomena%20&%20Theor
 	* Marmjögur : \[Marm-yo-gur\]
 * [Rokajun](Natural%20Sciences/Biology/Sapient%20Species/Rokajun.md) : \[Roe-ka-june\]
 ## Terminology
-### Metacycle
+### Generation
 Noun.  
 12 cycles, or 24 semicycles. Used as a threshold for adulthood in many cultures.
 
