@@ -127,8 +127,8 @@ export default defineUserConfig({
         title,
         author: frontmatter.author || '',
         date: frontmatter.date || null,
-        category: frontmatter.category || [],
-        tag: frontmatter.tag || [],
+        //category: frontmatter.category || [],
+        //tag: frontmatter.tag || [],
         excerpt:
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string'

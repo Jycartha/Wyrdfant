@@ -1,7 +1,5 @@
 ---
-date: 2026-04-15
-category:
-  - Monthly
+date: 2026-04-16
 excerpt: Plans, summer writing, and encyclopedia.
 ---
 # April News

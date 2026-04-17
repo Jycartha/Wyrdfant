@@ -5,7 +5,7 @@ aliases:
   - phantasms
 ---
 # Glossary
-A collection of definitions and contextualisations by the translators of this work.
+A collection of definitions and contextualizations by the translators of this work.
 ## General Transcription
 ### Palatal Approximant
 Will generally be transcribed as a j with a vowel afterwards, which is indicated with an umlaut. For example, “yours” might be transcribed as “jörs.”
