@@ -2,7 +2,7 @@
 date: 2026-04-15
 category:
   - Monthly
-tag:
+excerpt: Plans, summer writing, and encyclopedia.
 ---
 # April News
 Hello! To not that many of you, if any.
