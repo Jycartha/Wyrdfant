@@ -1,9 +1,9 @@
-## Kuthjïuman
+# Kuthjïuman
 A Halanian species, the [Kuthjïuman](../../../Glossary.md#^69f8b6) have their origins in the superfarms that inhabited the continent in the Hythean era, and as such have a number of key features to assist in that role. Their most stand-out feature is their rainwards, organs that cover their limbs and other parts of the body, taking in the hard rainwater and converting it to a rough, guarded, natural armor. Their ears have been similarly hardened into horns, bioluminescent at the tips to prevent losing members under the waters, which also glow brighter in the presence of sparks as an early-warning sign. Aside from that, their traits are mostly internal, including largely reworked muscular, skeletal, and cardiovascular systems to account for a large size and larger calorie intake.   
 
 A notable consequence of Halanian's lack of contact with gimyndine is much stronger cases of glassröt, and a great difficulty in resonating with it. This has changed in modern times with the arrival of trade with gimyndine-using races, but is still a disadvantage. The flip of this, of course, means that the strongest luciants to be found are Halanian, helped along by their strong systems.
 
-### Áren
+## Áren
 <!-- Instead of producing an oil, Kuthjïuman rainwards are simply areas of reptilian-like scales which act to prevent the person from drying out or suffering water damage. This gives a natural reason for it to cover their legs, lower arms, upper torso and back. -->
 
 A Kuthjïuman native to the Arenfürich rainforest, which focuses on the growth of completely water-inundated crops. They are notably taller than their genetic relatives, with the average male standing at 6’ 10”  and 250 pounds, while the average female sits at 6' 6” and 210 pounds. Despite this, perhaps their most important adaptations are their specialized sweat glands which produce a hydrophobic oil, along with their powerful frames necessary for supporting and supplying blood to their titanic heights.  
@@ -14,7 +14,7 @@ Like the other Halanian natives, their ears are made of hardened chitin and form
 
 This is part of a larger trend of sexual dimorphism in the Áren. Rainward growths on Áren women focus more on the arms to leave the chest mostly bare, have a rounded shape, and are grayish in color. Growths on men are centered around the torso while still covering the arms, have jagged branching horns, and take on a dark black hue.
 
-### Kaithurhi
+## Kaithurhi
 A sub-species of the Áren highly adapted for life in the copperleaf forests, with extremely high defenses against disharmonic soulfire and an innate inability to use gimyndine. However, it is to be noted that this adaptation prevents them from producing significant amounts of soulfire outside their body, and thus they instead rely on resonant *Animarchaea* and ambient soulfire.   
 
 To protect their wave-sensing organs, which are still necessary even in the high-soulfire environment of the copperleaf forest, they are encased within black knife-like upwards-facing horns with red sensing edges on the men, while on women they face downwards and curve in a crescent shape, with blue sensing edges.  
@@ -25,7 +25,7 @@ There is also a notable mutation in the Kaithurhi, where the skin is turned whit
 
 Of note is the Kaithurhi's distinct lack of practical spark sensors, due to all life in copperleaf forests simply using ambient [soulfire](../../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md). This also lends them to having incredible pyrrhoreceptors, however, since many more threats can harness soulfire.
 
-### Muintaferan
+## Muintaferan
 A species closely related to the Kaithurhi, who live mostly on the bloodgrass plains just south of Kanthyna and the Hynawyll valley. Characterized by dark skin to guard against the equatorial sun without tree cover, long, skyward scarlet horns as ears and pyrrhoreceptic organs, and nearly homogeneously scarlet hair and eyes. Their hair and antlers help them to camouflage among the bloodgrass, resembling standing blades.  
 
 Due to their grassland environment, they evolved rather long and powerful legs, which grants them a rather tall average height. In addition to their excellent stamina, this makes them well suited to long bouts of running. This lends itself to chasing down the agile prey on the plains, and makes a greater portion of their height compressible for hiding in the bloodgrass. Other species do believe it to look rather strange, however.  
