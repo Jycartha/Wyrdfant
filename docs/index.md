@@ -38,18 +38,21 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- Ashjërunei's encounter with Alfiürwit, lackadaisical dragon and Drüten of the Arenfürich Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
-	- Gimyndization
-	- Separate soulplane projection into its own article, expand
 	- What is [Engrammatic Mass](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Engrammatic%20Mass.md) doing there?
 	- Phlogistic computing article expansion
 	- Clarification on momentum conservation
 	- Arenfürich politics cohesion
+	- Re-examine lore in the [Gimyndine](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md) article for cohesion
 	- Non-Halanian history
 	- Expand on Phantasms
 
 ::: center
 ## Changelog
 :::
+- **4/18/2026**
+	- Added [Plane Projection](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Plane%20Projection.md)
+	- Defined [Gimyndization](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md#Gimyndization) in a subheading
+	- Added a subheading for [Aqueous Gimyndine](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md#Aqueous%20Gimyndine)
 - **4/16/2026**
 	- News!
 - **4/14/2026**
