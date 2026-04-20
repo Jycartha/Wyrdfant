@@ -61,6 +61,10 @@ Noun.
 How many symbols (that is, atoms of thought) one is able to fit within a certain standard volume of their [soul](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soul.md). Directly correlated with one's capacity for [phlogistic computing](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md), more specifically their ability to simulate greater numbers of logic gates and other computational components, and with a shorter distance between them leading to faster response times. Scales directly with the soul's mass.
 
 ## General Phlogistics
+### Ichorous
+Adj.  
+Related to or composed of [ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md).
+
 ### Pneumaphilic
 Adj.  
 Having a high capacity for and/or ease of [infusion](Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md).
