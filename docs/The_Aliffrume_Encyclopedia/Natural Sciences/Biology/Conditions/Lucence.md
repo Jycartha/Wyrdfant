@@ -1,1 +1,6 @@
-A congenital mental condition thought to occur from a unique soul paradigm as opposed to non-lucent individuals, often resulting in difficulties interacting with [gimyndine](../../../Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md) and foreign [soulfire](../../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md) in general, though also affording great intuition for intuitive phenomena and logical reasoning. In particular, many lucent individuals are renowned as talented computers.
+---
+aliases:
+  - lucence
+---
+# Lucence
+A congenital mental condition thought to occur from a unique soul paradigm as opposed to non-lucent individuals, often resulting in difficulties interacting with [gimyndine](../../../Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md) and foreign [soulfire](../../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md) in general, though also affording great intuition for intuitive phenomena and logical reasoning.

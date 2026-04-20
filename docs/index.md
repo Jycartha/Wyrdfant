@@ -38,9 +38,9 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- Ashjërunei's encounter with Alfiürwit, lackadaisical dragon and Drüten of the Arenfürich Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
-	- Update and clarify [Flamescript](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Flamescript.md)
+	- Re-examine [Kindlegem](The_Aliffrume_Encyclopedia/Technology/Kindlegem.md)
 	- Expand [Firekeeping](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Firekeeping.md)
-	- Phlogistic computing article expansion
+	- Expand [Phlogistic Computing](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md)
 	- Clarification on momentum conservation
 	- Arenfürich politics cohesion
 	- Re-examine lore in the [Gimyndine](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md) article for cohesion
@@ -50,8 +50,13 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
+- **4/20/2026**
+	- Cleaned [Crucible](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Crucible.md), [Frame](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Frame.md), [Skystilts](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Skystilts.md), [Sliverwatch](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Sliverwatch.md), [Soulkeeping](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Soulkeeping.md)
+	- Moved [Highflame Instrument](The_Aliffrume_Encyclopedia/Glossary.md#Highflame%20Instrument) to the glossary
+	- Remembered that [I'd already used the word "divinity" actually](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Soulkeeping.md#Divinities) and renamed engrams for constructing ichorous artifacts to [Ichorware](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Ichorware.md)
+	- Added the definitions of [Ichorware](The_Aliffrume_Encyclopedia/Glossary.md#Ichorware) and [Soulware](The_Aliffrume_Encyclopedia/Glossary.md#Soulware) to the glossary
 - **4/19/2026**
-	- Started work on [Divinity](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Divinity.md)
+	- Started work on [Ichorware](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Ichorware.md)
 	- Moved [Engrammatic Mass](The_Aliffrume_Encyclopedia/Glossary.md#Engrammatic%20Mass) to a glossary heading
 	- Noticed and updated some wording in [Infusion](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md), additionally adding a reference back to [Ichor](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md)
 	- Updated [Flamescript](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Flamescript.md) to clarify it's relation to [engrams](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md), [infusion](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md), and its formation process

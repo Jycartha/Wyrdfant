@@ -44,6 +44,11 @@ Lit. "born from the body," used to refer to [phantasms](Intuitive%20Phenomena%20
 Adj.  
 Lit. "born from soulfire," often used to differentiate fireborn from bodyborn. Synonymous with the former, and considered more formal.
 ## Souls
+### Lucent
+Adj.  
+1. The quality of possessing [lucence](Natural%20Sciences/Biology/Conditions/Lucence.md).
+2. An individual possessing [lucence](Natural%20Sciences/Biology/Conditions/Lucence.md).
+
 ### Engrammatic Matter
 Noun.  
 [Ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md), in a scientific context.
@@ -60,7 +65,21 @@ The region of space where a given soul or other phlogistic formation has full or
 Noun.  
 How many symbols (that is, atoms of thought) one is able to fit within a certain standard volume of their [soul](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soul.md). Directly correlated with one's capacity for [phlogistic computing](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md), more specifically their ability to simulate greater numbers of logic gates and other computational components, and with a shorter distance between them leading to faster response times. Scales directly with the soul's mass.
 
+## Phlogistic Computing
+### Soulware
+Noun.  
+[Engrams](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md) intended for use within the [soul plane](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soul.md#Soul%20Plane), typically for the purposes of [phlogistic computation](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md).
+
+### Ichorware
+Noun.  
+1. An engram detailing the production of an [ichorous](Glossary.md#Ichorous) artifact.
+2. The ichorous artifact itself, as above.
+
 ## General Phlogistics
+### Highflame Instrument
+Noun.  
+Instruments belonging to the highflame class of firekeeping, i.e. that having to do with professional-grade [gimyndine](../../Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md) or [soulfire](../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md). Such instruments are typically involved with the outfitting of [firekeepers](../../Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md), but can also be found in industrial production or wealthy private-sector commissions.
+
 ### Ichorous
 Adj.  
 Related to or composed of [ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md).
