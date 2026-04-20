@@ -38,10 +38,12 @@ const getSidebarItems = (dir, capitalizing) => {
 
       if (children.length === 1 && children[0] === "README") {
         // Folder with just README.md
+        const fileName = file.name;
         const text = capitalizing ? folderName.replace(/-/g, " ").toUpperCase() : folderName.replace(/-/g, " ")
+        const relativeDir = dir.slice(dir.indexOf("docs")+4);
         items.push({
           text: text,
-          link: `/${folderName}/`,
+          link: `${path.join(relativeDir, fileName, "/")}`
         });
       } else {
         // Folder with other markdown files 

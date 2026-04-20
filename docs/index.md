@@ -51,7 +51,8 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 :::
 - **4/19/2026**
 	- Moved [Engrammatic Mass](The_Aliffrume_Encyclopedia/Glossary.md#Engrammatic%20Mass) to a glossary heading
-	- Noticed and updated some wording in [infusion](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md)
+	- Noticed and updated some wording in [Infusion](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md), additionally adding a reference back to [Ichor](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md)
+	- Updated [Flamescript](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Flamescript.md) to clarify it's relation to [engrams](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md), [infusion](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Infusion.md), and its formation process
 - **4/18/2026**
 	- Added [Plane Projection](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Plane%20Projection.md)
 	- Defined [Gimyndization](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md#Gimyndization) in a subheading

@@ -1,11 +1,4 @@
 # Infusion
-Perhaps the most basic interaction, [soulfire](../../Pure%20Phlogistics/Soul/Soulfire.md) undergoes infusion when it’s radially compressed by [the Conscious Plane](../../Pure%20Phlogistics/Conscious%20Plane/Conscious%20Plane.md), shunting it down into the physical realm. This process also generates a form of radiation called [sparks](../../Pure%20Phlogistics/Soul/Soulfire.md#Sparks), in order to preserve the information lost in converting continuous soulfire to quantized reality. Only infused soulfire is capable of directly interacting with matter or the physical forces.
+Perhaps the most basic interaction, [soulfire](../../Pure%20Phlogistics/Soul/Soulfire.md) undergoes infusion when it’s radially compressed by [the Conscious Plane](../../Pure%20Phlogistics/Conscious%20Plane/Conscious%20Plane.md), shunting it down into the physical realm. This process also generates a form of radiation called [sparks](../../Pure%20Phlogistics/Soul/Soulfire.md#Sparks), in order to preserve the information lost in transferring continuous soulfire into quantized reality. Only infused soulfire is capable of directly interacting with matter or the physical forces.
 
-Notably, 
-
----
-
-| Soulfire | Uninfused | Infused |
-| -------- | --------- | ------- |
-| Unspun   | Cognition | Field   |
-| Spun     | Memory    | Coupled |
+Notably, [engrammatic soulfire](../Flamescript.md) is exceptionally difficult to compress in this manner, as rather than the point-like nature of typical soulfire, its interconnected structure leads it to be "slippery." A major hurdle to clear when learning [ichor](../Ichor.md) production as a skill is the delicacy needed to accomplish this.
