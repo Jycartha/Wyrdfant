@@ -50,7 +50,7 @@ Noun.
 
 ### Engrammatic Mass
 Noun.  
-An observed property of [soulfire](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md), the conscious plane, [ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md), and other phlogistic materials.
+An observed property of [soulfire](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md), the conscious plane, [ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md), and other phlogistic materials. Informally referred to as "heft."
 
 ### Dominion
 Noun.  

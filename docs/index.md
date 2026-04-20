@@ -39,6 +39,7 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
 	- Update and clarify [Flamescript](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Flamescript.md)
+	- Expand [Firekeeping](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Firekeeping.md)
 	- Phlogistic computing article expansion
 	- Clarification on momentum conservation
 	- Arenfürich politics cohesion

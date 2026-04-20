@@ -1,3 +1,9 @@
-### Spin Friction
-
-Similar to particle physics, the “spin” of [soulfire](../../Pure%20Phlogistics/Soul/Soulfire.md) refers to, in a sense, its angular momentum. Spin is imparted upon [infused](Infusion.md) soulfire through the addition of a twisting force to radial compression, and higher spin soulfire has the property of a higher “static friction” when infused. That is, it “sticks” better before an applied [conscious force](../../Pure%20Phlogistics/Conscious%20Plane/Intention%20Field.md) detaches it. The main limitation of many kinematic systems involving [phlogistics](../../Pure%20Phlogistics/Phlogistic%20Model.md) is the magnitude of this spin friction, as it limits the upper bound of force that can be applied reliably, thus limiting the weight of manipulable objects.
+---
+aliases:
+  - spin
+  - Spin
+  - spin friction
+  - Spin friction
+---
+# Spin Friction
+Similar to known particle physics, the “spin” of [soulfire](../../Pure%20Phlogistics/Soul/Soulfire.md) refers to, in a sense, its angular momentum. Spin is imparted upon [infused](Infusion.md) soulfire through the addition of a twisting force to radial compression, and higher spin soulfire has the property of a higher “static friction” when infused. That is, it “sticks” better before an applied [conscious force](../../Pure%20Phlogistics/Conscious%20Plane/Intention%20Field.md) detaches it. The main limitation of many kinematic systems involving [phlogistics](../../Pure%20Phlogistics/Phlogistic%20Model.md) is the magnitude of this spin friction, as it limits the upper bound of force that can be applied reliably, thus limiting the weight of manipulable objects.

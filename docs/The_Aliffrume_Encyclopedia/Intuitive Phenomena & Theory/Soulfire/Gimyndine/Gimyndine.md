@@ -1,3 +1,7 @@
+---
+aliases:
+  - gimyndine
+---
 # Gimyndine
 Gimyndine \[gih-men-dean] is a naturally occurring opal-like material commonly seen either accumulating on and around areas of high [infusion](Interactions/Infusion.md), or buried in elden ruins, and is notable for it's ability to produce a distinct form of [Soulfire](../../Pure%20Phlogistics/Soul/Soulfire.md)--appropriately called [gimynfire](../../Pure%20Phlogistics/Soul/Soulfire.md#Gimynfire)--upon various forms of interaction.
 
