@@ -1,5 +1,15 @@
+---
+aliases:
+  - flamescript
+  - engrammatic soulfire
+  - Engrammatic soulfire
+---
 # Flamescript
-A core part of firekeeping's advancement as a practice is the cataloging and sharing of discoveries and techniques. This is accomplished through the creation of flamescript, otherwise termed as scriptcraft. Scriptcraft, the process by which [engrams](../Pure%20Phlogistics/Phlogistic%20Model.md#Engrams) are created, shared, and improved upon, is one of the most vital components of firekeeping; especially gimyndine firekeeping. It begins with transcription, the process of creating an engram and encoding it into reality as flamescript.
+Also referred to as engrammatic [soulfire](../Pure%20Phlogistics/Soul/Soulfire.md), flamescript is [infused soulfire](Interactions/Infusion.md) which has been woven into an engrammatic structure.
+
+<!-- A core part of firekeeping's advancement as a practice is the cataloging and sharing of discoveries and techniques. This is accomplished through the creation of **flamescript**, also referred to as engrammatic -->
+
+*Scriptcraft*, the process by which [engrams](../Pure%20Phlogistics/Phlogistic%20Model.md#Engrams) are created, shared, and improved upon, is one of the most vital components of firekeeping; especially gimyndine firekeeping. It begins with transcription, the process of creating an engram and encoding it into reality as flamescript.
 
 Transcription begins with a flamescribe coating a chosen medium in their fire—be it soul, gimyn, or black—as this will be where the engram they create will be encoded. They then enter a meditative state of visualization, which is described to occur in three stages:
 

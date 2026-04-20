@@ -5,9 +5,9 @@ aliases:
   - mnemonite
 ---
 # Ichor
-Also referred to as engrammatic matter or mnemonite, ichor is a kind of amorphous material formed by infusing [tangled soulfire](../Pure%20Phlogistics/Soul/Soulfire.md#Tangled). It naturally encrusts surfaces over time if they are exposed to any amount of [infusion](Interactions/Infusion.md), as permeability gradients slightly bunch up incoming soulfire, which is then slowly infused by the local [conscious pressure](../Pure%20Phlogistics/Conscious%20Plane/Conscious%20Plane.md).
+Also referred to as engrammatic matter or mnemonite, ichor is a kind of amorphous material formed by infusing [engrammatic soulfire](Flamescript.md). It naturally encrusts surfaces over time if they are exposed to any amount of [infusion](Interactions/Infusion.md), as permeability gradients slightly bunch up incoming soulfire, which is then slowly infused by the local [conscious pressure](../Pure%20Phlogistics/Conscious%20Plane/Conscious%20Plane.md).
 
-Ichor can be intentionally produced by infusing soulfire spun to weave an engrammatic structure, and such [deliberately produced ichor is often used as currency](../../Anthropology/Economics/Fireash.md). However, infusing spun soulfire takes significantly more intention then its unspun counterpart, which further scales rapidly with volume and spin count. This means that actually producing ichor is a notable mark of phlogistic strength.
+[Deliberately produced ichor is often used as currency](../../Anthropology/Economics/Fireash.md). However, infusing spun soulfire takes significantly more intention then its unspun counterpart, which further scales rapidly with volume and spin count. This means that actually producing ichor is a notable mark of phlogistic strength.
 
 Aside from it's rather negligible ability to serve as engrammatic mass, ichor also has the notable property of having completely manipulable mechanical properties, which is why the corpora of many non-biological persons are formed of it, and where its name is derived from. Before the nature of ichor was understood, it was believed to be the blood of demigods, since cuts against such powerful [phantasms](Phantasms/Phantasm.md) would loose the ichor which composed their body, causing it to liquefy and evaporate.
 

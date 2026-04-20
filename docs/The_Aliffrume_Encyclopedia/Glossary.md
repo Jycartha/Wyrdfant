@@ -44,6 +44,14 @@ Lit. "born from the body," used to refer to [phantasms](Intuitive%20Phenomena%20
 Adj.  
 Lit. "born from soulfire," often used to differentiate fireborn from bodyborn. Synonymous with the former, and considered more formal.
 ## Souls
+### Engrammatic Matter
+Noun.  
+[Ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md), in a scientific context.
+
+### Engrammatic Mass
+Noun.  
+An observed property of [soulfire](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md), the conscious plane, [ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md), and other phlogistic materials.
+
 ### Dominion
 Noun.  
 The region of space where a given soul or other phlogistic formation has full or partial influence.
