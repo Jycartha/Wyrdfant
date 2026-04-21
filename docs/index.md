@@ -42,6 +42,7 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- Write in the definition for [Glassrot](The_Aliffrume_Encyclopedia/Natural%20Sciences/Biology/Conditions/Glassrot.md)
 	- Expand [Phlogistic Computing](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md)
 	- Clarification on momentum conservation
+	- Clean up and modernize [Organizations](The_Aliffrume_Encyclopedia/Chronology/Organizations/Organizations.md)
 	- Arenfürich politics cohesion
 	- Move [Firekeeper](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md) to only its glossary
 	- Re-examine lore in the [Gimyndine](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md) article for cohesion
@@ -54,6 +55,8 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 - **4/21/2026**
 	- Updated [Kindlegem](The_Aliffrume_Encyclopedia/Technology/Kindlegem.md)
 	- Moved [Flamebearer](The_Aliffrume_Encyclopedia/Glossary.md#Flamebearer) to its glossary entry
+	- Added a "titles" section to the glossary
+	- Renamed and cleaned up [Ennology](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Ennology.md)
 - **4/20/2026**
 	- Cleaned [Crucible](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Crucible.md), [Frame](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Frame.md), [Skystilts](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Skystilts.md), [Sliverwatch](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Sliverwatch.md), [Soulkeeping](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Soulkeeping.md)
 	- Moved [Highflame Instrument](The_Aliffrume_Encyclopedia/Glossary.md#Highflame%20Instrument) to the glossary

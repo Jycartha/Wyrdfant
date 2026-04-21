@@ -5,7 +5,7 @@ Witafjürgen is composed of six individual colleges, each dedicated to one area 
 
 In no particular order, the colleges are the: 
 
-* Leombjürna College of Hagnomists  
+* Leombjürna College of Ennologists
 * Nichtfryth College of Soulsmiths  
 * Skógrekin College of Flamebearers  
 * Tdahiya College of Scribes  
