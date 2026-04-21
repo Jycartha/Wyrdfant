@@ -68,7 +68,7 @@ How many symbols (that is, atoms of thought) one is able to fit within a certain
 ## Phlogistic Computing
 ### Soulware
 Noun.  
-[Engrams](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md) intended for use within the [soul plane](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soul.md#Soul%20Plane), typically for the purposes of [phlogistic computation](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md).
+[Engrams](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md) intended for embedding as flamescript within the [soul plane](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soul.md#Soul%20Plane), typically for the purposes of [phlogistic computation](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md).
 
 ### Ichorware
 Noun.  
@@ -108,7 +108,8 @@ Noun.
 
 ### Flamebearer
 Noun.  
-A [firekeeper](Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md) specializing in the implementation of [engrams](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md); typically combat-oriented, but may also be industrial or otherwise professional.
+A [firekeeper](Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md) specializing in the implementation of [engrams](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md); typically combat-oriented, but may also be industrial or otherwise professional. When used as a title, shortened to "Br." for "bearer."
+
 ### Hearth
 Noun.  
 Among [firekeepers](Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md), a gathering place.

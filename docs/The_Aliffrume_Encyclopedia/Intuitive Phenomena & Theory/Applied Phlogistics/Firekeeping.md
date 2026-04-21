@@ -10,3 +10,10 @@ All firekeeping begins with the generation of [Soulfire](../Pure%20Phlogistics/S
 
 All life can control ambient [Soulfire](../Pure%20Phlogistics/Soul/Soulfire.md) and even produce its own, but sourcing it from [Gimyndine](../Soulfire/Gimyndine/Gimyndine.md) is much more potent and allows easier use when integrated with [Kindlegem](../../Technology/Kindlegem.md). This led to [Gimyndine](../Soulfire/Gimyndine/Gimyndine.md) technology and its derivatives becoming the forefront of development for centuries, and many self-sourced firekeeping techniques became relegated to folk contexts or small communities, where the usage of [Gimyndine](../Soulfire/Gimyndine/Gimyndine.md) was either impractical from extenuating circumstance, or rejected on principle.
 ## Fields of Firekeeping
+### Artifice
+### Arterial Arts
+### Phlogistic Computing
+### Ichorcraft
+### Synthesis
+### Soulsmithing
+### Oversense

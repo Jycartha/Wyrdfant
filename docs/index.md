@@ -38,11 +38,12 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 	- Ashjërunei's encounter with Alfiürwit, lackadaisical dragon and Drüten of the Arenfürich Arteries
 ### Encyclopedia
 - Continue developing the Encyclopedia in:
-	- Re-examine [Kindlegem](The_Aliffrume_Encyclopedia/Technology/Kindlegem.md)
 	- Expand [Firekeeping](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Firekeeping.md)
+	- Write in the definition for [Glassrot](The_Aliffrume_Encyclopedia/Natural%20Sciences/Biology/Conditions/Glassrot.md)
 	- Expand [Phlogistic Computing](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md)
 	- Clarification on momentum conservation
 	- Arenfürich politics cohesion
+	- Move [Firekeeper](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md) to only its glossary
 	- Re-examine lore in the [Gimyndine](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md) article for cohesion
 	- Non-Halanian history
 	- Expand on Phantasms
@@ -50,6 +51,9 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
+- **4/21/2026**
+	- Updated [Kindlegem](The_Aliffrume_Encyclopedia/Technology/Kindlegem.md)
+	- Moved [Flamebearer](The_Aliffrume_Encyclopedia/Glossary.md#Flamebearer) to its glossary entry
 - **4/20/2026**
 	- Cleaned [Crucible](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Crucible.md), [Frame](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Frame.md), [Skystilts](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Skystilts.md), [Sliverwatch](The_Aliffrume_Encyclopedia/Technology/Highflame%20Instruments/Sliverwatch.md), [Soulkeeping](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Soulkeeping.md)
 	- Moved [Highflame Instrument](The_Aliffrume_Encyclopedia/Glossary.md#Highflame%20Instrument) to the glossary
