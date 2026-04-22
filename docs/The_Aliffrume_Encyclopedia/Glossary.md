@@ -88,6 +88,18 @@ Events or occurrences related to [soulfire](Intuitive%20Phenomena%20&%20Theory/P
 Noun.  
 The study of intuitive phenomena and their effects on material reality.
 
+### Soulflow
+Noun.  
+The average amount of [soulfire](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md) one can produce at peak output, typically measured in units of lead-gallons per minute (Pbgal / minute), a unit of mass per time equal to about 0.72 kg/s. A good rate for a new, but practiced [firekeeper](Glossary.md#Firekeeper) is roughly 18 kg/s (25 Pbgal/min), with prodigal rates scraping 104 kg/s (144 Pbgal/min).
+
+### Gimpowder
+Noun.  
+Powderized [gimyndine](Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md), typically low-grade; often used for constructing completely autonomous phlogistic devices.
+
+### Coupling Limit
+Noun.  
+A quantity directly related to a material's mass, which describes what volume of standard-mass [soulfire](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md) can be coupled to it before [gimyndization](Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md#Gimyndization) sets in.
+
 ### Highflame Instrument
 Noun.  
 Instruments belonging to the highflame class of firekeeping, i.e. that having to do with professional-grade [gimyndine](../../Intuitive%20Phenomena%20&%20Theory/Soulfire/Gimyndine/Gimyndine.md) or [soulfire](../../Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md). Such instruments are typically involved with the outfitting of [firekeepers](../../Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md), but can also be found in industrial production or wealthy private-sector commissions.

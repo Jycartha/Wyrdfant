@@ -1,0 +1,2 @@
+# Soulware
+Arrangements of [flamescript](../../Intuitive%20Phenomena%20&%20Theory/Soulfire/Flamescript.md) intended to be "installed" within one's soul plane for the purposes of [phlogistic computing](../../Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md), and an essential component of advanced [reckoning](../../Intuitive%20Phenomena%20&%20Theory/Firekeeping/Reckoning.md).

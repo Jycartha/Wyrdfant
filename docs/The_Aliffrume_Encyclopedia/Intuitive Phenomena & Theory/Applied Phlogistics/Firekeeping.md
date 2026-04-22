@@ -12,11 +12,31 @@ All life can control ambient [Soulfire](../Pure%20Phlogistics/Soul/Soulfire.md) 
 
 ## Fields of Firekeeping
 ### Artifice
+The design of small-scale phlogistic devices, intended to be operated by a single [firekeeper](../../Glossary.md#Firekeeper). Often involves complex but low-power engrams.
+
+### Soulkeeping
+[Soulkeeping](Soulkeeping.md) involves techniques specific to self-aligned soulfire, including but not limited to [bloodfont and blood infusion](Soulkeeping.md#Bloodfont), [divinities](Soulkeeping.md#Divinities), [refinement](../Pure%20Phlogistics/Soul/Soul.md#Refinement), [soul assertion](../Soulfire/Soul%20Assertion.md), and [reckoning](../Firekeeping/Reckoning.md).
+
 ### Arterial Arts
+Techniques related to functions of the [Arteries](../../Anthropology/Government/Arteries%20(Organization).md), intended to purge shades and support plant growth. Includes corporeal enhancement, all the techniques of [soulkeeping](Soulkeeping.md), training in the creation of various [soulfire aspects](../Pure%20Phlogistics/Soul/Soulfire.md#Aspects) for effectiveness against phantasms, performing [soul assertion](../Soulfire/Soul%20Assertion.md) on others, and promoting plant growth.
+
 ### Coupled Engineering
+The design of large-scale, industrial machinery designed to be operated my multiple firekeepers or autonomously using [gimpowder](../../Glossary.md#Gimpowder). 
+
 ### Phlogistic Computing
+See [phlogistic computing](Phlogistic%20Computing.md)
+
 ### Phlogistic Engineering
+The design of [soulware](../../Technology/Soulware/Soulware.md) and other devices contained entirely within the [Conscious Plane](../Pure%20Phlogistics/Conscious%20Plane/Conscious%20Plane.md).
+
 ### Ichorcraft
+The design of [ichorous](../../Glossary.md#Ichorous) items, referred to as [ichorware](../../Technology/Highflame%20Instruments/Ichorware.md), including prefabricated [plane projections](../Soulfire/Plane%20Projection.md) and much of high-level artifice.
+
 ### Synthesis
+[Synthesis](../../Anthropology/Economics/Synthesizer.md) is the practice of utilizing complex visualization, [infusion](../Soulfire/Interactions/Infusion.md), and [meldcraft](Meldcraft.md) engrams to construct complex materials.
+
 ### Soulsmithing
+[Soulsmithing](Soulsmithing.md) is the practice of forging metal utilizing the techniques of [meldcraft](Meldcraft.md), increasing the item's [coupling limit](../../Glossary.md#Coupling%20Limit) and generally being safer, more precise, and requiring less physical effort than traditional forging methods.
+
 ### Oversense
+The design of [engrams](../Pure%20Phlogistics/Engram.md) which construct additional senses, such as the prototypical [oversense](../../Technology/Notable%20Engrams/Oversense.md) which allowed for arbitrarily precise truly three-dimensional spatial perception.
