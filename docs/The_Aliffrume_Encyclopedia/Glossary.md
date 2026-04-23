@@ -86,7 +86,7 @@ Events or occurrences related to [soulfire](Intuitive%20Phenomena%20&%20Theory/P
 
 ### Phlogistics
 Noun.  
-The study of intuitive phenomena and their effects on material reality.
+The study of [intuitive phenomena](Glossary.md#Intuitive%20Phenomena) and their effects on material reality.
 
 ### Soulflow
 Noun.  
@@ -107,6 +107,10 @@ Instruments belonging to the highflame class of firekeeping, i.e. that having to
 ### Ichorous
 Adj.  
 Related to or composed of [ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md).
+
+### Ichorcraft
+Noun.  
+The design of [ichorous](../../Glossary.md#Ichorous) items, referred to as [ichorware](../../Technology/Highflame%20Instruments/Ichorware.md), including prefabricated [plane projections](../Soulfire/Plane%20Projection.md) and much of high-level artifice.
 
 ### Pneumaphilic
 Adj.  
@@ -158,11 +162,11 @@ A [firekeeper](Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md) spe
 ### Phlogistician
 Noun.  
 1. Generally, any researcher of [phlogistics](Glossary.md#Phlogistics).
-2. Specifically, a researcher of intuitive phenomena confined to the [Conscious Plane](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane/Conscious%20Plane.md) and their causes, interactions, and structure, otherwise referred to as ennology. Notably distinct from firekeepers.
+2. Specifically, a researcher of intuitive phenomena confined to the [Conscious Plane](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Conscious%20Plane/Conscious%20Plane.md) and their causes, interactions, and structure, otherwise referred to as [noelogy](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Noelogy.md). Notably distinct from firekeepers.
 
-### Ennologist
+### Noelogist
 Noun.  
-A researcher of [ennology](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Ennology.md), the study of intuitive phenomena confined to the conscious plane.
+A researcher of [noelogy](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Noelogy.md), the study of "pure" [intuitive phenomena](Glossary.md#Intuitive%20Phenomena) confined to the conscious plane.
 
 ## Species Names
 * [Llantakúna](Natural%20Sciences/Biology/Sapient%20Species/Llantakúna.md) : \[Yan-ta-ku-na\] /jɑntakyna/
@@ -184,6 +188,10 @@ A researcher of [ennology](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogist
 	* Marmjögur : \[Marm-yo-gur\]
 * [Rokajun](Natural%20Sciences/Biology/Sapient%20Species/Rokajun.md) : \[Roe-ka-june\]
 ## Chronology
+### Cycle
+Noun.  
+Approximately 660.5 days; the time it takes for Aliffrüme to complete one orbit around 
+
 ### Generation
 Noun.  
 12 cycles, or 24 semicycles. Used as a threshold for adulthood in many cultures.

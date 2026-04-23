@@ -35,9 +35,10 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ### Writings
 - Post a short story here before summer's end; possibilities:
 	- How Reinlutre lost her vision (basically a prologue, happens immediately prior to [Indelible](/writings/Indelible/README.md))
-	- Ashjërunei's encounter with Alfiürwit, lackadaisical dragon and Drüten of the Arenfürich Arteries
+	- Ashjërunei's encounter with Alfiürwit, [grandcycles](The_Aliffrume_Encyclopedia/Glossary.md#Grandcycle)-old dragon and Drüten of the Arenfürich Arteries
 ### Encyclopedia
-- Continue developing the Encyclopedia in:
+- Continue developing the Encyclopedia:
+	- Specify how [engrams](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Engram.md) are utilized
 	- Expand [Phlogistic Computing](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md)
 	- Clarification on momentum conservation
 	- Clean up and modernize [Organizations](The_Aliffrume_Encyclopedia/Chronology/Organizations/Organizations.md)
@@ -50,11 +51,15 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
+- **4/23/2026**
+	- Extracted the contents of **Astronomy** to various sub-articles, such as [Aliffrüme](The_Aliffrume_Encyclopedia/Natural%20Sciences/Astronomy/Planets/Aliffrüme.md), [Reinbrüne](The_Aliffrume_Encyclopedia/Natural%20Sciences/Astronomy/Reinbrüne.md), and [Emrall’s Army](The_Aliffrume_Encyclopedia/Natural%20Sciences/Astronomy/Notable%20Objects/Emrall’s%20Army.md)
+	- Renamed [Noelogy](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Noelogy.md) and associated definitions
+	- Updated [Witafjürgen University](The_Aliffrume_Encyclopedia/Chronology/Organizations/Witafjürgen%20University.md) with revised names and colleges
 - **4/21/2026**
 	- Updated [Kindlegem](The_Aliffrume_Encyclopedia/Technology/Kindlegem.md)
 	- Moved [Flamebearer](The_Aliffrume_Encyclopedia/Glossary.md#Flamebearer) to its glossary entry
 	- Added a "titles" section to the glossary
-	- Renamed and cleaned up [Ennology](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Ennology.md)
+	- Renamed and cleaned up [Noelogy](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Noelogy.md)
 	- Added miscellaneous definitions to the glossary
 	- Filled out some denominations of [Firekeeping](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Firekeeping.md)
 	- Filled in [Glassrot](The_Aliffrume_Encyclopedia/Natural%20Sciences/Biology/Conditions/Glassrot.md)

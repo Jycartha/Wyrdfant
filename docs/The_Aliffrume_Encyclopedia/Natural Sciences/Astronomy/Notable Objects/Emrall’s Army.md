@@ -1,0 +1,2 @@
+# Emrall’s Army
+The colloquial term for the destroyed supermassive ring of Hythean-era satellites surrounding Aliffrüme. As they travel across the sky, they resemble millions of faint emerald glimmers shooting across the heavens, one of many reasons for the association of the color green with holiness and divinity.
