@@ -3,18 +3,16 @@ aliases:
   - phlogistic computing
 ---
 # Phlogistic Computing
-The practice of careful, deliberate control over the motions of soulfire for the purposes of computation. The structured engram responsible for abstracting such computation is referred to as a thought engine. It is sometimes thought that the brain encodes a thought engine of some kind.
-<!-- 
-Analog computer: turns continuous input signals into continuous output signals.
-Digital computer: turns discrete input into discrete output
-
-TO-DO:
-- Processor (encoding logic)
-- Data Transfer
-- Data Storage
- -->
+The practice of careful, deliberate control over the motions of soulfire for the purposes of computation. The structured engram responsible for abstracting such computation is referred to as a *thought engine*. It is sometimes thought that the brain encodes a thought engine of some kind.
  
 ## Theory
+### Cellular Paradigm
+The vast majority of phlogistic computing is based upon partitioning an arbitrary volume of a soul plane into *autonomous cells,* which typically are simple [symbols](../../Glossary.md#Symbol) formed into more complicated machinery. Each cell is often partitioned from its neighbors by a thin wall of flamescript, which the cell mutates in response to changes in its neighbors according to its programming.
+
+Notably, one's choice of honeycomb for their cell structure is essential to what programs they are able to handle, in particular the number of faces an individual cell has, and thus how many connections. Beginners employ a simple cubic honeycomb with 6 faces, while general applications typically employ a rhombic dodecahedral with 12. Highly complex programs which require even more complicated cells might even require a bitruncated cubic, with 14.
+
+### Information Transfer
+### Information Storage
 
 ## Applications
 The theory finds itself applied to almost every conceivable field, but most notably those of computation and [reckoning](../Firekeeping/Reckoning.md), of which there is a distinct difference between the two.

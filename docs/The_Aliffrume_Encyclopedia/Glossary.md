@@ -79,6 +79,10 @@ Noun.
 Noun.  
 A soulkeeper who practices [phlogistic computing](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md) within their soul plane.
 
+### Symbol
+Noun.  
+An indivisible atom of thought, a foundational concept. Within [phlogistic computing](Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md), typically represents some type of simple logic gate, or a fundamental value such as a number, morpheme, character, etc.
+
 ## General Phlogistics
 ### Intuitive Phenomena
 Noun.  
