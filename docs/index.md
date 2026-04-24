@@ -52,7 +52,7 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ## Changelog
 :::
 - **4/24/2026**
-	- 
+	- Began work on [Phlogistic Computing](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md)
 - **4/23/2026**
 	- Extracted the contents of **Astronomy** to various sub-articles, such as [Aliffrüme](The_Aliffrume_Encyclopedia/Natural%20Sciences/Astronomy/Planets/Aliffrüme.md), [Reinbrüne](The_Aliffrume_Encyclopedia/Natural%20Sciences/Astronomy/Reinbrüne.md), and [Emrall’s Army](The_Aliffrume_Encyclopedia/Natural%20Sciences/Astronomy/Notable%20Objects/Emrall’s%20Army.md)
 	- Renamed [Noelogy](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Noelogy.md) and associated definitions
